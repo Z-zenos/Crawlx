@@ -1,0 +1,1405 @@
+{
+  "count": 200,
+  "data": [
+    {
+      "address": "156 Lạc Trung, P. Thanh Lương, Hai Bà Trưng, Hà Nội",
+      "name": "Ding Tea - Lạc Trung",
+      "latitude": 21.0031681,
+      "longitude": 105.8647128,
+      "description": "Apostolus compello alias paulatim tamquam vulnus totus altus. Tempore usus defero curia decens crapula benigne minus appello. Torqueo torqueo sum."
+    },
+    {
+      "address": "Số 7 Ngõ 191 Minh Khai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa & Trà Trái Cây - Tiệm Nước Ép 1991",
+      "latitude": 20.9960862,
+      "longitude": 105.8587499,
+      "description": "Auditor solvo cornu considero stipes asperiores quas. Contego derideo degusto barba conqueror carbo aegrus facere. Vado baiulus armarium concido artificiose damno ventus."
+    },
+    {
+      "address": "118 E7 Ngõ 6 Quỳnh Mai, P. Quỳnh Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Tiệm Ăn Vặt Chóp Chép - Ăn Vặt - Quỳnh Mai",
+      "latitude": 21.0017443,
+      "longitude": 105.8609916,
+      "description": "Appositus beatus torrens ullus perferendis voveo praesentium vulnus desolo. Vinitor umquam solus cohibeo pariatur deleo bellicus. Quam demulceo similique accusamus vitiosus despecto comes tenax ascisco strenuus."
+    },
+    {
+      "address": "Kiot 16, Ngõ 124 Vĩnh Tuy, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Nước Ép Trái Cây Khổng Lồ 1991",
+      "latitude": 21.0007683,
+      "longitude": 105.8766842,
+      "description": "Ventosus spiculum caste vae creo. Conduco carus campana concido tamen amicitia curia deinde degusto. Fugiat neque accusamus tutamen conicio appositus vivo officia crux."
+    },
+    {
+      "address": "Kiot 12, 124 Vĩnh Tuy, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Như Ý Quán - Sinh Tố & Nước Ép",
+      "latitude": 21.00025478,
+      "longitude": 105.87697507,
+      "description": "Creo vis sollers ancilla versus voluptas. Depromo cicuta agnosco comptus. Condico expedita audio inflammatio apostolus suppono desparatus."
+    },
+    {
+      "address": "Số 12 ngõ 124 Vĩnh Tuy, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Tờ Choang Quán - Nước Ép Sinh Tố, Bánh Tráng & Đồ Ăn Vặt - Vĩnh Tuy",
+      "latitude": 21.00012859,
+      "longitude": 105.87690158,
+      "description": "Ter sophismata velut talio vinco consuasor decens amplitudo vorax coaegresco. Ullam volaticus virtus vinculum arbustum acerbitas ager. Cometes conicio theatrum illo qui."
+    },
+    {
+      "address": "Sảnh A, Chung Cư Imperia Sky Garden, Số 423 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Bếp Nhà Sonn - Cơm Văn Phòng -  Minh Khai",
+      "latitude": 20.99846,
+      "longitude": 105.866917,
+      "description": "Xiphias aqua voluptates ipsam talis vester vulnero quae vix demonstro. Debeo peccatus ars capio ex celebrer. Ocer crux tergum tantum concedo."
+    },
+    {
+      "address": "15 Ngõ 40 Phố Võ Thị Sáu, P. Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "name": "Tiệm Ăn 204 - Võ Thị Sáu",
+      "latitude": 21.007676,
+      "longitude": 105.853266,
+      "description": "Vulpes copiose conventus sponte. Acervus casso terra. Amitto vis talio velociter."
+    },
+    {
+      "address": "79 Hồng Mai, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội",
+      "name": "The 1989 - Trà Sữa Muối Biển - Hồng Mai",
+      "latitude": 20.998792,
+      "longitude": 105.853799,
+      "description": "Aperiam acies sint timor crepusculum ademptio vitae. Animadverto amaritudo cultura cribro. Texo soluta turba odio soluta appello vigilo cuius."
+    },
+    {
+      "address": "50A Đường Lê Đại Hành, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Cheese Coffee - Lê Đại Hành",
+      "latitude": 21.01179238,
+      "longitude": 105.84822982,
+      "description": "Alveus sint comitatus aurum pecco. Clamo degusto alter impedit astrum velociter. Dolorum atrocitas civitas corona."
+    },
+    {
+      "address": "66 Trần Đại Nghĩa, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tocotoco - Trần Đại Nghĩa",
+      "latitude": 21.00104893,
+      "longitude": 105.8451066,
+      "description": "Eum atque acervus adsuesco acerbitas sonitus uredo adsum crur coma. Pectus acidus suscipit. Error comis suppellex cui video appositus videlicet valens talus."
+    },
+    {
+      "address": "149A Lò Đúc, P. Đống Mác, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tocotoco - Lò Đúc",
+      "latitude": 21.0108652,
+      "longitude": 105.85992177,
+      "description": "Comitatus desino eaque optio certus creator. Fugiat depromo cresco sortitus concido cattus derideo concedo vicinus abstergo. Illum commodo deputo ultio."
+    },
+    {
+      "address": "48 Trần Nhân Tông, P. Nguyễn Du, Hai Bà Trưng, Hà Nội",
+      "name": "Highlands Coffee - 48 Trần Nhân Tông",
+      "latitude": 21.016969,
+      "longitude": 105.848926,
+      "description": "Terreo audeo cernuus sub ancilla vox celo taceo. Advoco veritas approbo. At corrumpo totidem ad alienus natus articulus."
+    },
+    {
+      "address": "172 Triệu Việt Vương, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa 172 - Triệu Việt Vương",
+      "latitude": 21.0123015,
+      "longitude": 105.85037202,
+      "description": "Advoco surculus candidus adsidue clementia beatae statim. Una comptus testimonium cometes suffoco ultio. Animi decimus vitae ulciscor ubi angulus ut."
+    },
+    {
+      "address": "314 Bà Triệu, Hai Bà Trưng, Hà Nội",
+      "name": "Starbucks Coffee - Bà Triệu",
+      "latitude": 21.01068,
+      "longitude": 105.849047,
+      "description": "Stabilis bibo ocer debilito denuncio. Virgo argumentum atque. Sopor agnosco degenero toties volo nobis clarus tertius aperio."
+    },
+    {
+      "address": "259A Bạch Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tocotoco - 259A Bạch Mai",
+      "latitude": 21.00299564,
+      "longitude": 105.85117735,
+      "description": "Aperiam minima comptus. Asporto agnitio reiciendis contabesco theatrum cenaculum dolore. Altus fugit adsuesco cenaculum conforto vestrum auditor comedo vulnus terror."
+    },
+    {
+      "address": "140A P. Lò Đúc, Tổ dân phố 2A, P. Đống Mác, Hai Bà Trưng, Hà Nội",
+      "name": "Ding Tea - Lò Đúc",
+      "latitude": 21.01283,
+      "longitude": 105.85838,
+      "description": "Contego abstergo cohaero tertius alienus denuncio calamitas stella. Sustineo succedo placeat. Eligendi valens nostrum aequitas decipio dolore."
+    },
+    {
+      "address": "24 Ngõ 128C Đại La, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",
+      "name": "Phê La - Đại La",
+      "latitude": 20.99748102,
+      "longitude": 105.84322947,
+      "description": "Asper tantum tristis cresco bardus. Conspergo tot vitae caute nesciunt apto speculum ipsam. Vorago denuncio vesica vorax harum contego."
+    },
+    {
+      "address": "Số 24 Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Ah Ma Handmade - Lê Đại Hành",
+      "latitude": 21.0100977,
+      "longitude": 105.8498,
+      "description": "Perspiciatis tamen adulatio calamitas vester defetiscor aeternus. Voro beatus appello voluptatibus. Depulso video eius solus virgo supplanto cresco vomito maiores."
+    },
+    {
+      "address": "310 P. Chùa Quỳnh, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội",
+      "name": "Family Chicken - Gà Rán, Bánh Gà & Đồ Ăn Vặt - Chùa Quỳnh",
+      "latitude": 20.99950824,
+      "longitude": 105.85350184,
+      "description": "Audio tristis patria sopor. Angustus tabula vulnus adeo tripudio vapulus tutamen. Trado vel vito adstringo commodo pecto cetera voluptatum annus."
+    },
+    {
+      "address": "168 Lò Đúc, P. Phạm Đình Hồ, Hai Bà Trưng, Hà Nội",
+      "name": "Master Tea 美茶 - Lò Đúc",
+      "latitude": 21.01238759,
+      "longitude": 105.85893133,
+      "description": "Carmen atque audentia conatus cado dapifer decipio teneo verto arbor. Suppono distinctio defaeco aeneus minima corona theologus saepe agnosco tantum. Collum tabella usque esse pauci cognomen cometes caritas."
+    },
+    {
+      "address": "307C Bạch Mai, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Feeling Tea - Bạch Mai",
+      "latitude": 21.00237,
+      "longitude": 105.85074,
+      "description": "Bos clamo caput temeritas angelus vilitas aeneus vallum paulatim. Admoneo subseco suffragium. Aveho temeritas cupiditas dapifer."
+    },
+    {
+      "address": "459 Bạch Mai, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tocotoco - 459 Bạch Mai",
+      "latitude": 20.9977,
+      "longitude": 105.850213,
+      "description": "Adnuo depraedor super voco culpo amo comptus. Cavus turpis capio unde abduco. Spargo campana conscendo."
+    },
+    {
+      "address": "2C Thái Phiên, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Yu Tang - Trà Sữa & Mỳ Đài Loan - Thái Phiên",
+      "latitude": 21.010575,
+      "longitude": 105.85151,
+      "description": "Deputo amet vitium. Commodi damno admoveo. Casso cupiditate vicissitudo crebro."
+    },
+    {
+      "address": "178 Chùa Quỳnh, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội",
+      "name": "Kloud Tea - Trà Sữa Homemade",
+      "latitude": 20.9995997,
+      "longitude": 105.8568358,
+      "description": "Corrigo verto cunae. Laboriosam color tego aureus audax barba benigne copiose bonus. Vulticulus tenuis civitas adipiscor."
+    },
+    {
+      "address": "66 - 68 Trần Xuân Soạn, P. Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội",
+      "name": "Phúc Long Trần Xuân Soạn",
+      "latitude": 21.017005,
+      "longitude": 105.853057,
+      "description": "Spargo ad derideo cattus inflammatio clementia avaritia urbs. Vergo tribuo utor cohaero aliqua celo conor quisquam antea triumphus. Aut carus valeo barba."
+    },
+    {
+      "address": "Gian 02, Tầng 1, Toà Nhà Hoàng Thành, 114 Mai Hắc Đế, P. Phường Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "KOI Thé - Hoàng Thành",
+      "latitude": 21.01022565,
+      "longitude": 105.85065693,
+      "description": "Copiose alo admoveo atqui timor ex carbo arbitro umbra. Deripio ea unus ascisco. Aureus coaegresco earum tergiversatio."
+    },
+    {
+      "address": "25 Lạc Trung, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Sky Juice - Sinh Tố, Nước Ép & Nước Mía",
+      "latitude": 21.00305424,
+      "longitude": 105.86459931,
+      "description": "Aperio victus paens velum tremo adfero averto basium. Subito adopto praesentium supra. Assentator abeo tamquam."
+    },
+    {
+      "address": "34 Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "The Alley - Trà Sữa Đài Loan - Lê Đại Hành",
+      "latitude": 21.011201,
+      "longitude": 105.8486,
+      "description": "Brevis confugo cunctatio amissio acer culpo contego confero calcar. Terminatio creptio arceo vulnero quibusdam nostrum. Tonsor arca templum stillicidium."
+    },
+    {
+      "address": "108E5 Tạ Quang Bửu, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Mixue - Tạ Quang Bửu",
+      "latitude": 21.002127,
+      "longitude": 105.849207,
+      "description": "Corrupti fuga despecto. Suppellex sperno vester alveus somniculosus infit solitudo audentia adamo dicta. Quis capio tergum audeo soleo."
+    },
+    {
+      "address": "42E7 Tạ Quang Bửu, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "Gold’s Chicken - Gà Rán Hàn Quốc - Tạ Quang Bửu",
+      "latitude": 21.001431,
+      "longitude": 105.849301,
+      "description": "Constans sono trucido necessitatibus concido terebro numquam aeternus adulescens. Acer vado ex aiunt creator appositus acquiro. Averto confido collum spoliatio ulciscor inflammatio."
+    },
+    {
+      "address": "117 Lò Đúc, P. Phạm Đình Hổ, Hai Bà Trưng, Hà Nội",
+      "name": "Quẩy Đùi Gà, Trà sữa - Ngọc Linh - Lò Đúc",
+      "latitude": 21.01482967,
+      "longitude": 105.85733954,
+      "description": "Averto qui venustas adaugeo. Commodi desolo uter sono vulnus vel temperantia vado. Non denuo curto caste hic adhuc suggero odio demulceo."
+    },
+    {
+      "address": "91 Trần Đại Nghĩa, Hai Bà Trưng, Hà Nội",
+      "name": "Highlands Coffee - ĐH Bách Khoa",
+      "latitude": 21.00411911,
+      "longitude": 105.84559604,
+      "description": "Sum debilito vivo molestias vobis conventus totus sequi. Assumenda barba eveniet cito succedo spes vehemens. Dignissimos cogo cubitum spargo textus tabernus animi."
+    },
+    {
+      "address": "9 Đại Cồ Việt, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Bobapop - Đại Cồ Việt",
+      "latitude": 21.0085214,
+      "longitude": 105.8502428,
+      "description": "Taedium claro claudeo pauci altus aedificium ciminatio. Sunt accommodo tribuo aequus coniuratio aedificium deputo. Subito confido baiulus sponte tandem depopulo."
+    },
+    {
+      "address": "406 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Feeling Tea - Minh Khai",
+      "latitude": 20.99672225,
+      "longitude": 105.86418178,
+      "description": "Tolero coadunatio allatus alo quo delectus cinis occaecati. Inflammatio contra explicabo est. Deripio debilito utrimque volutabrum libero magnam."
+    },
+    {
+      "address": "Phòng Khám Đa Khoa Quốc Tế Vinmec, Times City, 458 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Starbucks Coffee - Vinmec Times City",
+      "latitude": 20.996384,
+      "longitude": 105.866976,
+      "description": "Vinum ara arbor. Comminor cum arbitro quod tener coruscus vociferor caste taedium turbo. Illum utor ipsa dens caute vorax corrumpo deleo viduo odio."
+    },
+    {
+      "address": "23 Hồng Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Linh Juice 23 - Nước Ép Healthy & Đồ Ăn Vặt Ngon",
+      "latitude": 21.000849,
+      "longitude": 105.851057,
+      "description": "Thymbra succurro correptius cito. Itaque consequuntur verbum tutis antepono tantum caelestis tenax tonsor cupressus. Textus solio vado celo avarus derideo tempus cubicularis facilis."
+    },
+    {
+      "address": "422 Trần Khát Chân, P. Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Feeling Tea - Trần Khát Chân",
+      "latitude": 21.00965934,
+      "longitude": 105.85581152,
+      "description": "Conforto vulgus dicta subito. Terror adduco avaritia omnis aveho theatrum. Acerbitas caries capillus barba."
+    },
+    {
+      "address": "23 Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Ding Tea - Lê Đại Hành",
+      "latitude": 21.010043,
+      "longitude": 105.849801,
+      "description": "Sufficio alter centum recusandae corrumpo termes teneo antepono solum sollicito. Defetiscor cometes volubilis sollers deprecator texo. Theologus carbo inventore."
+    },
+    {
+      "address": "69 Trần Đại Nghĩa, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "Phúc Long Trần Đại Nghĩa",
+      "latitude": 21.006492,
+      "longitude": 105.845447,
+      "description": "Cubitum deripio vapulus veritatis varius sulum utroque cubitum congregatio. Crastinus quos thorax. Ab aurum cedo tremo quos decipio crudelis collum ipsum antea."
+    },
+    {
+      "address": "18 Tam Trinh, Hai Bà Trưng, Hà Nội",
+      "name": "Highlands Coffee - VTC Online",
+      "latitude": 20.994765,
+      "longitude": 105.862163,
+      "description": "Delectus cicuta vomer asper in cervus est. Animus tunc copia modi. Comparo suasoria ventus callide adiuvo cras curso territo."
+    },
+    {
+      "address": "425 Bạch Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Ding Tea - Bạch Mai",
+      "latitude": 20.99900921,
+      "longitude": 105.85042398,
+      "description": "Arcus arguo amet adversus uberrime collum supplanto. Teneo strenuus depraedor acquiro arcus patior artificiose contego. Communis adstringo nisi adhaero paens."
+    },
+    {
+      "address": "54-56 Đường Thời Đại - Hầm B1 TTTM Times City, 458 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Yu Tang - Trà Sữa & Mỳ Đài Loan - Times City",
+      "latitude": 20.9947788,
+      "longitude": 105.8683091,
+      "description": "Curiositas textus ustulo comitatus curis vero. Attollo suscipio aetas bibo aufero vigilo. Vere dedecor averto."
+    },
+    {
+      "address": "75 Mai Hắc Đế, P. Bùi Thị Xuân, Hai Bà Trưng, Hà Nội",
+      "name": "Rau Má Lá - Nước Dừa & Sữa Đậu Nành - Mai Hắc Đế",
+      "latitude": 21.01396104,
+      "longitude": 105.85115421,
+      "description": "Exercitationem vesper avarus defaeco vehemens. Commemoro sophismata comminor conatus decerno dignissimos ex. Solum demens cresco."
+    },
+    {
+      "address": "244A Minh Khai, P. Minh Khai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tocotoco - Minh Khai",
+      "latitude": 20.995111,
+      "longitude": 105.856361,
+      "description": "Decumbo anser tres thermae textilis patruus tempus defluo sub. Bestia absconditus maxime distinctio nesciunt stella. Attonbitus terminatio coerceo cilicium."
+    },
+    {
+      "address": "774 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Panna Cotta - Đại Đỉnh Trà Sữa - 774 Minh Khai",
+      "latitude": 21.002272,
+      "longitude": 105.8702217,
+      "description": "Venio cavus avaritia tepidus desino vulgivagus denuo numquam corrigo. Temperantia dicta asporto undique iure succurro artificiose deserunt. Defaeco utrum communis pel corrumpo cimentarius vobis excepturi tantillus laborum."
+    },
+    {
+      "address": "101-k2 ngõ 48 Tạ Quang Bửu, Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "L\'U Coffee & Tea - 48 Tạ Quang Bửu",
+      "latitude": 21.000891,
+      "longitude": 105.848939,
+      "description": "Volubilis cauda sublime tandem voveo varietas. Tantum blanditiis cunabula vallum aequitas coma sordeo vomito convoco averto. Quae absens supra contego paulatim officia."
+    },
+    {
+      "address": "274 Kim Ngưu, P. Quỳnh Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tocotoco - Kim Ngưu",
+      "latitude": 20.999284,
+      "longitude": 105.861595,
+      "description": "Paens est aestivus admoveo. Timor vilitas eos desolo damno corrumpo. Vulnero iusto ullus harum benevolentia tabula crinis."
+    },
+    {
+      "address": "Tầng 1, Toà Nhà T5, Times City, 458 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Highlands Coffee - Times City",
+      "latitude": 20.9967685,
+      "longitude": 105.8679593,
+      "description": "Terebro utique voco debitis arbustum theologus carus deludo. Uxor tabula peior demitto maiores consectetur vinculum cotidie aequus antea. Asperiores aestus vobis conscendo."
+    },
+    {
+      "address": "1 Khán Đài B Sân Vận Động Bách Khoa (Đối Diện K1), Nguyễn Hiền, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "Tmore - Tiệm Trà Chanh - Bách Khoa",
+      "latitude": 21.00164,
+      "longitude": 105.84817,
+      "description": "Toties tego surgo vulariter vitae. Vestigium alo aut compello acerbitas. Triumphus cattus utpote crapula alveus delectatio nulla."
+    },
+    {
+      "address": "116 Ngõ 129 Trương Định, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Tuta Drink - Nước Ép & Sinh Tố - Shop Online",
+      "latitude": 20.99072892,
+      "longitude": 105.85093068,
+      "description": "Vapulus vox adinventitias turbo compono solus denuncio arca adulatio. Clibanus astrum ultra vicinus reprehenderit possimus capillus crur. Audentia inflammatio stips."
+    },
+    {
+      "address": "Số 107, K6B Ngõ 48 Phố Tạ Quang Bửu, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "True Juice - Nước Ép Hữu Cơ Online",
+      "latitude": 21.0003385,
+      "longitude": 105.8483481,
+      "description": "Adhuc tripudio sol comminor. Caecus ascit candidus id venia circumvenio abduco comedo voluptate claudeo. Tibi viscus tollo carbo vix adulescens."
+    },
+    {
+      "address": "71 Trần Đại Nghĩa, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "LaSiMi - Trà Ngon Đậm Vị - 71 Trần Đại Nghĩa",
+      "latitude": 21.00641,
+      "longitude": 105.84561,
+      "description": "Ipsum adfero atrocitas suggero sublime ascit. Triumphus corpus degero virgo tener ipsam. Adulescens sortitus traho arto tenax absum."
+    },
+    {
+      "address": "Số 29 Ngõ 124 Vĩnh Tuy, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "QUÁN LUCKY 86 - Nước Ép & Sinh Tố - Vĩnh Tuy",
+      "latitude": 21.0002151,
+      "longitude": 105.8769739,
+      "description": "Audeo benevolentia coma natus vilicus synagoga. Patrocinor amita toties. Volup condico dolorum."
+    },
+    {
+      "address": "69B Trương Định, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Te Amo - 69B Trương Định",
+      "latitude": 20.9941893,
+      "longitude": 105.84978424,
+      "description": "Stultus non compono at tollo super. Uter alter vomito deputo desidero tantum benigne alter. Patior trepide sursum teneo ad at iste."
+    },
+    {
+      "address": "624 Minh Khai, Giữa Trụ Cầu H5 - H6 Gầm Cầu Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Cafe Thọ - Minh Khai",
+      "latitude": 20.999624,
+      "longitude": 105.871867,
+      "description": "Defluo delicate delinquo demitto deleniti cena vir. Ver defetiscor spes. Quas maiores aperiam ut."
+    },
+    {
+      "address": "127 Lò Đúc, P. Đống Mác, Hai Bà Trưng, Hà Nội",
+      "name": "Highlands Coffee - Vinafor",
+      "latitude": 21.01322792,
+      "longitude": 105.85825503,
+      "description": "Volup architecto umbra curriculum accendo deduco. Tenax corroboro substantia aliquam aperiam cetera sequi umbra armarium. Cometes aequitas defendo speciosus adicio clibanus degusto absens."
+    },
+    {
+      "address": "08 - TT1B Khu Liền Kề Ngõ 622 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Hoàng Hà Bakery Coffee - Times City",
+      "latitude": 20.9956343,
+      "longitude": 105.8705412,
+      "description": "Talus ago colligo. Suspendo decet abundans consequatur tabesco vociferor titulus tibi aptus. Pariatur vel vesco."
+    },
+    {
+      "address": "51 Trần Khát Chân, P. Bạch Đằng, Hai Bà Trưng, Hà Nội",
+      "name": "Tmore - Tiệm Trà Chanh - Trần Khát Chân",
+      "latitude": 21.00893887,
+      "longitude": 105.86468404,
+      "description": "Tricesimus aequus concedo acsi. Admoneo uter dolores clibanus torrens brevis territo ambitus. Cognomen approbo crebro cum utroque certe alii addo."
+    },
+    {
+      "address": "218 Lạc Trung, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Mr Good Tea - Lạc Trung",
+      "latitude": 21.003066,
+      "longitude": 105.866618,
+      "description": "Adhaero capitulus ustilo. Vacuus thema vacuus mollitia. Thymbra suspendo vapulus sub."
+    },
+    {
+      "address": "520 Bạch Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Coco Nama Tea Bar - Bạch Mai",
+      "latitude": 20.99658613,
+      "longitude": 105.8504564,
+      "description": "Subnecto vinitor pel utor video depraedor suspendo cito atrocitas. Appello illo ipsam adeptio commemoro decet video sono adfectus adiuvo. Ultio validus velociter deficio aurum chirographum benevolentia deorsum calculus vaco."
+    },
+    {
+      "address": "110 Lò Đúc, P. Đống Mác, Hai Bà Trưng, Hà Nội",
+      "name": "Ô long đây - Lò Đúc",
+      "latitude": 21.01360357,
+      "longitude": 105.85767841,
+      "description": "Tyrannus coruscus sursum trans allatus. Armarium voro cito corrupti crepusculum decimus denuncio somniculosus adopto. Ascit capto censura ulciscor tendo avarus inflammatio asporto demitto acies."
+    },
+    {
+      "address": "116 Lò Đúc, P. Đồng Mác, Hai Bà Trưng, Hà Nội",
+      "name": "Đô Đô - Trà Sữa Đồng Giá - Lò Đúc",
+      "latitude": 21.01345414,
+      "longitude": 105.85782437,
+      "description": "Calculus clibanus tenax demens caute tenetur peccatus adaugeo comitatus. Defessus adinventitias rem apud carus. Natus verus adfero recusandae quam compono adulescens."
+    },
+    {
+      "address": "160 Lò Đúc, P. Đống Mác, Hai Bà Trưng, Hà Nội",
+      "name": "Annamoi - Trà & Cà Phê Thủ Công - Lò Đúc",
+      "latitude": 21.01244621,
+      "longitude": 105.85859581,
+      "description": "Porro contigo utilis trucido aduro abstergo. Tredecim coma admoneo talus caute cubitum volaticus ago theca. Deprecator ascit quas demum voro conforto caelum turbo sed absum."
+    },
+    {
+      "address": "T5 Times City, 458 Minh Khai, Hai Bà Trưng, Hà Nội",
+      "name": "Kafa Cafe - Times City",
+      "latitude": 20.99637,
+      "longitude": 105.8685,
+      "description": "Denique talis cuius cicuta videlicet ipsam repellendus nam. Tego universe distinctio pecco depopulo. Adopto cogo caecus dolorem acer corroboro traho."
+    },
+    {
+      "address": "34 Minh Khai, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Đào Dầm Peach City - Minh Khai",
+      "latitude": 20.9956337,
+      "longitude": 105.8506174,
+      "description": "Tactus demitto depopulo alioqui sufficio comes suus calculus. Temporibus civis studio condico clamo crinis stabilis. Desidero viscus commodo commodo cuppedia clibanus ulterius vobis uterque cupressus."
+    },
+    {
+      "address": "Hoàng Thành Tower, 114 Mai Hắc Đế, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Highlands Coffee - Hoàng Thành Tower",
+      "latitude": 21.011377,
+      "longitude": 105.850629,
+      "description": "Vomica aetas tutis apto ultio cogito. Volaticus synagoga confido quasi velit provident optio. Solvo vehemens voluptates caecus allatus animi uberrime."
+    },
+    {
+      "address": "TN-K3-K4, Vincom Mega Mall Times City, 458 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "KOI Thé - Vincom Times City",
+      "latitude": 20.996483,
+      "longitude": 105.869778,
+      "description": "Testimonium somnus summopere tabernus. Via thema appositus pecus usque ascit absconditus decretum adnuo minus. Tantillus copiose aliquid."
+    },
+    {
+      "address": "352 Lạc Trung, P. Thanh Lương, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tocotoco - Lạc Trung",
+      "latitude": 21.003113,
+      "longitude": 105.869268,
+      "description": "Texo spoliatio sortitus vehemens. Coerceo thesis carus amaritudo. Laudantium tyrannus demo aiunt corporis varius dolore."
+    },
+    {
+      "address": "20 Nguyễn Đình Chiểu, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Royaltea - 20 Nguyễn Đình Chiểu",
+      "latitude": 21.0141697,
+      "longitude": 105.8467568,
+      "description": "Carcer collum praesentium amicitia fuga. Sollers una absque sumo vesco nisi. Desparatus creta deporto annus."
+    },
+    {
+      "address": "38 Lê Đại Hành, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Kafa Cafe - Lê Đại Hành",
+      "latitude": 21.010472,
+      "longitude": 105.849419,
+      "description": "Infit optio convoco laudantium. Asperiores amoveo comminor adficio bibo crepusculum comburo trucido ullus tactus. Dolore vereor tyrannus animus desparatus ulterius deinde vicinus talus decipio."
+    },
+    {
+      "address": "412 Phố Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Pozaa Tea - Trà Sữa Đài Loan - Minh Khai",
+      "latitude": 20.99686,
+      "longitude": 105.86428,
+      "description": "Theologus fugiat vapulus conscendo. Aqua reiciendis adinventitias adipiscor vado ubi magni cito. Decumbo valde corpus defessus."
+    },
+    {
+      "address": "158 Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Royaltea - Trà Sữa Hồng Kông - Trương Định",
+      "latitude": 20.99200616,
+      "longitude": 105.84907849,
+      "description": "Vesco adeo cohibeo. Expedita usitas thalassinus velut cauda aperte apparatus suffoco eaque. Strues curiositas vulgaris."
+    },
+    {
+      "address": "Số 5 Nguyễn Huy Tự, Hai Bà Trưng, Hà Nội",
+      "name": "Nước Ép, Sinh Tố & Giải Khát Phúc An",
+      "latitude": 21.01393892,
+      "longitude": 105.8623809,
+      "description": "Accendo demitto eum cado. Crinis deleo laborum. Totidem umbra defendo eius desipio porro conor calco."
+    },
+    {
+      "address": "92 Lê Thanh Nghị, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "The Coffee House - Lê Thanh Nghị",
+      "latitude": 21.00361941,
+      "longitude": 105.84784904,
+      "description": "Uberrime attollo titulus debilito spoliatio. Vis totam peccatus aureus aeger ipsam. Uterque corporis numquam sublime conor iure sustineo confido adnuo cedo."
+    },
+    {
+      "address": "77 Hồng Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Nhật Bản MinMax",
+      "latitude": 20.998983,
+      "longitude": 105.853139,
+      "description": "Autem curis molestiae adsum. Crepusculum magnam amo sapiente cumque curis commodi molestias cogito. Pel adipiscor abutor."
+    },
+    {
+      "address": " Sảnh TTTM T5 Times City, 458 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "The Coffee House - 458 Minh Khai",
+      "latitude": 20.99632605,
+      "longitude": 105.86843744,
+      "description": "Dolorum deprecator tredecim debeo comparo tabesco vae iste. Conspergo cervus accommodo quidem vulnus aegrus antiquus tabgo. Esse victoria sponte provident error."
+    },
+    {
+      "address": "1 Yên Lạc, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tiger Hill - Yên Lạc",
+      "latitude": 20.99958941,
+      "longitude": 105.86261652,
+      "description": "Deduco demens teres thema ante trepide. Vicissitudo denuo sodalitas thesaurus. Sufficio thesis comminor sollicito artificiose cornu aurum cras."
+    },
+    {
+      "address": "67 Ngô Thì Nhậm, P. Phạm Đình Hổ, Hai Bà Trưng, Hà Nội",
+      "name": "Chadee - Tiệm Trà Thái Đậm Vị - Ngô Thì Nhậm",
+      "latitude": 21.01403971,
+      "longitude": 105.85364275,
+      "description": "Solitudo corporis utrimque. Suppellex odit stillicidium. Laudantium delicate suasoria animus victus totidem itaque vacuus demulceo verecundia."
+    },
+    {
+      "address": "Cầu Thang 2 Nhà H2, TT. Nguyễn Công Trứ, P. Phố Huế, Hai Bà Trưng, Hà Nội",
+      "name": "Phiêu Coffee And More - Healthy Food & Drink",
+      "latitude": 21.013501,
+      "longitude": 105.853164,
+      "description": "Audacia theatrum currus appello cruciamentum occaecati. Quidem altus sit. Absque conforto dignissimos cubicularis coerceo beatus."
+    },
+    {
+      "address": "2 Đoàn Trần Nghiệp, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Chanh Con Cá - Đoàn Trần Nghiệp",
+      "latitude": 21.011816,
+      "longitude": 105.851445,
+      "description": "Tunc curiositas teres adficio victus. Universe territo ter aureus cito tantum artificiose vinco. Thema adfero repellendus strues ab quas tam adnuo."
+    },
+    {
+      "address": "166 Lò Đúc, P. Đống Mác, Hai Bà Trưng, Hà Nội",
+      "name": "The Coffee House - Lò Đúc",
+      "latitude": 21.01218763,
+      "longitude": 105.85868704,
+      "description": "Amor sophismata cornu crebro iusto. Deludo alo creptio crastinus conicio. Titulus spiritus harum."
+    },
+    {
+      "address": "4 Thái Phiên, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "The Juice - Nước Ép Trái Cây Nguyên Chất",
+      "latitude": 21.010548,
+      "longitude": 105.850992,
+      "description": "Tamquam vinco aptus. Utrimque adversus verumtamen vergo aduro temperantia abscido colo. Adipisci vivo quos comes suppellex curto auditor vulgivagus."
+    },
+    {
+      "address": "Đối Diện 203 Ngõ Quỳnh, P. Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "name": "DÔTEA - Fruit Tea & Milk Tea - Ngõ Quỳnh",
+      "latitude": 21.0015681,
+      "longitude": 105.8553845,
+      "description": "Damno praesentium curso ulciscor aegrotatio amplitudo vulgus. Mollitia capillus deorsum crastinus casus callide timor sustineo thorax tantum. Terebro ultra amet tyrannus."
+    },
+    {
+      "address": "297 Trần Đại Nghĩa, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Mixue - 297 Trần Đại Nghĩa",
+      "latitude": 20.99592339,
+      "longitude": 105.84560828,
+      "description": "Bestia terra addo demonstro veritas. Accusantium tero surculus usitas sequi colligo crudelis tristis clementia adulescens. Torrens contra cometes ustilo cognomen exercitationem viridis."
+    },
+    {
+      "address": "182 Lò Đúc, P. Đống Mác, Hai Bà Trưng, Hà Nội",
+      "name": "Sky Juice - Sinh Tố, Nước Ép & Nước Mía - Lò Đúc",
+      "latitude": 21.01133056,
+      "longitude": 105.85948403,
+      "description": "Sursum calco vergo tego aliquid. Cubicularis cimentarius atrocitas. Venustas vinum complectus adsum animi atrox amor spargo torqueo avarus."
+    },
+    {
+      "address": "63 Tuệ Tĩnh, P. Nguyễn Du, Hai Bà Trưng, Hà Nội",
+      "name": "Citi Coffee",
+      "latitude": 21.015165,
+      "longitude": 105.849135,
+      "description": "Pecco brevis velit. Corrupti video pariatur corona appositus abeo vos. Collum tergo comminor statua vulariter paens umquam."
+    },
+    {
+      "address": "55 Đại Cồ Việt, Hai Bà Trưng, Hà Nội",
+      "name": "An Nhiên - Trà Bí Đao - Đại Cồ Việt",
+      "latitude": 21.008323,
+      "longitude": 105.846579,
+      "description": "Volo administratio uxor quos. Amiculum maxime delectus vomica cursus vere eveniet pecco ipsa. Tristis conatus omnis deserunt centum."
+    },
+    {
+      "address": "320 Bà Triệu, P.Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Ô Long Đây - Bà Triệu",
+      "latitude": 21.010583,
+      "longitude": 105.84925,
+      "description": "Coniuratio voluptas cornu ars. Claro aurum curso excepturi suus. Paulatim verecundia quod vulnero correptius pariatur tondeo."
+    },
+    {
+      "address": "65 Trần Nhân Tông, Hai Bà Trưng, Hà Nội",
+      "name": "Aha Cafe - Trần Nhân Tông",
+      "latitude": 21.017076,
+      "longitude": 105.848278,
+      "description": "Sodalitas spero solvo. Maiores una deporto. Appono taedium adopto sunt sublime cohaero cunabula."
+    },
+    {
+      "address": "93A Tuệ Tĩnh, P. Nguyễn Du, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Winggo - Trà Sữa Kem Trứng Nướng & Trà Hoa Quả - Tuệ Tĩnh",
+      "latitude": 21.01516797,
+      "longitude": 105.84747017,
+      "description": "Vita ex tergiversatio. Universe tot certus atqui creta tero capio pel arto. Careo terebro demo defendo dapifer."
+    },
+    {
+      "address": "428 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Đô Đô - Trà Sữa Đồng Giá - Minh Khai",
+      "latitude": 20.99705965,
+      "longitude": 105.86452487,
+      "description": "Callide clementia clibanus consuasor apud terminatio. Curtus solus tabula adamo agnosco. Subnecto absens caelestis acies omnis versus uterque turba."
+    },
+    {
+      "address": "77 Tuệ Tĩnh, P. Nguyễn Du, Hai Bà Trưng, Hà Nội",
+      "name": "Stereo Coffee - Tuệ Tĩnh",
+      "latitude": 21.0151546,
+      "longitude": 105.8483169,
+      "description": "Templum curtus corpus traho. Vestigium thymbra coepi suffragium triumphus. Termes suus sursum nemo antea sodalitas vero ancilla depraedor territo."
+    },
+    {
+      "address": "15 Ngõ 191 Minh Khai, P. Minh Khai, Hai Bà Trưng, Hà Nội",
+      "name": "Sinh Tố & Nước Ép 191",
+      "latitude": 20.99615064,
+      "longitude": 105.85873548,
+      "description": "Cinis super torrens quaerat. Caste crapula venia cometes uberrime facere candidus tunc voluptatum sunt. Crepusculum corporis veniam pecus."
+    },
+    {
+      "address": "71A Nguyễn Du, Hai Bà Trưng, Hà Nội",
+      "name": "THAIYEN CAFE - CAFEYEN - Nguyễn Du",
+      "latitude": 21.02041622,
+      "longitude": 105.84277945,
+      "description": "Contra aestas crepusculum suus confido barba peior corona. Synagoga cotidie campana avarus demulceo bellicus terga correptius. Capillus dicta subito."
+    },
+    {
+      "address": "122 Bùi Thị Xuân, Hai Bà Trưng, Hà Nội",
+      "name": "The Coffee House - 122 Bùi Thị Xuân",
+      "latitude": 21.01320057,
+      "longitude": 105.84981271,
+      "description": "Abeo spiritus verumtamen tremo attonbitus approbo ipsum advenio decet. Angustus verbum sto colligo atrocitas voluptates tardus aiunt. Ancilla ambitus careo cum vaco amitto numquam caelum."
+    },
+    {
+      "address": "209 Lê Duẩn, Hai Bà Trưng, Hà Nội",
+      "name": "The Coffee House - 209 Lê Duẩn",
+      "latitude": 21.0189827,
+      "longitude": 105.8414482,
+      "description": "Sursum depromo tripudio acer ter taceo aliquam sapiente vomica sustineo. Paulatim comis non. Victus vacuus defungo quod teneo conicio texo stips sodalitas defluo."
+    },
+    {
+      "address": "63 Tô Hiến Thành, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Rosier - Fresh Tea & Coffee - Tô Hiến Thành",
+      "latitude": 21.01339,
+      "longitude": 105.84842,
+      "description": "Dolorum vir modi. Theca sto molestias tactus theologus. Vicinus rerum stipes."
+    },
+    {
+      "address": "Tầng 5, TTTM Vincom Bà Triệu, 191 Bà Triệu, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Highlands Coffee - Vincom Bà Triệu",
+      "latitude": 21.01099417,
+      "longitude": 105.84936384,
+      "description": "Bis apostolus subnecto venio talio. Eum temeritas tabella usque taedium accedo alienus vulgaris colligo virga. Depono triumphus ventito eum cribro vulpes benevolentia."
+    },
+    {
+      "address": "215 Trần Đại Nghĩa, P. Đồng Tâm,, Hai Bà Trưng, Hà Nội",
+      "name": "Trà sữa Mixue - Trần Đại Nghĩa",
+      "latitude": 20.99846895,
+      "longitude": 105.84600127,
+      "description": "Thema vigilo trucido vulticulus ater vae terreo theologus. Rerum ait statua conturbo tres carpo aveho verecundia. Umquam absens adamo adipiscor ustulo apostolus curis terror tibi."
+    },
+    {
+      "address": "394 Bạch Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Happy Time - Bạch Mai",
+      "latitude": 21.000692,
+      "longitude": 105.850557,
+      "description": "Solio triumphus vulticulus vesper. Coniuratio aperiam vita. Celer dedico sunt aetas deleniti sordeo amicitia vaco."
+    },
+    {
+      "address": "431 Bạch Mai, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Đô Đô - Trà Sữa Đồng Giá - Bạch Mai",
+      "latitude": 20.9987279,
+      "longitude": 105.8506578,
+      "description": "Sordeo substantia tui claustrum demens. Perferendis alioqui coerceo strues velit creo amita. Laboriosam antepono vorago vomito absum tertius acsi aeneus caute summopere."
+    },
+    {
+      "address": "90 Võ Thị Sáu, P. Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "name": "Mana Juice - Nước Ép Quả Tươi Nguyên Chất - Võ Thị Sáu",
+      "latitude": 21.0045678,
+      "longitude": 105.8549314,
+      "description": "Vorago cumque vesica damno sortitus vulnus quam audeo. Surculus crux pel cito arbitro patruus thema uxor vigilo. Tactus addo auctor turpis arcus accusator acceptus impedit xiphias."
+    },
+    {
+      "address": "31 Thái Phiên, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Cộng Cà Phê - Thái Phiên",
+      "latitude": 21.010584,
+      "longitude": 105.849903,
+      "description": "Veritas molestias spargo derelinquo vobis caveo. Coniuratio amor bene video sponte curatio vulgus comprehendo. Desipio auctus mollitia sordeo."
+    },
+    {
+      "address": "48 Nguyễn Bỉnh Khiêm, P. Nguyễn Du, Hai Bà Trưng, Hà Nội",
+      "name": "Bay Coffee & Tea - Nguyễn Bỉnh Khiêm",
+      "latitude": 21.015371,
+      "longitude": 105.848556,
+      "description": "Ambitus concedo tamdiu veniam adeo. Nihil somnus cornu numquam arceo deserunt. Thalassinus adfectus ratione attero."
+    },
+    {
+      "address": "1 Cao Đạt, Hai Bà Trưng, Hà Nội",
+      "name": "PAI Coffee & Tea - Cao Đạt",
+      "latitude": 21.009695,
+      "longitude": 105.849859,
+      "description": "Uter sperno traho celebrer theologus avaritia. Alter patrocinor advoco totus somniculosus color. Spectaculum textus veritas pauper theologus statim aperte suffragium."
+    },
+    {
+      "address": "40 Phố Lạc Trung, P. Thanh Lương, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Winggo - Trà Sữa Kem Trứng Nướng & Trà Hoa Quả - Lạc Trung",
+      "latitude": 21.00314258,
+      "longitude": 105.86239134,
+      "description": "Vulgaris aequitas cultellus maiores. Decerno cubicularis talus eius beatae speculum sursum confugo cogo tumultus. Commodi ago deserunt dolor agnosco tracto."
+    },
+    {
+      "address": "56 Hương Viên, P. Đồng Nhân, Hai Bà Trưng, Hà Nội",
+      "name": "Premier - Coffee & Tea - Hương Viên",
+      "latitude": 21.011319,
+      "longitude": 105.856488,
+      "description": "Truculenter condico toties caute caelestis tondeo facere adhaero. Derelinquo vehemens tremo voluptatem talis. Eaque ager vulgus."
+    },
+    {
+      "address": "242T Minh Khai, P. Minh Khai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Mixue - 242T Minh Khai",
+      "latitude": 20.99546989,
+      "longitude": 105.85626119,
+      "description": "Tyrannus ulterius bos cribro vere delinquo. Utpote defungo reprehenderit celo usitas dedecor conduco adulescens venustas cunabula. Sto tero acquiro."
+    },
+    {
+      "address": "515 Minh Khai, P. Minh Khai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Mixue - 515 Minh Khai",
+      "latitude": 21.00008172,
+      "longitude": 105.87067636,
+      "description": "Votum cometes vociferor praesentium. Succedo ambitus bardus iste aer corrigo aequus. Adamo varius incidunt amitto conturbo tego valetudo terminatio non depraedor."
+    },
+    {
+      "address": "16 Hàng Chuối, P. Phạm Đình Hồ, Hai Bà Trưng, Hà Nội",
+      "name": "Len Art Cafe",
+      "latitude": 21.017448,
+      "longitude": 105.857149,
+      "description": "Paens tutamen unde ager crastinus magnam thymum velociter demonstro. Theatrum decens uterque conqueror acervus. Adsuesco solio autem atrox tabella avaritia attonbitus nisi valens ipsum."
+    },
+    {
+      "address": "177 Trần Đại Nghĩa, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Chanh Giã Tay GUANG DONG & Đồ Ăn Vặt - Trần Đại Nghĩa",
+      "latitude": 21.00036749,
+      "longitude": 105.8454922,
+      "description": "Sono veritatis pauper villa vallum demum ter accommodo tersus. Appello adnuo admiratio comminor eum vis esse. Corrigo suggero utpote deserunt cavus decor solum cuius admoveo."
+    },
+    {
+      "address": "54 Hàng Chuối, Hai Bà Trưng, Hà Nội",
+      "name": "Aha Cafe - Hàng Chuối",
+      "latitude": 21.015181,
+      "longitude": 105.858142,
+      "description": "Tempus alienus tunc succurro. Clamo congregatio audax deporto caries tres. Coadunatio derideo ultra uredo suasoria adulatio."
+    },
+    {
+      "address": "3 Hồ Xuân Hương, Hai Bà Trưng, Hà Nội",
+      "name": "MONO Coffee Lab - Hồ Xuân Hương",
+      "latitude": 21.0181457,
+      "longitude": 105.8489655,
+      "description": "Claustrum coniecto cometes curriculum concedo pariatur spiritus ultio compello circumvenio. Attonbitus constans centum reprehenderit vestigium. Uberrime amplus thorax aptus territo rerum sto armarium avaritia."
+    },
+    {
+      "address": "26 Tô Hiến Thành, Hai Bà Trưng, Hà Nội",
+      "name": "Aha Cafe - Tô Hiến Thành",
+      "latitude": 21.013418,
+      "longitude": 105.850107,
+      "description": "Vallum urbanus acsi. Illo vehemens agnitio conventus tertius ocer patior decens spoliatio admiratio. Vehemens auxilium spectaculum cohaero itaque stips bonus."
+    },
+    {
+      "address": "117 Lê Thanh Nghị, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Rosier - Fresh Tea & Coffee - Lê Thanh Nghị",
+      "latitude": 21.00168,
+      "longitude": 105.84329,
+      "description": "Caritas cito deficio sortitus umerus surgo cruentus ocer. Alias pecto arbitro inflammatio aptus supra civitas veritatis campana. Temeritas cimentarius communis super facere comparo deludo voro tracto."
+    },
+    {
+      "address": "Số 9 Ngách 61/33 Lạc Trung, Hai Bà Trưng, Hà Nội",
+      "name": "DOS CAFE - Lạc Trung",
+      "latitude": 21.001367,
+      "longitude": 105.8672,
+      "description": "Quis conculco constans cupressus illum vulgus condico adficio. Cum socius textor usus utroque thermae consequatur ventosus. Degusto absum sol teres teres at delectatio crur coniecto coruscus."
+    },
+    {
+      "address": "651 Minh Khai, P. Thanh Lương, Hai Bà Trưng, Hà Nội",
+      "name": "Cafe Muối Vân - 651 Minh Khai",
+      "latitude": 21.00399395,
+      "longitude": 105.86705857,
+      "description": "Demoror fugit verto paens aspicio. Acidus sponte vestigium vulnus bis carbo. Unde armarium valetudo averto eveniet."
+    },
+    {
+      "address": "116-C7A Quỳnh Lôi, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội",
+      "name": "Garden House - Rau Má Mix - Quỳnh Lôi",
+      "latitude": 21.001643,
+      "longitude": 105.859822,
+      "description": "Annus veritatis eum valetudo suffragium. Subvenio vitae turba administratio accendo bene amor vereor vicissitudo. Spero coruscus vilis tibi."
+    },
+    {
+      "address": "Tầng 5, L5 - 15A - 16 Vincom Bà Triệu, 191 Bà Triệu, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tocotoco - Vincom Bà Triệu",
+      "latitude": 21.011368,
+      "longitude": 105.849434,
+      "description": "Vehemens consequatur teres demulceo comedo casso vulnus antiquus soluta. Vel stabilis cras depulso utroque aptus. Vestigium adstringo advenio."
+    },
+    {
+      "address": "TĐ-K25-K26 TTTM Times City, 458 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Ding Tea - Times City",
+      "latitude": 20.99590228,
+      "longitude": 105.86880554,
+      "description": "Comis talis brevis aer. Appello accusantium theatrum cur calculus. Stabilis torqueo desolo."
+    },
+    {
+      "address": "108 K10B Nguyễn Hiền (Đối Diện ĐH Mở HN), P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "Tmore - Tiệm Trà Chanh - Nguyễn Hiền",
+      "latitude": 21.001161,
+      "longitude": 105.847569,
+      "description": "Ars supellex complectus verecundia vergo vulgaris sollers canto. Corrumpo laborum tersus iste ascisco texo cibus. Solus decor depopulo dedecor valens balbus denuncio."
+    },
+    {
+      "address": "132 Dương Văn Bé, P. Vĩnh Phú, Hai Bà Trưng, Hà Nội",
+      "name": "Trà sữa Mixue - Dương Văn Bé",
+      "latitude": 20.99853575,
+      "longitude": 105.87330681,
+      "description": "Deprimo textor venio pauci totus cupiditas demergo. Ad perspiciatis admitto cursus harum ubi sublime. Adamo tandem adopto thymum admitto."
+    },
+    {
+      "address": "3A Hồ Xuân Hương, P. Nguyễn Du, Hai Bà Trưng, Hà Nội",
+      "name": "Cà Phê Sói - Cafe Rang Mộc & Say Tại Chỗ",
+      "latitude": 21.0184101,
+      "longitude": 105.8489079,
+      "description": "Territo currus vinum civitas libero. Cresco cerno spes tantum tenuis thymum cribro conscendo. Praesentium repellendus arceo carpo conor."
+    },
+    {
+      "address": "32 Hồng Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Winggo - Trà Sữa Kem Trứng Nướng & Trà Hoa Quả - Hồng Mai",
+      "latitude": 21.00069349,
+      "longitude": 105.8512654,
+      "description": "Clamo beatus temeritas vapulus sub utpote alias cito. Valeo attollo audacia comptus advenio iure. Attero acer clarus comptus abstergo creta voluntarius stipes."
+    },
+    {
+      "address": "20 Nguyễn Đình Chiểu, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Yi He Kao Nai - Trà Sữa Nướng Vân Nam - Nguyễn Đình Chiểu",
+      "latitude": 21.01436,
+      "longitude": 105.846703,
+      "description": "Abstergo cotidie creo aedificium. Auditor tepidus coniuratio. Suffoco nam labore cursim iure chirographum antiquus."
+    },
+    {
+      "address": "100 Bà Triệu, P. Nguyễn Du, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Bí Đao An Nhiên - Bà Triệu",
+      "latitude": 21.0186825,
+      "longitude": 105.8492967,
+      "description": "Aggero tot ipsum armarium conqueror deprecator concedo administratio. Cervus caelum defleo conturbo omnis truculenter deripio tergeo ubi acidus. Adicio vaco decens cometes vereor tersus causa possimus audeo voluptates."
+    },
+    {
+      "address": "87 Đại Cồ Việt, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tocotoco - Đại Cồ Việt",
+      "latitude": 21.007773,
+      "longitude": 105.845112,
+      "description": "Cuppedia creta ex. Corroboro tibi cruciamentum tamquam curiositas utroque. Abbas theca dolor solio deputo laudantium dolorem hic."
+    },
+    {
+      "address": "38 Trần Đại Nghĩa, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",
+      "name": "Crane Tea - Trần Đại Nghĩa",
+      "latitude": 21.0022015,
+      "longitude": 105.8446803,
+      "description": "Desolo creber aeger quidem depopulo sumo eos ustulo contego. Decipio optio autus comminor autem distinctio valeo verbum quod. Suffragium asperiores spiculum apparatus territo adaugeo."
+    },
+    {
+      "address": "Số 254 Kim Ngưu, P. Quỳnh Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà sữa Mixue - 254 Kim Ngưu",
+      "latitude": 21.00005423,
+      "longitude": 105.86139163,
+      "description": "Audio thalassinus atavus reprehenderit thesis cupiditas. Aestas nostrum commemoro capto ars theologus tremo vilitas. Summopere torqueo coniuratio abundans cupressus."
+    },
+    {
+      "address": "148 Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tocotoco - 148 Trương Định",
+      "latitude": 20.99213997,
+      "longitude": 105.849224,
+      "description": "Vulnus coruscus vigilo cursim adiuvo certe maiores claustrum vae eveniet. Rem aiunt comprehendo arca assumenda vomito vesper. Curvo deduco cognatus curia tabella soleo vorago angelus defetiscor."
+    },
+    {
+      "address": "1A Hòa Mã, Hai Bà Trưng, Hà Nội",
+      "name": "Papaya Island Drink",
+      "latitude": 21.015789,
+      "longitude": 105.856001,
+      "description": "Defendo aegrotatio contego denuncio spoliatio cado. Angelus odit deputo cresco autus abundans consequuntur nesciunt vereor verumtamen. Cursus animadverto vergo."
+    },
+    {
+      "address": "21D Nguyễn Công Trứ, Hai Bà Trưng, Hà Nội",
+      "name": "Savor - Bánh Mì & Trà Sữa - Nguyễn Công Trứ",
+      "latitude": 21.01442668,
+      "longitude": 105.8565315,
+      "description": "Curtus vomito thymbra sophismata. Sollicito audax vesper thorax tondeo aedificium saepe bonus curto placeat. Tollo quos tricesimus alioqui alienus temporibus."
+    },
+    {
+      "address": "Tầng 1, Tòa Nhà UDIC Riverside 1, Ngõ 122 Vĩnh Tuy, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Phúc Long UDIC Riverside 1",
+      "latitude": 21.0017004,
+      "longitude": 105.8754091,
+      "description": "Utrimque correptius tam denuo demum. Nisi amplitudo debeo cena amoveo odit arbor tepidus trans cuius. Viduo verus adulatio arguo varius somniculosus convoco sollicito caveo."
+    },
+    {
+      "address": "18 Vĩnh Tuy, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tiger Sugar Delivery - Đường Nâu Sữa Đài Loan - Vĩnh Tuy",
+      "latitude": 21.000453,
+      "longitude": 105.871426,
+      "description": "Virga amplexus vester defungo blanditiis. Carcer aggero crur solum crapula ambulo abeo. Vehemens aptus colo cedo."
+    },
+    {
+      "address": "60 Phố Vọng, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",
+      "name": "Tiệm Trà Chanh 1975 - Phố Vọng",
+      "latitude": 20.998796,
+      "longitude": 105.842072,
+      "description": "Tristis velit commodi sub allatus convoco utor commodi aureus porro. Dens aqua convoco cunae damno. Ascit commodo decor subiungo depono denego."
+    },
+    {
+      "address": "198 Lạc Trung, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Mixue - 198 Lạc Trung",
+      "latitude": 21.00338138,
+      "longitude": 105.865627,
+      "description": "Conqueror adsum comprehendo odit. Bene ascisco aetas decipio tego paens rerum sordeo umbra. Eum talus verecundia quibusdam magnam maxime patrocinor deorsum nam spiculum."
+    },
+    {
+      "address": "49 Ngõ 27 Đại Cồ Việt, P. Cầu Dền, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tiger Hill - Đại Cồ Việt",
+      "latitude": 21.00748,
+      "longitude": 105.849025,
+      "description": "Credo vesco audentia curo. Molestiae cupiditas acquiro. Ars tergiversatio ducimus caute decipio nisi verus."
+    },
+    {
+      "address": "Shop N05 - Ngõ 124 Vĩnh Tuy, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Tmore - Tiệm Trà Chanh - Vĩnh Tuy",
+      "latitude": 20.99987879,
+      "longitude": 105.87695259,
+      "description": "Bonus correptius alo comprehendo derideo compono. Delectus desparatus verbum coma commemoro. Ciminatio utique tabernus ademptio earum conitor."
+    },
+    {
+      "address": "158 Trương Định, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "SugarKing - Đường Nâu Đài Loan - Trương Định",
+      "latitude": 20.9917908,
+      "longitude": 105.8490785,
+      "description": "Alii arx patruus repudiandae sub creo dedecor. Delinquo benevolentia spiculum crustulum vitium cervus curriculum vorax timor exercitationem. Cito cedo aspernatur tantum ocer patruus delectatio paulatim."
+    },
+    {
+      "address": "10 Ngõ 35 - 37 Đại La, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Việt Nguyễn Coffee - Đại La",
+      "latitude": 20.99557912,
+      "longitude": 105.8488516,
+      "description": "Paens vacuus derelinquo verus coma. Amo sapiente terror nemo quam patria. Subito aro compono animi abduco vobis."
+    },
+    {
+      "address": "65 Trần Nhân Tông, P. Nguyễn Du, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Mixue - Trần Nhân Tông",
+      "latitude": 21.01672434,
+      "longitude": 105.84802834,
+      "description": "Talus desipio demo succurro beatae contra. Clam vergo adflicto creber alias harum anser talio itaque. Asporto voro animadverto accommodo."
+    },
+    {
+      "address": "155 Kim Ngưu, P. Thanh Lương, Hai Bà Trưng, Hà Nội",
+      "name": "Quán Bún Chả & Bún Đậu - Kim Ngưu",
+      "latitude": 21.0062205,
+      "longitude": 105.861524,
+      "description": "Spero strenuus necessitatibus angulus ultio. Tego adopto capio praesentium accusantium aegre sordeo ambulo. Decerno admitto tener deporto varius via accusator quaerat venio."
+    },
+    {
+      "address": "50 Lạc Trung, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Mixue - Lạc Trung",
+      "latitude": 21.00313916,
+      "longitude": 105.86323599,
+      "description": "Valde eveniet taedium alienus conqueror vix sto canto desparatus creber. Ambulo trepide thermae titulus debilito spiritus minima eos. Totidem eius crebro suspendo vicissitudo defungo provident comis."
+    },
+    {
+      "address": "179 Bùi Thị Xuân, P. Bùi Thị Xuân, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa YiHeTang 益禾堂 - Bùi Thị Xuân",
+      "latitude": 21.011958,
+      "longitude": 105.8500045,
+      "description": "Caries clementia vulpes vulpes incidunt tempore. Comburo super esse. Bestia civitas a comis bestia pax sollers tondeo angustus sit."
+    },
+    {
+      "address": "1 Yên Lạc, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Royal Tea - Trà Sữa Trân Châu - Yên Lạc",
+      "latitude": 20.99984229,
+      "longitude": 105.86256565,
+      "description": "Attero umbra allatus absorbeo canto calco cum. Ipsum vado cibus enim. Vito aliqua tersus sunt."
+    },
+    {
+      "address": "92 Bạch Mai, P. Cầu Dền, Hai Bà Trưng, Hà Nội",
+      "name": "Trà sữa Mixue - 92 Bạch Mai",
+      "latitude": 21.0067826,
+      "longitude": 105.8511984,
+      "description": "Benevolentia deleniti calculus timidus cur. Vox texo aptus. Celer distinctio clementia villa vestrum velociter decet vulgo vesco."
+    },
+    {
+      "address": "181 Lò Đúc, P. Đống Mác, Hai Bà Trưng, Hà Nội",
+      "name": "Habifood - Bánh Bao Handmade, Sữa Hạt & Sữa Ngô - 181 Lò Đúc",
+      "latitude": 21.0099432,
+      "longitude": 105.8606279,
+      "description": "Sufficio amoveo apud auditor amo artificiose carus. Cunae voro deprecator aperio charisma trucido quas validus inventore. Ad vox audax officia tumultus delinquo adsuesco fuga adopto voco."
+    },
+    {
+      "address": "439 Bạch Mai, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Rau Má Mix Family - Bạch Mai",
+      "latitude": 21.00021944,
+      "longitude": 105.8505507,
+      "description": "Adfectus eveniet aegre quam deleniti theatrum commemoro allatus clibanus. Aperio vallum nam adficio vero. Ascisco reprehenderit adversus vulnus caecus curiositas degero quibusdam."
+    },
+    {
+      "address": "32 Ngõ Tự Do, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tiger Sugar By HongKong - Tự Do",
+      "latitude": 20.99703907,
+      "longitude": 105.84618791,
+      "description": "Adamo crapula via. Calcar tactus volutabrum illo nam verecundia. Varius aeneus vinculum vesper benevolentia capto."
+    },
+    {
+      "address": "122 Đại Cồ Việt, P. Le Dai Hanh, Hai Bà Trưng, Hà Nội",
+      "name": "Kafe Muối TL&AE - Đặc Sản Huế - Đại Cồ Việt",
+      "latitude": 21.00810581,
+      "longitude": 105.84582078,
+      "description": "Viscus vix desino theca aperiam urbanus ulterius auctus cupiditate. Admoneo earum aranea. Molestias bos congregatio."
+    },
+    {
+      "address": "Tầng Hầm 1, Tầng B1, TL - K9 Times City, 458 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tocotoco - TL-K9 Times City",
+      "latitude": 20.994778,
+      "longitude": 105.869572,
+      "description": "Amissio demens bene aequus demens volaticus. Auxilium ultra defetiscor demitto ago utilis. Ars surgo nobis cinis animus auxilium."
+    },
+    {
+      "address": "99 Võ Thị Sáu, P. Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "name": "Phúc Long Võ Thị Sáu Thanh Nhàn",
+      "latitude": 21.00371381,
+      "longitude": 105.85529581,
+      "description": "Vinculum vicinus addo apud despecto damno. Quia denuo certe adfectus tredecim summisse adversus vomito. Curtus tamen desino aiunt timor clarus."
+    },
+    {
+      "address": "33 Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "NEO CAFE - Cà phê Muối & Trà Sữa - 33 Lê Đại Hành",
+      "latitude": 21.01089654,
+      "longitude": 105.84863843,
+      "description": "Comprehendo baiulus dolorum vigilo bos usitas demens. Vado umbra calco decretum earum congregatio adflicto. Arx corroboro caecus cogito vindico constans confido concido debitis caste."
+    },
+    {
+      "address": "1 Yên Lạc , P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tiger Sugar - Yên Lạc",
+      "latitude": 20.99984229,
+      "longitude": 105.86256565,
+      "description": "Adulescens capio aeger deinde curvo vaco cicuta. Absque volup vomer vere adipiscor amissio ipsam supra occaecati bene. Apto paens perspiciatis terminatio ars abeo conculco."
+    },
+    {
+      "address": "117 Bạch Mai, Hai Bà Trưng, Hà Nội",
+      "name": "The S Coffee - Cà Phê Muối & Trà Oolong Đậm Vị - Bạch Mai",
+      "latitude": 21.006643,
+      "longitude": 105.851342,
+      "description": "Spiritus mollitia vesica vigor necessitatibus clementia despecto autem. Paulatim ciminatio decumbo. Umquam antepono audio vociferor."
+    },
+    {
+      "address": "174 Trương Định, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Mixue - 174 Trương Định",
+      "latitude": 20.9914102,
+      "longitude": 105.84855528,
+      "description": "Aliqua coerceo magni depromo. Aestus curatio facere aer possimus temptatio at. Valens cibus cupio decimus aedificium."
+    },
+    {
+      "address": "7 Đoàn Trần Nghiệp, P. Phố Huế, Hai Bà Trưng, Hà Nội",
+      "name": "Oatway - Trà Sữa & Sữa Chua Yến Mạch - Đoàn Trần Nghiệp",
+      "latitude": 21.01208759,
+      "longitude": 105.85105738,
+      "description": "Absque appono sol tantum abstergo adhaero decipio succurro infit. Umquam quibusdam toties chirographum numquam deputo sustineo. Expedita crebro id aureus tredecim suffragium absum uberrime."
+    },
+    {
+      "address": "122 Bùi Thị Xuân, P. Bùi Thị Xuân, Hai Bà Trưng, Hà Nội",
+      "name": "Trà sữa Mixue - 122 Bùi Thị Xuân",
+      "latitude": 21.01319966,
+      "longitude": 105.84979587,
+      "description": "Dolore autem taceo valetudo quos sursum deduco sol sperno. Iure casso beatus audentia taedium animus depopulo soleo bos dolores. Bardus thymbra ducimus crapula decens vorago."
+    },
+    {
+      "address": "83 Hồng Mai, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Mixue - Hồng Mai",
+      "latitude": 20.99896762,
+      "longitude": 105.85351391,
+      "description": "Voluptatem pecco aggredior beneficium velum vox possimus vesco amiculum aestivus. Bestia sed substantia suffragium cetera texo bardus summa soleo. Molestiae accommodo damno consequuntur."
+    },
+    {
+      "address": "Tầng Hầm 1, K9-K10 Đường Thanh Niên, Tầng B1, Tòa T8, TTTM Times City, 458 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Tocotoco - Times City",
+      "latitude": 20.993877,
+      "longitude": 105.869869,
+      "description": "Ea deleo ustulo cribro temperantia solum creber quas. Illo cavus sit territo allatus abeo vero denuo. Angustus casus adstringo."
+    },
+    {
+      "address": "47 Nguyễn Du, P. Bùi Thị Xuân, Hai Bà Trưng, Hà Nội",
+      "name": "NEO CAFE - Cà phê Muối & Trà Sữa - 47 Nguyễn Du",
+      "latitude": 21.01871109,
+      "longitude": 105.8495636,
+      "description": "Stipes bene arguo aurum ascisco administratio abstergo sperno vicissitudo. Cohors vallum callide uter auxilium viridis coepi demitto. Adfectus occaecati cubitum vere blandior talio adaugeo coniecto celebrer impedit."
+    },
+    {
+      "address": "27 Nguyễn Du, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Libertea - Nguyễn Du",
+      "latitude": 21.0183532,
+      "longitude": 105.8506795,
+      "description": "Vorago angulus praesentium sustineo ultio. Articulus cedo doloribus ab optio. Comedo turba sordeo confugo."
+    },
+    {
+      "address": "382 Bạch Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Bí Đao Cát Tiên - Bạch Mai",
+      "latitude": 21.00001597,
+      "longitude": 105.85034771,
+      "description": "Autus calamitas victus comes uter peior suppono ullus sapiente. Suffragium officia depraedor spargo comes. Cibus contego via vicissitudo sortitus."
+    },
+    {
+      "address": "32B Lò Đúc, P. Phạm Đình Hổ, Hai Bà Trưng, Hà Nội",
+      "name": "Trà sữa Mixue - Lò Đúc",
+      "latitude": 21.01719384,
+      "longitude": 105.85567917,
+      "description": "Attero pectus textilis. Sumo rem nisi vesco succurro calamitas perferendis teneo ars surgo. Sodalitas consequatur vulgus vulariter claudeo speculum aliquid quis."
+    },
+    {
+      "address": "129 Nguyễn Đình Chiểu, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "UTea Trà Ô Long Nguyên Bản Mộc - Nguyễn Đình Chiểu",
+      "latitude": 21.01019207,
+      "longitude": 105.84568417,
+      "description": "Contabesco venio alo velum summopere demitto ipsam bis. Spoliatio necessitatibus non decretum adhuc cupio ducimus desolo. Vicissitudo rem conicio."
+    },
+    {
+      "address": "86 Lê Thanh Nghị, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "DALLAS TEA - Trà Sữa Ô Long Kombucha Đậm Vị",
+      "latitude": 21.0035061,
+      "longitude": 105.8480858,
+      "description": "Ubi uberrime curis tandem adaugeo cursim. Cunabula ipsam balbus alienus corporis comparo conservo suscipit delectatio esse. Molestiae tempora cohibeo defetiscor theca vulgo defessus conitor."
+    },
+    {
+      "address": "13 Đại La, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Mixue - Đại La",
+      "latitude": 20.99577434,
+      "longitude": 105.84942238,
+      "description": "Adinventitias audio pecto acidus temperantia vester. Comprehendo ait depulso ambulo alioqui deleniti truculenter demitto thesaurus decumbo. Tristis vulgus ver cerno apto tum caput minima advenio."
+    },
+    {
+      "address": "225 Bạch Mai, P. Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "name": "Nước Cam Ép Nguyên Chất - Bach Mai",
+      "latitude": 21.004295,
+      "longitude": 105.851137,
+      "description": "Argumentum patior suppono iure dignissimos cervus itaque utpote vulnus clibanus. Vel consectetur theologus caelum. Benigne nesciunt comminor crepusculum speciosus vesco auctus alioqui."
+    },
+    {
+      "address": "64 Ngô Thì Nhậm, P. Phạm Đình Hổ, Hai Bà Trưng, Hà Nội",
+      "name": "Hội Cafe - Cà Phê Muối - 64 Ngô Thì Nhậm",
+      "latitude": 21.01645218,
+      "longitude": 105.85294,
+      "description": "Theologus vestrum debitis aeternus volutabrum deinde comptus soleo. Artificiose asper depereo degenero adiuvo vitium vir bestia. Vado claudeo comparo caries statim testimonium ventus."
+    },
+    {
+      "address": "1 Hoàng Mai, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Hiên Nguyễn - Doner Kebab & Đồ Uống, Ăn Vặt",
+      "latitude": 20.993196,
+      "longitude": 105.8498892,
+      "description": "Validus depulso attero. Tabesco aurum atavus ventus. Defaeco defendo sophismata illum illum constans totidem aiunt."
+    },
+    {
+      "address": "65 Nguyễn Công Trứ, P. Đồng Nhân, Hai Bà Trưng, Hà Nội",
+      "name": "Trà sữa Mixue - 65 Nguyễn Công Trứ",
+      "latitude": 21.01377606,
+      "longitude": 105.85438575,
+      "description": "Nesciunt utroque cinis callide tollo averto soluta. Tabernus supra denuo studio sit auctor vigilo. Sol vergo absum tamisium accendo bonus demum celer amplexus compello."
+    },
+    {
+      "address": "Shophouse 03, Park 8, Khu Đô Thị Times City, Hai Bà Trưng, Hà Nội",
+      "name": "Trà sữa Mixue - Parkhill Time City",
+      "latitude": 20.99228181,
+      "longitude": 105.86871421,
+      "description": "Delibero qui tenus statim subseco distinctio perferendis. Casus cauda socius libero. Brevis celer defessus cunabula."
+    },
+    {
+      "address": "423 Minh Khai Đối Diện Sảnh D Toà Nhà Imperia Sky Garden, Hai Bà Trưng, Hà Nội",
+      "name": "Drunk Coffee - Trà & Cà Phê - Imperia Sky Garden 423 Minh Khai",
+      "latitude": 20.99827004,
+      "longitude": 105.86673108,
+      "description": "Damnatio expedita clam verbum caveo. Ara nostrum triduana pecus voluptates harum asperiores rerum statua. Deporto aestivus villa volup annus."
+    },
+    {
+      "address": "2 Trần Đại Nghĩa, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Mixue - 2 Trần Đại Nghĩa",
+      "latitude": 21.00390901,
+      "longitude": 105.84403054,
+      "description": "Benevolentia summopere agnosco claro adstringo turbo debitis sulum ager. Torqueo vesica ars. Comburo tempora audentia certus excepturi numquam."
+    },
+    {
+      "address": "210 Phố Lạc Trung, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Bún & Miến Ngan Gia Truyền - 210 Lạc Trung",
+      "latitude": 21.00333327,
+      "longitude": 105.86606854,
+      "description": "Vitae adficio desino ex quaerat sui delectatio arcesso blanditiis. Demoror velit suffoco ullus audio statua cum voluntarius. Delectus velit defero adeptio."
+    },
+    {
+      "address": "123 Chùa Quỳnh , P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa TocoToco - 123 Chùa Quỳnh",
+      "latitude": 21.00050976,
+      "longitude": 105.85468729,
+      "description": "Usitas verbera arma ullus vesco comis esse vulgo. Talis desolo aer tam beneficium aperiam. Aufero voluntarius sufficio."
+    },
+    {
+      "address": "295 Trần Đại Nghĩa, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa ToCoToCo - 295 Trần Đại Nghĩa",
+      "latitude": 20.99611305,
+      "longitude": 105.8456837,
+      "description": "Illum approbo eveniet. Voro virtus aveho audax admiratio adversus vae sulum alii texo. Claustrum terra voluptatum atrocitas aeger."
+    },
+    {
+      "address": "101A3 Đầm Trấu, Hai Bà Trưng, Hà Nội",
+      "name": "Oatway - Trà Sữa & Sữa Chua Yến Mạch - Đầm Trấu",
+      "latitude": 21.011816,
+      "longitude": 105.864841,
+      "description": "Cursus caterva esse comprehendo triumphus suppellex. Cohibeo desipio culpo tener quia urbanus praesentium. Suadeo arto turpis illo cornu maxime demitto addo cilicium agnitio."
+    },
+    {
+      "address": "222B Bạch Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Te Amo - 222B Bạch Mai",
+      "latitude": 21.00377,
+      "longitude": 105.85093,
+      "description": "Utroque video credo ademptio arcesso venia balbus caput umquam. Condico aureus dignissimos tergiversatio tantum degusto vir. Usus utrum communis cupressus aspicio."
+    },
+    {
+      "address": "375 Bạch Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Sữa Mixue - 375 Bạch Mai",
+      "latitude": 21.0014944,
+      "longitude": 105.85074499,
+      "description": "Adopto urbanus arbitro vapulus. Volva provident confugo curso demum tot. Magni votum contra."
+    },
+    {
+      "address": "125E Lò Đúc, P. Đống Mác, Hai Bà Trưng, Hà Nội",
+      "name": "Cafe Muối 1986 - Lò Đúc",
+      "latitude": 21.0133565,
+      "longitude": 105.85801401,
+      "description": "Laudantium temptatio cavus angustus. Virga sublime decimus color audax sophismata. Carcer concedo bibo concido verbera doloribus coerceo cauda sapiente thesis."
+    },
+    {
+      "address": "254A Lê Thanh Nghị, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Bí Đao An Nhiên - Lê Thanh Nghị",
+      "latitude": 21.0019603,
+      "longitude": 105.84228372,
+      "description": "Patria virtus ater iusto cruentus vinco aptus ullus tepidus unde. Atrox cribro caelestis demergo debilito ocer accendo eligendi tyrannus deludo. Assentator earum nihil videlicet suppono."
+    },
+    {
+      "address": "270 Bà Triệu, Hai Bà Trưng, Hà Nội",
+      "name": "Quang Huy Cafe - Bà Triệu",
+      "latitude": 21.0132701731989,
+      "longitude": 105.84911942482,
+      "description": "Vomica sit audio accendo compello cunctatio caritas vere. Tactus optio testimonium quos undique vestrum. Admitto claudeo sperno atrocitas aqua tepidus solum vinitor."
+    },
+    {
+      "address": "14 Trương Định, P. Trương Định, Hai Bà Trưng, Hà Nội",
+      "name": "An Nhiên - Trà Bí Đao - 14 Trương Định",
+      "latitude": 20.9955128,
+      "longitude": 105.8497458,
+      "description": "Ait solio ceno cornu demitto colligo avaritia altus bene. Attonbitus amita defessus vel conor canis cunctatio. Aqua tollo videlicet culpa vicissitudo arbitro vespillo ustulo."
+    },
+    {
+      "address": "114 Bùi Thị Xuân, P. Bùi Thị Xuân, Hai Bà Trưng, Hà Nội",
+      "name": "HOW CAFE - Bùi Thị Xuân",
+      "latitude": 21.01397666,
+      "longitude": 105.849759,
+      "description": "Tutis advenio vinculum paens pauci. Delego comedo ciminatio complectus vorax. Thesaurus labore sol."
+    },
+    {
+      "address": "1B Hồ Xuân Hương, P. Nguyễn Du, Hai Bà Trưng, Hà Nội",
+      "name": "Cafe Bee - Cafe Muối & Cafe Tiramisu - 1B Hồ Xuân Hương",
+      "latitude": 21.01842627,
+      "longitude": 105.8490811,
+      "description": "Charisma cerno turpis surgo debitis harum ver tunc calcar. Degusto veritas thymum celebrer supplanto consequatur ullam acidus tergo. Abundans cito claudeo aqua."
+    },
+    {
+      "address": "Số 8C Ngõ Huế, P. Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội",
+      "name": "Mọt Dừa - Sinh Tố & Nước Ép - Ngõ Huế",
+      "latitude": 21.0147847,
+      "longitude": 105.8527969,
+      "description": "Cultellus deprecator aedificium ab bis itaque. Decet vester amplitudo absum vehemens. Verto animi decipio."
+    },
+    {
+      "address": "143 Nguyễn Đình Chiểu, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Paris - Tiệm Trà Chanh - Nguyễn Đình Chiểu",
+      "latitude": 21.00985419,
+      "longitude": 105.84556463,
+      "description": "Suffoco vito verto coniecto commemoro acer baiulus. Ago decet centum tui. Quae corrumpo colligo necessitatibus audio dens dolore correptius tantillus vester."
+    },
+    {
+      "address": "32 ngõ Hoà Bình 7, P. Minh Khai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Long - Trà Sữa & Trà Nhiệt Đới",
+      "latitude": 20.99624145,
+      "longitude": 105.85575136,
+      "description": "Tum ratione celebrer eveniet barba. Pectus debitis amissio voluptatem arma. Adaugeo aegrus explicabo vis verus."
+    },
+    {
+      "address": "Ngách 33 Ngõ Hoà Bình 7, Sân Tập Thể Thứ 3, P. Minh Khai, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Ngân - Trà Mãng Cầu, Bánh Mỳ & Đồ Ăn Vặt",
+      "latitude": 20.99663075,
+      "longitude": 105.85524357,
+      "description": "Decens video apostolus animi amplitudo tabesco. Nisi caries depromo. Volaticus velut eius deduco altus degusto amplus quos."
+    },
+    {
+      "address": "35 Thái Phiên, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Bống Cafe - Thái Phiên",
+      "latitude": 21.010558,
+      "longitude": 105.850196,
+      "description": "Tepesco suspendo cotidie aut a aiunt aegrus ipsam conor. Sufficio assumenda cilicium patrocinor sublime cenaculum apostolus vulnero vitiosus paens. Canonicus abutor textus aspicio aggero adimpleo tutis celebrer solio."
+    },
+    {
+      "address": "65 Trần Đại Nghĩa, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "Copa - Cafe & Trà - Trần Đại Nghĩa",
+      "latitude": 21.00664368,
+      "longitude": 105.84547003,
+      "description": "Quam talis porro illum eaque. Anser approbo impedit caries bis. Villa asperiores currus celer patruus suppono amitto nostrum varietas celo."
+    },
+    {
+      "address": "14TT Khu Biệt Thự Liền Kề, Ngõ 622 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "NYNA Coffee - Fresh Coffee Beans - Minh Khai",
+      "latitude": 20.9982104,
+      "longitude": 105.8709933,
+      "description": "Caecus attollo aetas delectus synagoga. Debilito conforto voluptate victus cohibeo. Canis territo sophismata eaque."
+    },
+    {
+      "address": "6 Thái Phiên, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+      "name": "Cée Juice And Tea - Thái Phiên",
+      "latitude": 21.01055341,
+      "longitude": 105.850272,
+      "description": "Eos sollers attollo sollicito omnis terminatio avarus. Amissio dolore alii absens vociferor demulceo adsum. Coadunatio censura amissio bestia ustilo capillus tepidus assentator voluptatibus."
+    },
+    {
+      "address": "1 Yên Lạc, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "name": "Trà Bí Đao Plus - Yên Lạc",
+      "latitude": 20.9995919,
+      "longitude": 105.8626193,
+      "description": "Vinculum reiciendis tondeo cubo nobis patior desidero numquam. Illo crux deprimo textilis cometes atrocitas bene tubineus. Vae caveo capillus vestrum ipsam comparo."
+    },
+    {
+      "address": "104 K17 Nguyễn Hiền, P. Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "name": "Coi Café - Nguyễn Hiền",
+      "latitude": 21.00061985,
+      "longitude": 105.84657558,
+      "description": "Totidem voluptates thymum debeo depopulo tabesco illo debeo adaugeo. Quisquam uterque admitto super cattus constans vulpes vacuus aggredior deprimo. Adulescens uxor veritatis."
+    },
+    {
+      "address": "46B ngõ 257 Thanh Nhàn, P. Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "name": "Hoa Quả Ngâm Cô Hạnh - Ăn Uống - Thanh Nhàn",
+      "latitude": 21.00228308,
+      "longitude": 105.8530149,
+      "description": "Depulso decerno recusandae aer. Sumo iusto ut nesciunt testimonium cerno copiose commemoro attonbitus astrum. Complectus bestia articulus."
+    },
+    {
+      "address": "166 Trần Đại Nghĩa, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",
+      "name": "Gạo - Cà Phê - 166 Trần Đại Nghĩa",
+      "latitude": 20.994175,
+      "longitude": 105.844109,
+      "description": "Aegrotatio conduco asperiores suspendo explicabo corrigo umerus surgo perferendis. Calamitas tricesimus molestiae conatus angulus valens crur. Architecto subito aeger."
+    },
+    {
+      "address": "868 Bạch Đằng, P. Thanh Lương, Hai Bà Trưng, Hà Nội",
+      "name": "Cà Phê THỜI - 868 Bạch Đằng",
+      "latitude": 21.0088718,
+      "longitude": 105.868724,
+      "description": "Condico celer antiquus arx at conatus tergum succedo tamdiu coadunatio. Cultellus truculenter tam perferendis delectus ipsum depono deludo auditor delicate. Caelestis cattus deputo porro animus vos ultio cruciamentum venia annus."
+    }
+  ]
+}

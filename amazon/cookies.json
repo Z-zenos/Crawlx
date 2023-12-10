@@ -1,0 +1,45 @@
+[
+  {
+    "name": "__Host-GAPS",
+    "value": "1:FMeS-xbZbIrOa6bbI4uj-9LV1rXrlg:CkcPg59NWFaeIAH5",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1734333759.506347,
+    "size": 60,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "NID",
+    "value": "511=k5NoWu44CorAixuPVnLFxO__d2jQbkQVbsMiDwDbBzKjSoxQzHdVLUqj_ih8dCTy9lsYmnzOkehO0Pt2Ms5RK8xJWAv-pgReNa6BlIYolBwNzliNh-zGeCh8Erh01XQMzWvk9wdyL0dMWjCkYxQPkCSn05YeNWojr-GBvKlAEYhNTSAbD-poQ5zdjoHkjyoIl20WUupFa4ci1ZwRc8hVGtOD-6mxCagWFFtlfioD08mxqw",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1715584947.619819,
+    "size": 245,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "None",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "OTZ",
+    "value": "7291163_28_28__28_",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1702365751,
+    "size": 21,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]

@@ -1,0 +1,17 @@
+2023/11/12-13:11:41.587 3 Reusing MANIFEST /home/fuurinkazan/Documents/JavaScript/NodeJS/Crawl/amazon/tmp/Default/Local Storage/leveldb/MANIFEST-000001
+2023/11/12-13:11:41.588 3 Recovering log #7
+2023/11/12-13:11:41.593 3 Level-0 table #9: started
+2023/11/12-13:11:41.598 3 Level-0 table #9: 96311 bytes OK
+2023/11/12-13:11:41.599 3 Recovering log #8
+2023/11/12-13:11:41.599 3 Level-0 table #10: started
+2023/11/12-13:11:41.605 3 Level-0 table #10: 27043 bytes OK
+2023/11/12-13:11:41.626 3 Delete type=0 #7
+2023/11/12-13:11:41.626 3 Delete type=0 #8
+2023/11/12-13:11:41.630 5 Compacting 4@0 + 0@1 files
+2023/11/12-13:11:41.640 5 Generated table #12@0: 25 keys, 27764 bytes
+2023/11/12-13:11:41.640 5 Compacted 4@0 + 0@1 files => 27764 bytes
+2023/11/12-13:11:41.643 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/12-13:11:41.644 5 Delete type=2 #10
+2023/11/12-13:11:41.644 5 Delete type=2 #9
+2023/11/12-13:11:41.644 5 Delete type=2 #6
+2023/11/12-13:11:41.644 5 Delete type=2 #3

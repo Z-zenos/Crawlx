@@ -5,9 +5,11 @@ const { faker } = require("@faker-js/faker");
 const restaurants = [];
 const foods = [];
 const periods = [0, 1, 2];
-const food_types = ['food', 'drink', 'hotpot', 'streetfood', 'sushi,pizza-pasta-burger']
+const food_types = ['food', 'drink', 'hotpot', 'streetfood,rice,1000008,1000011', 'pizza-pasta-burger,sushi,1000004,1000003']
 
 const food_type = process.argv.slice(2);
+let i = 800;
+
 
 async function getMenu(browser, link, restaurant_id) {
   const pageDetail = await browser.newPage();
@@ -66,13 +68,14 @@ const sleep = (milliseconds) => {
     waitUntil: 'load'
   });
 
-  let i = 1;
 
   page.on('response', async (response) => {
     const request = response.request();
     if (request.url() === 'https://gappapi.deliverynow.vn/api/delivery/get_infos' && request.method() === 'POST') {
       const data = await response.json();
       const links = [];
+
+      // All restaurants in one page
       for (const restaurant of data.reply.delivery_infos) {
         restaurants.push({
           address: restaurant.address,

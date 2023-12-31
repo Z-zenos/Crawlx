@@ -1,0 +1,5234 @@
+[
+  {
+    "id": 1,
+    "number": 1,
+    "foods_id": 1,
+    "content": "Tôm sú lột vỏ, chẻ lưng.",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "number": 2,
+    "foods_id": 1,
+    "content": "Nấm đùi gà cắt que vừa ăn.",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "number": 3,
+    "foods_id": 1,
+    "content": "Ớt chuông cắt sợi nhỏ",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "number": 4,
+    "foods_id": 1,
+    "content": "Hành lá cắt khúc 4cm",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "number": 5,
+    "foods_id": 1,
+    "content": "Hành tây cắt sợi nhỏ",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "number": 6,
+    "foods_id": 1,
+    "content": "Tỏi băm nhuyễn",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "number": 7,
+    "foods_id": 1,
+    "content": "Mì nưa rửa sạch, luộc 3 phút. Xả qua nước lạnh",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "number": 8,
+    "foods_id": 1,
+    "content": "Phi thơm tỏi với dầu ăn, xào chín tôm và nấm. Tiếp tục cho ớt chuông, hành tây và mì nưa vào xào. Nêm gia vị: 1M nước tương 1/2 Dầu hào, 1/2m bột ngọt, 1/2m Hạt nêm Aji-ngon và 3M nước. Xào cho thấm đều gia vị.",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "number": 9,
+    "foods_id": 1,
+    "content": "Lấy dĩa ra khỏi nồi hấp, rắc tiêu và ngò rí lên trên.",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 2,
+    "number": 1,
+    "foods_id": 2,
+    "content": "Sơ chế các loại hoa và rau nêm. Tán cá thác lác với 1m tỏi phi, 1m hạt nêm Aji-ngon Heo, 1m ớt sừng băm. Vo thành viên tròn nhỏ.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "number": 2,
+    "foods_id": 2,
+    "content": "Nấm rơm xào với 1M dầu ăn, 1/3m hạt nêm Aji-ngon Heo, 1/3m tiêu",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "number": 3,
+    "foods_id": 2,
+    "content": "Nấu nước lẩu với gói Gia vị nêm sẵn Aji-Quick® LẨU THÁI, cho nấm vào. Đun sôi, cho tôm và cá vào, ít dầu tỏi phi, 1/2 rau thơm.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "number": 4,
+    "foods_id": 2,
+    "content": "Bày 1 mẹt rau hoa các loại, 1 đĩa tôm và cá. Khi ăn nhúng các loại hoa, tôm cá vào nước lẩu sôi. Dọn kèm nước mắm, ớt cắt lát.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "number": 1,
+    "foods_id": 4,
+    "content": "Thịt gà luộc chín, xé sợi.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "number": 2,
+    "foods_id": 4,
+    "content": "Cà rốt cắt sợi, ướp 1/2m đường, vắt ráo. Hành tây cắt ngang dày 2mm, ướp 1m đường 15 phút, vắt ráo nước.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "number": 3,
+    "foods_id": 4,
+    "content": "Cải ngồng phần hoa đẹp để trang trí, phần còn lại tước bỏ xơ, luộc qua nước sôi chứa muối, xả nước lạnh để ráo, cắt khúc 5cm, xếp lên dĩa.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "number": 4,
+    "foods_id": 4,
+    "content": "Pha xốt trộn: trộn đều 3M Xốt Mayonnaise Aji-mayo® Vị Ngọt Dịu với 1M mè trắng rang giã nhuyễn, 1m dầu hào, 1m tương ớt bắc, 1m tương cà, 1m Giấm gạo lên men Ajinomoto, 1m dầu mè và 1/3m muối.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "number": 5,
+    "foods_id": 4,
+    "content": "Trộn thịt gà, cà rốt, hành tây với xốt trộn.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "number": 6,
+    "foods_id": 4,
+    "content": "Cho thịt gà lên trên cọng cải ngồng, rắc 1M mè trắng rang lên trên. Trang trí với húng lủi, ớt sợi và hoa cải ngồng.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "number": 1,
+    "foods_id": 5,
+    "content": "Cọng súng bào dọc, dày. Tắc vắt nước, vỏ cắt sợi.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "number": 2,
+    "foods_id": 5,
+    "content": "Gà luộc chín xé sợi.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "number": 3,
+    "foods_id": 5,
+    "content": "Chuẩn bị các loại rau. Hành tây cắt lát ngang ngâm nước đá 5′, vớt ráo. Cần tây tước vỏ, cắt xéo mỏng. Lá cóc vò sơ, dưa leo bổ 2 bỏ hạt cắt xéo ướp 1/2M đường. Gà luộc xé sợi 2-3 cm, ướp 1/2m nước cốt tắc.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "number": 4,
+    "foods_id": 5,
+    "content": "Pha nước trộn: 3M Giấm gạo lên men Ajinomoto + 3M đường, 1M tỏi ớt băm, 3M nước mắm, 1M tương ớt, 1m Bột ngọt AJI-NO-MOTO®, nước tắc vừa vắt (trộn 1/3 sauce này vào thịt gà xé). Cho cọng súng, hành tây, cần tây, lá cóc, dưa leo trộn chung với thịt gà, vỏ tắc cắt sợi và nước trộn còn lại.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "number": 5,
+    "foods_id": 5,
+    "content": "Bày gỏi ra dĩa, rắc thêm đậu phộng, hành phi, ớt sợi. Dọn gỏi cùng với bánh tráng mè đen nướng, nước mắm pha.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "number": 1,
+    "foods_id": 6,
+    "content": "Miến khô ngâm mềm, cắt ngắn.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "number": 2,
+    "foods_id": 6,
+    "content": "Cải bó xôi lấy phần lá.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "number": 3,
+    "foods_id": 6,
+    "content": "Hành lá cắt khúc 4cm.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "number": 4,
+    "foods_id": 6,
+    "content": "Cà rốt cắt sợ nhuyễn",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "number": 5,
+    "foods_id": 6,
+    "content": "Xay nhuyễn tôm, cải bó xôi với 1/2m hạt nêm Aji-ngon sau đó trộn đều tôm đã xay với giò sống. Vo viên vừa ăn",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "number": 6,
+    "foods_id": 6,
+    "content": "Pha sốt : 2M nước tướng “Phú Sĩ”, 1m dầu hào, 1/2m hạt nêm Aji-ngon, 1/2m bột ngọt, 1/2m đường, 3M nước, 1 xíu tiêu.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "number": 7,
+    "foods_id": 6,
+    "content": "Xếp một ít miến đã ngâm ra dĩa, đặt tôm viên lên trên, xếp phần miến còn lại lên phía trên tôm viên, tiếp tục xếp cà rốt và hành lá lên. Rưới đều sốt đã pha lên. Hấp cách thủy 15 phút.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "number": 8,
+    "foods_id": 6,
+    "content": "Lấy dĩa ra khỏi nồi hấp, rắc tiêu và ngò rí lên trên.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "number": 1,
+    "foods_id": 7,
+    "content": "Rau tần ô lặt rửa sạch, lặt lá và cọng riêng, cắt khúc ngắn vừa ăn khoảng 5cm, chần cọng trong nước sôi trước rồi chần lá, trong nước nêm 1/2m Hạt nêm Aji-ngon® Heo, vớt ra xả nước lạnh, vắt ráo.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "number": 2,
+    "foods_id": 7,
+    "content": "Củ cải trắng gọt vỏ, mài nhuyễn, vắt bớt nước. Hành lá phần đầu trắng băm nhuyễn, phần lá cắt nhỏ. Ớt sừng cắt sợi.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "number": 3,
+    "foods_id": 7,
+    "content": "Cá basa cắt miếng vừa ăn, ướp với 1m Hạt nêm Aji-ngon® Heo, ½m tiêu và đầu hành băm, để thấm.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "number": 4,
+    "foods_id": 7,
+    "content": "Pha nước trộn gỏi: Trộn đều 4M Nước tương “Phú Sĩ” với 2M đường, 2M Giấm gạo lên men Ajinomoto.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "number": 5,
+    "foods_id": 7,
+    "content": "Cá ba sa tẩm Gia vị nêm sẵn Aji-quick bột chiên giòn để khô (không pha thêm nước) chiên giòn.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "number": 6,
+    "foods_id": 7,
+    "content": "Trộn gỏi: Trộn đều tần ô, hành tây, cà rốt, cá, ớt sợi, hành lá, củ cải trắng. với nước trộn gỏi, xếp cá lên trên và rắc thêm mè.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "number": 7,
+    "foods_id": 7,
+    "content": "Xếp gỏi cá basa ra dĩa, trang trí với ớt cắt sợi.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "number": 1,
+    "foods_id": 8,
+    "content": "Tôm thẻ lột vỏ, cắt nhỏ.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "number": 2,
+    "foods_id": 8,
+    "content": "Bắp mĩ lột vỏ, giữ lại phần vỏ & rửa rạch, bắp bào hạt, xé lá bắp làm dây cột chả.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "number": 3,
+    "foods_id": 8,
+    "content": "Trộn nhân: cho mọc, tôm, bắp mĩ, đầu hành lá băm, 1/3m tiêu, nêm 1m Hạt nêm Aji-ngon® HEO, 1/3m bột ngọt Ajinomoto, 1m ớt sừng băm, trộn đều.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "number": 4,
+    "foods_id": 8,
+    "content": "Nhồi nhân: nhồi phần nhân vào vỏ trái bắp, sau đó dùng lá bắp cột lại.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "number": 5,
+    "foods_id": 8,
+    "content": "Hấp: Hấp trong vòng 30 phút.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "number": 6,
+    "foods_id": 8,
+    "content": "🥣 Pha nước chấm: trộn đều 5M nước, 2M đường, 1M giấm, 2M nước mắm, ớt băm, tỏi băm.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "number": 7,
+    "foods_id": 8,
+    "content": "Cho chả ra dĩa, cắt khoanh, trang trí bằng ớt sừng cắt sợi và ngò rí. Chấm nước mắm tỏi ớt.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "number": 1,
+    "foods_id": 9,
+    "content": "Xào trứng: khấy tan trứng, xào chín với 1M đầu ăn",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "number": 2,
+    "foods_id": 9,
+    "content": "Ớt sừng băm nhỏ.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "number": 3,
+    "foods_id": 9,
+    "content": "Cà rốt, hành tây cắt hạt lựu.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "number": 4,
+    "foods_id": 9,
+    "content": "Mè trắng rang vàng.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "number": 5,
+    "foods_id": 9,
+    "content": "Xào nhân: phi thơm 1m tỏi băm cho thịt xay, cà rốt, hành tây vào xào chín nêm vào 1/2m hạt nêm Aji-ngon, tiếp tục cho phần trứng đã xào chín vào xào chung.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "number": 6,
+    "foods_id": 9,
+    "content": "Gói hoành thánh với khoảng 1m nhân, sau đó luộc 5 phút với nước sôi.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "number": 7,
+    "foods_id": 9,
+    "content": "Nấu sốt: phi thơm 1M tỏi, ớt với dầu ăn. cho vào 1/2 chén nước, 2M nước tương Phú Sĩ, 1M dầu hào, 1M tương ớt, 1/2m đường, 1/2m bột ngọt. khuấy đều cho tan gia vị và nấu sôi. them ớt khô, tắt lửa.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "number": 8,
+    "foods_id": 9,
+    "content": "Cho hoành thánh ra tô, rắc hành lá lên trên, rưới sốt đã nấu lên trên. Dùng nóng.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "number": 1,
+    "foods_id": 10,
+    "content": "Thịt ba rọi để nguyên miếng, xăm nhẹ thịt bằng nĩa để ướp thịt mau thấm.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "number": 2,
+    "foods_id": 10,
+    "content": "Trộn đều gia vị gồm 1m mè đen, 1m mè trắng, 1m dầu hào, 2m dầu điều, 1m hành băm, 1m tỏi băm, 1m nước tương Phú Sĩ, 1m Hạt nêm Aji-ngon® HEO, 1/2m Bột ngọt Aji-no-moto® và ướp vào thịt để thấm 20-30 phút.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "number": 3,
+    "foods_id": 10,
+    "content": "Bắp mỹ cắt khúc 2cm, luộc chín với nước pha ít hạt nêm. Măng tây bào sơ vỏ, cắt khúc 5-6cm, chần sơ với nước pha ít hạt nêm. Cà chua bi chẻ đôi.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "number": 4,
+    "foods_id": 10,
+    "content": "Cho thịt vào NỒI CHIÊN KHÔNG DẦU, mở chế độ nướng thịt và nướng 160 độ lần 1 trong vòng 15 phút.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "number": 5,
+    "foods_id": 10,
+    "content": "Trở mặt thịt, cho rau củ vào và quét thêm ít dầu ăn bên ngoài, rắc ít lá basil khô, cho vào NCKD nướng thêm 15 phút.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "number": 6,
+    "foods_id": 10,
+    "content": "Xốt chấm: Pha hỗn hợp 1/2m tiêu, 1/3m bột ngọt ajinomoto, 1m đường, 1M dầu ăn, 1/2m tương cà, 2M nước tương Phú Sĩ, 1/2M tương ớt, 2M nước, 1M tỏi băm rồi nấu cho hỗn hợp sôi lên.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "number": 7,
+    "foods_id": 10,
+    "content": "Cắt thịt thành lát mỏng và xếp ra đĩa, ăn kèm xốt chấm và rau củ nướng.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "number": 1,
+    "foods_id": 11,
+    "content": "Thịt bò cuộn thành cuộn nhỏ vừa ăn.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "number": 2,
+    "foods_id": 11,
+    "content": "Cà rốt, củ cải trắng bào vỏ, sau đó dufgn dao bào từng miếng dài, cuộn tròn lại.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "number": 3,
+    "foods_id": 11,
+    "content": "Cải thảo chần sơ, cuộn tròn. Hành tây cắt lát mỏng. Hành lá cắt nhỏ 1 nhánh, phần còn lại chần sơ.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "number": 4,
+    "foods_id": 11,
+    "content": "Trứng gà đánh tan, trán mỏng, cắt từng miếng dài, cuộn tròn lại như cá nguyên liệu khác. Dùng dây hành chần cột lại định hình.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "number": 5,
+    "foods_id": 11,
+    "content": "Pha nước lẩu: Pha nước lẩu theo hướng dẫn trên bào bì, 1 gói Gia Vị Nêm Sẵn Aji-Quick phở bò pha với 1.5L nước.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "number": 6,
+    "foods_id": 11,
+    "content": "Lần lượt xếp tất cả nguyên liệu vào nồi đất đường kính khoảng 18-20cm, bên dưới lót hành tây. Thêm nước lẩu vào ngập nguyên liệu.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "number": 7,
+    "foods_id": 11,
+    "content": "Nấu sôi nước lẩu, khi ăn chấm kèm tương đen, sa tế.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 12,
+    "number": 1,
+    "foods_id": 12,
+    "content": "Lạng vỏ cam, cắt sợi 2li, mài 1/2M vỏ để trộn vào bột bánh rán pha sẵn vị Sô-cô-la. Vắt lấy nước 1 quả cam. 1 quả tách múi để bày lên bánh.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 12,
+    "number": 2,
+    "foods_id": 12,
+    "content": "Trụng vỏ cam sợi qua nước sôi, để ráo rồi ướp với 4M đường,1/2M nước cốt chanh, sên cho đến khi đường ráo và bám vào sợi vỏ cam.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 12,
+    "number": 3,
+    "foods_id": 12,
+    "content": "Đánh kem: Đánh nổi whipping, cho vào túi bắt kem. Giữ trong tủ mát.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 12,
+    "number": 4,
+    "foods_id": 12,
+    "content": "Làm bánh: Trộn nước cam với nước cho đủ lượng nước pha bột bánh rán pha sẵn vị Sô-cô-la, pha bột theo hướng dẫn, thêm 1/2M vỏ cam cắt nhỏ vào. Làm thành những cái bánh đều nhau.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 12,
+    "number": 5,
+    "foods_id": 12,
+    "content": "Trình bày: Đặt 1 cái bánh ra đĩa, phết 1 lớp whipping, 1 ít miếng cam. Đặt thêm 1 cái bánh lên trên, xếp cam bên ngoài, bên trong dùng kem whipping tạo hình tháp. Trên cùng đặt vài sợi mứt cam. ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 12,
+    "number": 6,
+    "foods_id": 12,
+    "content": "Bày kèm mứt cam bên cạnh bánh để ăn kèm.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 12,
+    "number": 7,
+    "foods_id": 12,
+    "content": "🧋 Món nước uống ngon đi kèm: Trà sữa hạt é sương sâm",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 13,
+    "number": 1,
+    "foods_id": 13,
+    "content": "Bắp cải cắt sợi nhuyễn, rửa sạch, để ráo.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 13,
+    "number": 2,
+    "foods_id": 13,
+    "content": "Hành lá cắt nhỏ.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 13,
+    "number": 3,
+    "foods_id": 13,
+    "content": "Xúc xích xông khói dùng dao khứa quanh xúc xích.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 13,
+    "number": 4,
+    "foods_id": 13,
+    "content": "Pha hỗn hợp bắp cải: Trộn đều bắp cải với 2 quả trứng, 1/2m hạt nêm Aji-ngon và 4M Aji Quick bột chiên giòn.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 13,
+    "number": 5,
+    "foods_id": 13,
+    "content": "Sử dụng chảo chống dính size 20cm đáy bằng, đun nóng ít dầu ăn, cho 1/2 hỗn hợp vào chảo, dàn thật mỏng, xếp phô mai lên trên, tiếp tới xúc xích rồi cuộn tròn lại, áp chảo đến khi hotdog chín vàng đều các mặt.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 13,
+    "number": 6,
+    "foods_id": 13,
+    "content": "Cắt hotdog thành từng lát dày 1.5cm, xếp ra dĩa, topping tương cà và mayonniase.",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 14,
+    "number": 1,
+    "foods_id": 14,
+    "content": "Táo bỏ vỏ,cắt vuông 1cm.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 14,
+    "number": 2,
+    "foods_id": 14,
+    "content": "Kiwi bỏ vỏ,cắt vuông 1cm.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 14,
+    "number": 3,
+    "foods_id": 14,
+    "content": "Dâu cắt đôi.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 14,
+    "number": 4,
+    "foods_id": 14,
+    "content": "Cho 35ml nước vào 75g bột pancake, khuấy đều đến khi hỗn hợp mịn",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 14,
+    "number": 5,
+    "foods_id": 14,
+    "content": "Nướng bánh theo hướng dẫn trong bao bì. – Làm caramel: cho 10g đường, 1m nước lọc thắng tan chảy, đến khi hỗn hợp có màu nâu nhạt, tắt bếp cho từ từ 15ml whipping cream khuấy đều. Sau đó cho thêm 15g bơ lạnh & 1m rượu Rum tiếp tực khuấy tan đều.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 14,
+    "number": 6,
+    "foods_id": 14,
+    "content": "Phết caramel lên mặt bánh pancake, xếp lần lượt bánh chồng lên nhau. Cho trái cây lên mặt bánh cuối cùng, rưới xốt caramel đều trên mặt trái cây.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "number": 1,
+    "foods_id": 15,
+    "content": "Chẩm chéo: sả cây đập giập cắt nhỏ, các loại rau cắt nhỏ, tỏi cắt lát. Rang thơm hạt dỗi, mắc khén, ớt thóc. Cho tất cả vào cối thêm 1M Hạt nêm Aji-ngon® GÀ, 1m muối, 1m Bột ngọt AJI-NO-MOTO® , 1m đường, 1m tiêu giã nhuyễn, sau cùng thêm 1mGiấm gạo lên men Ajinomoto vào trộn đều.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "number": 2,
+    "foods_id": 15,
+    "content": "Ướp gà với 4M muối chẩm chéo 45 phút.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "number": 3,
+    "foods_id": 15,
+    "content": "Dầu nóng cho thịt gà vào xào săn, thêm từ từ nước dừa xào lửa vừa cho thịt rút ráo nước dừa, thịt chín mềm thấm vị.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "number": 4,
+    "foods_id": 15,
+    "content": "Dùng nóng với cơm, rau luộc, chấm thêm chẩm xéo tùy vị.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "number": 1,
+    "foods_id": 16,
+    "content": "Cơm gạo Thái hạt dài nấu khô ráo dùng để chiên cơm.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "number": 2,
+    "foods_id": 16,
+    "content": "Thịt bò fillet mềm cắt khối 5mm.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "number": 3,
+    "foods_id": 16,
+    "content": "Kimchi cắt sợi ngang 3mm vắt ráo nước. Ướp thịt bò với 1m gừng, 1m Nước tương “Phú Sĩ”.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "number": 4,
+    "foods_id": 16,
+    "content": "Hành lá cắt nhỏ đầu lá để riêng. Trứng chiên ốp la.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "number": 5,
+    "foods_id": 16,
+    "content": "Phi thơm 1M tỏi với dầu ăn cho thịt bò vào xào chín tái trút ra để riêng. Thêm dầu vào chảo tiếp tục phi thơm phần tỏi còn lại với đầu hành.Thêm kimchi, bắp vào xào thơm, thêm3M tương ớt Hàn Quốc, nước kim chi hòa tan đều. Cho cơm, 1m Bột ngọt AJI-NO-MOTO®, 1M Nước tương “Phú Sĩ” vào trộn đều nếm vị vừa ăn, chiên lửa vừa đến khi hạt cơm rám mặt. Cho thịt bò, hành lá, dầu mè vào xốc đều.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "number": 6,
+    "foods_id": 16,
+    "content": "Cho cơm ra chén, nén chặt, úp ngược ra đĩa cho trứng ốp la trên trên, rắc ít mè trắng rang và rong biển khô trên cùng. Dùng nóng, chan thêm nước tương tùy vị.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "number": 1,
+    "foods_id": 17,
+    "content": "Khoai tây bào sợi, rửa sạch để ráo.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "number": 2,
+    "foods_id": 17,
+    "content": "Hành tây cắt hạt lựu.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "number": 3,
+    "foods_id": 17,
+    "content": "Cà chua cắt khoanh 3mm.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "number": 4,
+    "foods_id": 17,
+    "content": "Hành lá cắt nhuyễn.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "number": 5,
+    "foods_id": 17,
+    "content": "Thịt nguội cắt vuông 2cm.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "number": 6,
+    "foods_id": 17,
+    "content": "Phô mai Mozzarella bào sợi.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "number": 7,
+    "foods_id": 17,
+    "content": "Xào hành tây với ít dầu đến khi trong, để nguội. Cho hành tây, khoai tây, trứng, 1/4m Aj heo, tiêu xay, lá xạ hương tươi & quế tây, 2M bột tẩm khô chiên giòn, trộn đều.",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "number": 8,
+    "foods_id": 17,
+    "content": "Cho lớp mỏng dầu ăn vào chảo đk 20cm , cho hỗn hợp trên vào trải dẻ đều, chiên đến khi vàng nâu hai mặt. Cho thêm 2M tương cà dàn đều mặt bánh. Lần lượt xếp ham, cà chua, phô mai. Đậy nắp lại chiên thêm 3 phút. Thêm hành lá cắt nhuyễn lên mặt",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "number": 9,
+    "foods_id": 17,
+    "content": "Cho bánh ra dĩa, ăn kèm tương cà/ tương ớt tùy vị",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 18,
+    "number": 1,
+    "foods_id": 18,
+    "content": "Gà cắt miếng nhỏ vừa ăn. Ướp gừng băm, tiêu, 1 ít ớt bột, và 1m GVNS Aji-Quick bột chiên giòn.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 18,
+    "number": 2,
+    "foods_id": 18,
+    "content": "Cam mài vỏ để riêng. Vắt lấy nước cam để riêng.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 18,
+    "number": 3,
+    "foods_id": 18,
+    "content": "Pha hỗn hợp bột chiên: trộn đều 1 gói GVNS Aji-Quick bột chiên giòn, với 150g nước lọc và 30g nước cam.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 18,
+    "number": 4,
+    "foods_id": 18,
+    "content": "Bột năng pha loãng với 1 ít nước.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 18,
+    "number": 5,
+    "foods_id": 18,
+    "content": "Đun nóng dầu ăn, lần nước tẩm gà qua hỗn hợp bột chiên giòn, đem chiên chín vàng, vớt ra để ráo dầu.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 18,
+    "number": 6,
+    "foods_id": 18,
+    "content": "Pha sốt cam: Đun nóng hỗn hợp gồm 60g nước cam, 1m đường, 1m nước tương, thêm nước bột năng pha loãng tạo độ sánh, cuối cùng cho gà vào xóc đều.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 18,
+    "number": 7,
+    "foods_id": 18,
+    "content": "Cho gà ra dĩa, rắc ớt bột lên trên. Dùng nóng.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 18,
+    "number": 8,
+    "foods_id": 18,
+    "content": " ",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "number": 1,
+    "foods_id": 19,
+    "content": "Khoai tây luộc chín, bóc vỏ, cắt hạt lựu.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "number": 2,
+    "foods_id": 19,
+    "content": "Dăm bông cắt hạt lựu.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "number": 3,
+    "foods_id": 19,
+    "content": "Củ dền, bắp Mỹ, đậu bi luộc chín.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "number": 4,
+    "foods_id": 19,
+    "content": "Pha sốt trộn: 1.5M Xốt Mayonniase Aji-mayo vị nguyên bản, 1.5m sữa chua có đường, 1.5m mù tạt vàng, 1 ít muối.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "number": 5,
+    "foods_id": 19,
+    "content": "Trộn đều các loại rau củ và dăm bông với 1 ít muối, tiêu, sau đó cho sốt và trộn đều.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "number": 6,
+    "foods_id": 19,
+    "content": "Cho salad ra dĩa, xếp trứng cút xung quanh.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "number": 1,
+    "foods_id": 20,
+    "content": "Hòa rượu & gừng xát lên phần da đẻ 15 phút. Ngâm ngập đùi dê trong nước muối 10% 2h. Lấy ra để ráo. Ướp đùi dê với 2M tỏi xay, 1M bột nướng thịt, 1/2M Bột ngọt AJI-NO-MOTO® , 2M Nước tương “Phú Sĩ”, 1/2m muối, 1m tiêu, 1 chén nước cốt dừa, 2M dầu điều để 2h.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "number": 2,
+    "foods_id": 20,
+    "content": "Cho đùi dê vào lò nướng 180oC 15′, sau đó phết Giấm gạo lên men Ajinomoto lên phần da nướng tiếp 200oC đến khi thịt chín, tầm 45′.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "number": 3,
+    "foods_id": 20,
+    "content": "Làm muối sả: rang thơm hạt dỗi, mắc khén và ớt thóc cho vào cối (tô) cùng với sả, ngò gai, 1m muối, 1m Bột ngọt AJI-NO-MOTO® giã nhuyễn. Khi ăn vắt thêm nước cốt tắc.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "number": 4,
+    "foods_id": 20,
+    "content": "Bày nguyên đùi lên thớt + muối sả, rau. Dùng tới đâu cắt tới đó, chấm thêm muối sả tùy vị.",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 21,
+    "number": 1,
+    "foods_id": 21,
+    "content": "Thanh cua xé sợi nhỏ.",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "number": 2,
+    "foods_id": 21,
+    "content": "Khoai tây, cà rốt bào sợi, ướp với 1/3m muối trong 5 phút sau đó bóp & xả sạch với nước, để ráo.",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "number": 3,
+    "foods_id": 21,
+    "content": "Hành lá cắt nhỏ. Phô mai cắt miếng vuông cạnh 1cm.",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "number": 4,
+    "foods_id": 21,
+    "content": "Trộn đều các nguyên liệu khoai tây, cà rốt, đậu cove Nhật, thanh cua, hành lá, nêm 1/2m Hạt nêm Aji-ngon® HEO, 1m Bột ngọt AJI-NO-MOTO®, ít tiêu, 1m mè đen.",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "number": 5,
+    "foods_id": 21,
+    "content": "Pha Aji-Quick® BỘT CHIÊN GIÒN theo tỷ lệ trên bao bì, trộn đều với hỗn hợp rau củ.",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "number": 6,
+    "foods_id": 21,
+    "content": "Đun nóng dầu ăn, bọc viên thanh cua quanh phô mai, đem chiên chín vàng, vớt ra để ráo dầu.",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "number": 7,
+    "foods_id": 21,
+    "content": "Xếp viên thanh cua phô mai ra dĩa, khi ăn chấm kèm Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản trộn tương cà tỷ lệ (3:1).",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 22,
+    "number": 1,
+    "foods_id": 22,
+    "content": "Sơ chế đầu cá và ruột cá cho thật sạch. Trứng cá rửa sạch ướp sơ đầu cá với 1/2M hạt nêm Aji-ngon He, 1 trái ớt hiểm băm. Phi sả đập dập cho thơm. Tắt lửa cho đầu cá + ruột + trứng cá vào, xốc sơ cho thấm mùi thơm rồi trút ra.",
+    "created_at": "2023-12-30 19:26:38",
+    "updated_at": "2023-12-30 19:26:38"
+  },
+  {
+    "id": 22,
+    "number": 2,
+    "foods_id": 22,
+    "content": "Đun 1,5 nước cho gói gia vị Gia vị nêm sẵn Aji-Quick® LẨU THÁI vào nấu sôi. Thả đầu cá vào + ruột + trứng cá vào. Phi thơm 1/2M tỏi với ít dầu, xào sơ nấm rơm, cà chua và thơm, rồi cho vào trong nồi lẩu. Cuối cùng dằn thêm 1M nước mắm.",
+    "created_at": "2023-12-30 19:26:38",
+    "updated_at": "2023-12-30 19:26:38"
+  },
+  {
+    "id": 22,
+    "number": 3,
+    "foods_id": 22,
+    "content": "Bày các loại rau và nấm kim châm ra mẹt tre cùng với nồi nước Lẩu. Khi ăn cho lần lượt các loại rau vào đun nước dùng sôi cho đầu cá trở lại nước dùng lẩu cho nóng. Xong múc đầu cá ra dĩa, cho rau thơm vào nước lẩu.",
+    "created_at": "2023-12-30 19:26:38",
+    "updated_at": "2023-12-30 19:26:38"
+  },
+  {
+    "id": 22,
+    "number": 4,
+    "foods_id": 22,
+    "content": " Ăn kèm bún và nước mắm ớt.",
+    "created_at": "2023-12-30 19:26:38",
+    "updated_at": "2023-12-30 19:26:38"
+  },
+  {
+    "id": 23,
+    "number": 1,
+    "foods_id": 23,
+    "content": "Cà rốt, nấm đông cô cắt sợi. Nấm kim châm xé nhỏ, cắt đôi.",
+    "created_at": "2023-12-30 19:26:40",
+    "updated_at": "2023-12-30 19:26:40"
+  },
+  {
+    "id": 23,
+    "number": 2,
+    "foods_id": 23,
+    "content": "Trứng gà đánh tan. Pha loãng 3M bột năng pha loãng với 1/3 chén nước. Ngò rí cắt nhỏ.",
+    "created_at": "2023-12-30 19:26:40",
+    "updated_at": "2023-12-30 19:26:40"
+  },
+  {
+    "id": 23,
+    "number": 3,
+    "foods_id": 23,
+    "content": "Đun sôi nước dùng, lần lượt cho cà rốt, cua và các loại nấm vào nấu chín, nêm 1.5M Gia vị nêm sẵn Aji-Quick® LẨU THÁI , 2m đường, 1m Bột ngọt AJI-NO-MOTO®, thêm bột năng tạo độ sánh, tiếp tục cho trứng vào khuấy đều tạo vân, tắt lửa.",
+    "created_at": "2023-12-30 19:26:40",
+    "updated_at": "2023-12-30 19:26:40"
+  },
+  {
+    "id": 23,
+    "number": 4,
+    "foods_id": 23,
+    "content": "Múc súp ra tô, rắc thêm tiêu & ngò rí, dùng nóng.",
+    "created_at": "2023-12-30 19:26:40",
+    "updated_at": "2023-12-30 19:26:40"
+  },
+  {
+    "id": 24,
+    "number": 1,
+    "foods_id": 24,
+    "content": "Thịt cá thu tươi bỏ xương (nhớ chọn cá thu tươi thì chả mới dai).",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "number": 2,
+    "foods_id": 24,
+    "content": "Lá lốt lấy lá non nhỏ cắt nhỏ 1M.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "number": 3,
+    "foods_id": 24,
+    "content": "Tiêu xanh đập dập.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "number": 4,
+    "foods_id": 24,
+    "content": "Mỡ luộc cắt nhỏ ướp đường (luộc nguyên miếng rồi mới cắt)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "number": 5,
+    "foods_id": 24,
+    "content": "Quết chả: Cá cắt dày 1 cm. Cho vào cối giã cùng 1M đầu hành băm, 1/2m tỏi băm, 1 nhánh tiêu xanh, thêm mỡ, gia vị: 1m đường, 1m Hạt nêm Aji-ngon® HEO, 1m nước mắm, 1/3m tiêu xay, 1/3m bột ngọt Ajinomoto, lòng trắng trứng, quết cá cho dai rồi cho 1m ớt băm, 1M lá lốt cắt sợi vào trộn đều.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "number": 6,
+    "foods_id": 24,
+    "content": "Tạo hình và chiên: Lấy ra gói vào lá lốt tạo hình cuốn tròn. Xiên vào que, 1 xiên 7 cuốn. Bắc chảo cho dầu cao 1 cm. Cho các miếng chả vào chiên chín vàng.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "number": 7,
+    "foods_id": 24,
+    "content": "Bày chả ra dĩa cùng salad, dưa, rắng mè trắng rang và tỏi phi. Topping Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản lên mặt miếng chả.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "number": 8,
+    "foods_id": 24,
+    "content": "Chấm Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản pha cùng tương ớt tỉ lệ 2:1.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "number": 1,
+    "foods_id": 25,
+    "content": "Sườn non chặt miếng 4×3 cm, mít non cắt khối tam giác cùng cỡ.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "number": 2,
+    "foods_id": 25,
+    "content": "Ướp sườn với 2M hành tỏi băm, 1m muối, 1M đường, 1m Bột ngọt AJI-NO-MOTO®, 1.5m Hạt nêm Aji-ngon® HEO, 1/2m bột cà ri, 1M màu dầu điều khoảng 30phút. Mít chiên sơ qua dầu đến khi sém mặt.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "number": 3,
+    "foods_id": 25,
+    "content": "Sả cây cắt khúc đập giập, hành tây cắt múi cau.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "number": 4,
+    "foods_id": 25,
+    "content": "Bắc chảo phi sả, lá cà ri, cho sườn vào xào săn, sau đó cho nước dão dừa cho ngập sườn, đậy vung. Khi sườn chín mềm thì cho mít vào om tiếp cho chín, tổng cộng 30 phút. Thêm ớt hiểm, hành tây. Cho chén nước cốt dừa vào nấu thêm 1 phút rồi tắt lửa.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "number": 5,
+    "foods_id": 25,
+    "content": "Múc ra tô/dĩa sâu. Bày thêm đậu phộng rang, rau om, ngò gai, ớt. Bày ăn kèm với bún hoặc bánh mì và muối ớt chanh.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "number": 1,
+    "foods_id": 26,
+    "content": "Ướp thịt bê với 1m muối, 1M đường, 2m Hạt nêm Aji-ngon® HEO, 1M hành tỏi băm, 1/2M gừng cắt lát, 1M sả băm, 3M nước nghệ, 1/2 chén Giấm gạo lên men Ajinomoto.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "number": 2,
+    "foods_id": 26,
+    "content": "Om thịt bê: Bắc chảo cho 2M dầu ăn, cho sả khúc và hành tím nguyên củ vào xào thơm. Cho thịt bê vào xào săn, cho nước dừa và 2 chén nước, đậy vung om lửa vừa. Đến khi thịt bê chín, nước sánh. Cho thêm hành tây, ớt sừng, 1/2M nước mắm vào.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "number": 3,
+    "foods_id": 26,
+    "content": "Múc ra dĩa sâu, thêm rau nêm lên trên. Ăn kèm cơm hoặc bánh mì.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 27,
+    "number": 1,
+    "foods_id": 27,
+    "content": "Sơ chế cá sạch để nguyên vẩy, móc hết ruột, cạo sạch màng đen trong bụng cá. Áp chảo cá với ít đầu hành cho vẩy vừa giòn 2 mặt. Giã 5 cái đầu hành, 1m muối, 4 trái ớt, 1M hành tỏi, 1/2m tiêu, 1.5M đường, 1m Bột ngọt AJI-NO-MOTO®, 2m Hạt nêm Aji-ngon® HEO. Ướp cá với 3M nước mắm, hỗn hợp gia vị giã, 2M dầu điều 30 phút.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 27,
+    "number": 2,
+    "foods_id": 27,
+    "content": "Lót mía vào nồi áp suất. Xếp cá lên mía, trên mặt cá để tiêu xanh, ớt hiểm xanh đỏ. Thêm nước 1 trái dừa tươi và nước nóng cho ngập qua cá 3 – 4cm. Đậy vung nồi áp suất, bắc lên bếp kho khoảng 2h lửa nhỏ cho cá chín mềm.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 27,
+    "number": 3,
+    "foods_id": 27,
+    "content": "Tắt lửa, múc cá ra dĩa. Còn nước cá để riêng chấm rau ghém, rau luộc. Ăn kèm cơm trắng, rau ghém các loại.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 27,
+    "number": 4,
+    "foods_id": 27,
+    "content": "🍵 Món canh ngon đi kèm bữa cơm ngon hơn: Canh chùm ngây sườn non",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 28,
+    "number": 1,
+    "foods_id": 28,
+    "content": "Tôm bóc vỏ, chẻ lưng, lấy chỉ đen. Giữ lại đầu tôm.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 28,
+    "number": 2,
+    "foods_id": 28,
+    "content": "Phi thơm tỏi băm với bơ, thêm sữa tươi, nêm 1m hạt nêm, 1m đường, 1m bột ngọt, cho tôm và bắp vào nấu đến khi sốt sệt lại, tắt lửa, thêm 1/2m ớt bột, lá quế cắt nhỏ.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 28,
+    "number": 3,
+    "foods_id": 28,
+    "content": "Cho Tôm ra dĩa topping Xốt Mayonnaise Aji-mayo ngọt dịu, dùng nóng kèm bông cải xanh luộc.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "number": 1,
+    "foods_id": 29,
+    "content": "Trụng rau:",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "number": 2,
+    "foods_id": 29,
+    "content": "Cho ít nước vào nồi đun sôi sau đó cho lần lượt cà rốt và đậu cô ve vào trụng chín. Tiếp theo là ngâm vào trong nước đá lạnh để nguội vớt ra để ráo. Trụng hành lá để nguội. Củ hồi cắt que, một ít băm nhỏ.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "number": 3,
+    "foods_id": 29,
+    "content": "Thịt ba chỉ cắt mỏng miếng dài khoảng 10cm.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "number": 4,
+    "foods_id": 29,
+    "content": "Cuộn cá:",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "number": 5,
+    "foods_id": 29,
+    "content": "Cá phi lê cắt bản to và dài sau đó phết 1 lớp mù tạt xanh mỏng lên cá. Tiếp theo cho lần lượt 1/2 lát phô mai, cà rốt, đậu cô ve và củ hồi vào sau đó cuộn cá chặt tay rồi cuộn bọc thịt ba chỉ bên ngoài, dùng hành lá cột lại",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "number": 6,
+    "foods_id": 29,
+    "content": "Kế tiếp tẩm cuộn cá qua Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn và mang chiên vàng với lửa nhỏ.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "number": 7,
+    "foods_id": 29,
+    "content": "Cắt bỏ cọng hành lá sau đó cắt khoanh cuộn cá. Trình bày cùng với xà lách, cà chua và dưa leo, chấm cùng với Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản và tương ớt pha cùng với nhau theo tỉ lệ 1:1 và 1m củ hồi băm nhỏ.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "number": 1,
+    "foods_id": 30,
+    "content": "Miến chần nước sôi, vớt ra xả nước lạnh, để ráo.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "number": 2,
+    "foods_id": 30,
+    "content": "Pha xốt trộn: Cho ớt hiểm, ớt xiêm, cà chua, đậu bún, 1M ngò gai vào cối, nêm 2M Aji Quick Lẩu Thái, 1.5M đường, 1M nước mắm, 1m tương ớt dùng chày giã đều nguyên liệu",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "number": 3,
+    "foods_id": 30,
+    "content": "Phi thơm hành tỏi băm, xào thơm tôm, nêm 1/2m Aji Quick Lẩu Thái, xóc đều, để riêng.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "number": 4,
+    "foods_id": 30,
+    "content": "Trộn đều miếng với xốt trộn.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "number": 5,
+    "foods_id": 30,
+    "content": "Cho miến trộn ra dĩa, xếp tôm lên trên, rắc đậu phộng, khi ăn trộn đều.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "number": 1,
+    "foods_id": 31,
+    "content": "Cà chua cắt múi cau, chia làm 2 phần.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "number": 2,
+    "foods_id": 31,
+    "content": "Huyết heo cắt miếng vừa ăn. Ngò gai cắt nhỏ.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "number": 3,
+    "foods_id": 31,
+    "content": "Cua đồng xay lọc lấy nước, nấu sôi, vớt riêu để riêng, nước cua đong thêm nước lọc để có 1.5L nước dùng cua.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "number": 4,
+    "foods_id": 31,
+    "content": "Phi thơm hành tím với dầu ăn, xào 1 trái cà chua cắt múi khoảng 2 phút, thêm 1.5L nước dùng vào nấu sôi, nêm 1 gói AQ Bún riêu cua, cho các nguyên liệu ăn kèm đậu hũ, huyết, cà chua.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "number": 5,
+    "foods_id": 31,
+    "content": "Cho bún ra tô, múc nước bún riêu, có các nguyên liệu ăn kèm, thêm ngò gai và thưởng thức.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "number": 6,
+    "foods_id": 31,
+    "content": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 32,
+    "number": 1,
+    "foods_id": 32,
+    "content": "Cho 2 gói Trà sữa Royal “Blendy” vào cùng với 60ml nước sôi sau đó khuấy tan đều và để nguội.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 32,
+    "number": 2,
+    "foods_id": 32,
+    "content": "Cho 6 quả nho vào ly cao sau đó dùng dụng cụ dầm cho nho mềm tiếp sau đó cho nước đá lên tiếp tục cho sữa tươi không đường vào, kế tiếp cho Trà sữa Royal “Blendy” vào trên cùng là 3 viên kem vani bên trên thêm 1 lớp sốt socola.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 32,
+    "number": 3,
+    "foods_id": 32,
+    "content": "2 quả nho còn lại cắt đôi sau đó cho lên trên cùng với húng lủi trang trí.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 33,
+    "number": 1,
+    "foods_id": 33,
+    "content": "Tắc: vắt lấy nước cốt, giữ lại phần vỏ của 1 quả tắc. Rau xà lách xoong rửa sạch, để ráo.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 33,
+    "number": 2,
+    "foods_id": 33,
+    "content": "Mực lá làm sạch, khứa vẩy rồng, cắt miếng vừa ăn. Ướp mực với hành tím băm và vỏ tắc băm.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 33,
+    "number": 3,
+    "foods_id": 33,
+    "content": "Pha xốt tắc: khuấy tan đều 2M nước cốt tắc với 1M đường, 1/3m muối, 1 ít bột ngọt AJI-NO-MOTO, 1 trái ớt hiểm băm.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 33,
+    "number": 4,
+    "foods_id": 33,
+    "content": "Pha bột: pha 1 gói Aji-Quick® Bột chiên giòn với 150ml nước (pha theo tỉ lệ trên bao bì), cho vào tô bột 2m nước cốt tắc.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 33,
+    "number": 5,
+    "foods_id": 33,
+    "content": "Chiên mực: đun nóng dầu ăn, lấy ½ gói Aji-Quick® Bột chiên giòn cho ra dĩa để tẩm mực, lăn mực qua phần bột khô rồi nhúng vào tô bột đã pha, cho vào chảo chiên vàng giòn, vớt ra để ráo dầu. – Rưới xốt lên xà lách và cho mực lên trên.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 33,
+    "number": 6,
+    "foods_id": 33,
+    "content": "Xếp mực chiên giòn và xà lách xoong chiên ra dĩa, dùng kèm với xốt tắc.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "number": 1,
+    "foods_id": 34,
+    "content": "Ngâm các khô cho mềm. Giữ lại nước ngâm, cá xé miếng bản 1cm.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "number": 2,
+    "foods_id": 34,
+    "content": "Khoai tây, củ cải trắng và đậu hủ cắt miếng nhỏ 2x3cm.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "number": 3,
+    "foods_id": 34,
+    "content": "Hành poireau cắt khoanh tròn 2mm. Giá lặt sạch.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "number": 4,
+    "foods_id": 34,
+    "content": "Trứng gà đánh tan thêm 1m rượu trắng.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "number": 5,
+    "foods_id": 34,
+    "content": "Xào thơm tỏi 1m với ít dầu mè. Cho cá khô vào xốc đều, nêm 1M nước tương Phú Sĩ vào đảo nhanh tay. Thêm nước ngâm cá + 1,5 lít nước lọc đun sôi, cho khoai tây, củ cải nêm 1M Hạt nêm Aji-ngon® HEO, 1m muối nấu chín. Tiếp tục cho trứng vào đánh tạo ván vân mây. Sau cùng thêm đậu hủ, giá, hành poireau vào kiểm tra vị vừa ăn.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "number": 6,
+    "foods_id": 34,
+    "content": "Dùng nóng với cơm và món mặn.",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 35,
+    "number": 1,
+    "foods_id": 35,
+    "content": "Sườn non rửa sạch, để ráo, ướp với 1m Hạt nêm Aji-ngon® heo.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "number": 2,
+    "foods_id": 35,
+    "content": "Nấm đông cô ngâm nở, rửa sạch, bỏ chân, cắt đôi",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "number": 3,
+    "foods_id": 35,
+    "content": "Đẳng sâm rửa sạch, cắt đôi.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "number": 4,
+    "foods_id": 35,
+    "content": "Nấm kim châm rửa sạch, xé rời.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "number": 5,
+    "foods_id": 35,
+    "content": "Bắc nồi nóng, xào xuyên tiêu với 1M dầu điều cho thơm, cho sườn non vào xào săn, thêm 1.5L nước vào, nấu 10p sôi, vớt bọt.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "number": 6,
+    "foods_id": 35,
+    "content": "Cho tiếp đẳng sâm, kỷ tử, táo đỏ, nấm đông cô vào nấu thêm 20p (nước cạn còn khoảng 1l).",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "number": 7,
+    "foods_id": 35,
+    "content": "Cho tiếp nấm kim châm vào, Nêm gia vị gồm: 1/3m muối, 2m Hạt nêm Aji-ngon® Heo, 1m đường, 1m Bột ngọt Aji-no-moto®.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "number": 8,
+    "foods_id": 35,
+    "content": "Múc canh ra tô, cho thêm hành ngò lên trên mặt, dùng nóng.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 36,
+    "number": 1,
+    "foods_id": 36,
+    "content": "Pha bột: trộn đều 1 gói bột bánh rán với 140gr nước.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 36,
+    "number": 2,
+    "foods_id": 36,
+    "content": "Phô mai: cắt miếng vuông (5cmx5cmx0.8cm), mỗi miếng ~20gr.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 36,
+    "number": 3,
+    "foods_id": 36,
+    "content": "Rán bánh:",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 36,
+    "number": 4,
+    "foods_id": 36,
+    "content": "+ Lớp bánh thứ 1: làm nóng chảo -> hạ nhiệt chảo bằng khăn ướt -> phết 1 lớp bơ mỏng lên chảo -> cho 1 vá bột vào chảo (dùng vá dàn mỏng bột, tạo hình tròn đường kính ~10cm ), rán bánh khoảng 1 phút, bánh se mặt thì lấy ra dĩa",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 36,
+    "number": 5,
+    "foods_id": 36,
+    "content": "+ Lớp bánh thứ 2: Tiếp tục hạ nhiệt chảo -> phết 1 lớp bơ mỏng lên chảo -> cho 2/3 vá bột vào chảo, đặt phô mai vào giữa mặt bánh, tiếp tục xếp lớp bánh thứ nhất đã rán trước đó lên trên -> đậy nắp chảo, rán trong vòng 1 phút, đến khi bánh chín.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "number": 1,
+    "foods_id": 37,
+    "content": "Hem  chay và đậu hũ cắt sợi vừa ăn.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "number": 2,
+    "foods_id": 37,
+    "content": "Chiên giòn đậu hũ.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "number": 3,
+    "foods_id": 37,
+    "content": "Ớt chuông cắt sợi. Bí ngòi bỏ ruột, cắt làm 3 khúc, cắt sợi mỏng.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "number": 4,
+    "foods_id": 37,
+    "content": "Cần tây cắt xéo mỏng.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "number": 5,
+    "foods_id": 37,
+    "content": "Phở khô ngâm mềm",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "number": 6,
+    "foods_id": 37,
+    "content": "Pha xốt xào: Hòa tan 5M nước tương “Phú Sĩ”, 1M đường, 1m hạt nêm Aji-ngon® Nấm, 1M dầu hào chay, 1M tương ớt, 1M xốt cà hộp với 3M nước cốt me, rồi cho 1m ớt hiểm băm vào.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "number": 7,
+    "foods_id": 37,
+    "content": "Phi thơm hành boaro với 2M dầu ăn, cho lần lượt ớt chuông, bí ngòi, cần tây và hem vào xào chín, thêm giá sống, đậu hũ với 1/2 lượng xốt xào, nêm thêm ít tiêu, trộn đều, trút ra dĩa.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "number": 8,
+    "foods_id": 37,
+    "content": "Trộn phở với 1m hắc xì dầu, rồi áp chảo sợi phở, sau đó cho 1/2 lượng xốt xào và hỗn hợp rau củ vào đảo đều, tắt lửa.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "number": 9,
+    "foods_id": 37,
+    "content": "Cho Pad Thái ra dĩa, trang trí đậu phộng và lá húng quế lên trên, dùng nóng với nước tương “Phú sĩ”.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "number": 1,
+    "foods_id": 38,
+    "content": "Lá sương sông cắt chỉ.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "number": 2,
+    "foods_id": 38,
+    "content": "Cho thịt heo vào tô sau đó cho hết 5 tai nấm hương băm nhỏ và 5 lá xương sông thái chỉ, 4M hành lá thái nhỏ, 2M dầu hành lá băm, 1M ớt sừng băm, 1M gừng băm cùng với gia vị 1m Hạt nêm Aji-ngon® HEO, 1m Bột ngọt AJI-NO-MOTO®, 2/3m nước mắm, 1/2m tiêu sau đó trộn đều.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "number": 3,
+    "foods_id": 38,
+    "content": "Dùng muỗng cho nhân vào mặt láng của lá sau đó cuộn tròn lại và làm lần lượt cho hết nhân. Tiếp theo cho 5M dầu ăn vào chảo xếp chả vào và chiên với lửa vừa, chiên các mặt của chả sau đó cho ra giấy thấm dầu.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "number": 4,
+    "foods_id": 38,
+    "content": "Xếp chả ra đĩa cùng với dưa leo và rau thơm chấm cùng với sốt cho 2M Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản, 2M tương ớt trộn đều.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "number": 1,
+    "foods_id": 39,
+    "content": "Các loại rau củ cắt sợi rồi cắt khúc 1cm đều nhau. Trộn chung tất cả nguyên liệu cùng trứng gà. Thêm 1 gói Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn vào rau và hải sản, 1/2m tiêu, 1/2m hạt nêm Aji-ngon Heo, 1m nước mắm, 1M cọng ngò, 1M gừng băm, 1M tiêu xanh, 1m ớt hiểm băm, tạo viên hình bầu dục cỡ trái tắc lớn.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "number": 2,
+    "foods_id": 39,
+    "content": "Đun nóng dầu, cho viên ngưu bàng hải sản chiên ngập dầu đến khi vàng giòn. Pha 1/2 chén xốt Xốt Mayonnaise Aji-mayo® Vị Ngọt Dịu với 1/2M vỏ chanh mài, 1m nước chanh, 1m tương ớt.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "number": 3,
+    "foods_id": 39,
+    "content": "Bày rau mầm, đặt các viên chiên lên dĩa, cùng với chén sauce chấm.",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 40,
+    "number": 1,
+    "foods_id": 40,
+    "content": "Măng tây: tước xơ",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "number": 2,
+    "foods_id": 40,
+    "content": "Mực ống: cắt khoanh tròn",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "number": 3,
+    "foods_id": 40,
+    "content": "Ngò rí thái rối",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "number": 4,
+    "foods_id": 40,
+    "content": "Hành tây tím cắt khoanh tròn",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "number": 5,
+    "foods_id": 40,
+    "content": "Áp chảo măng tây: Cho 1M dầu ăn vào chảo sau đó cho cà chua bi cắt đôi vào áp chảo, trút ra. Phết 1 lớp dầu mỏng lên măng tây, nướng cho chín đều trong lúc nướng rắc thêm ít muối lên trên.",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "number": 6,
+    "foods_id": 40,
+    "content": "Chiên mực: Mực ống cắt khoanh dày 3cm sau đó tẩm Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn và chiên ngập dầu với lửa lớn, vớt ra giấy thấm dầu.",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "number": 7,
+    "foods_id": 40,
+    "content": "Pha xốt: Cho 1M dầu ăn vào chảo sau đó cho 1M hành tỏi băm vào phi thơm. Tiếp theo, cho 2M nước và 2M Giấm gạo lên men Ajinomoto vào cùng 2M đường và 1/4m muối vào đun sôi tiếp theo cho thêm vài giọt dầu mè.",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "number": 8,
+    "foods_id": 40,
+    "content": "Trình bày:",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "number": 9,
+    "foods_id": 40,
+    "content": "Cho hết lượng măng tây và hành tây cùng với cà chua bi áp chảo cùng với ngò rí thái rối vào tô.",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "number": 10,
+    "foods_id": 40,
+    "content": "Tiếp theo cho 1/2 lượng sốt đã pha vào trộn đều. Trình bày ra đĩa xếp mực chiên lên trên cùng với hạt điều và cuối cùng cho hết lượng sốt đã pha lên trên.",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 41,
+    "number": 1,
+    "foods_id": 41,
+    "content": "Bạch tuột chần sơ, cắt miếng vừa ăn, ướp với 1/2m hạt nêm Aji-ngon®, 1/2M tương ớt Hàn Quốc, để thấm.",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "number": 2,
+    "foods_id": 41,
+    "content": "Nấm đông cô cắt lát. Bắp cải cắt miếng vừa ăn. Hành tây cắt múi cau. Boa-rô cọng cắt lát xéo, lá cắt nhỏ.",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "number": 3,
+    "foods_id": 41,
+    "content": "Đun sôi nước, cho vào 1/2m hạt nêm Aji-ngon®, rồi cho bánh gạo vào luộc chín, vớt ra, xả nước lạnh, để ráo.",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "number": 4,
+    "foods_id": 41,
+    "content": "Pha hỗn hợp xào: 1/2m hạt nêm Aji-ngon®, 2M tương ớt Hàn Quốc, 1/3m bột ngọt AJI-NO-MOTO®, 1/2m đường, 1 chén nước nóng, khuấy tan.",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "number": 5,
+    "foods_id": 41,
+    "content": " ",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "number": 6,
+    "foods_id": 41,
+    "content": "Phi thơm tỏi băm với 3M dầu ăn, cho bạch tuột vào xào săn, trút ra để riêng, tiếp tục cho hành tây, hành boa-rô, bắp cải, nấm đông cô vào xào chín, tiếp tục cho bánh gạo vào đảo sơ, rồi cho hỗn hợp xào vào, đảo đều đến khi hỗn hợp bám đều vào bánh gạo, nước hơi sệt lại, cho bạch tuột và lá boa-rô vào, tắt lửa.",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "number": 7,
+    "foods_id": 41,
+    "content": "Cho bạch tuột xào ra dĩa, rắc mè rang lên, dùng nóng.",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 42,
+    "number": 1,
+    "foods_id": 42,
+    "content": "Chuẩn bị thêm máy đánh cà phê tạo bọt cầm tay",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 42,
+    "number": 2,
+    "foods_id": 42,
+    "content": "Pha bột Blendy® Trà Matcha Gạo Rang: Cho 2 gói bột Blendy® Trà Matcha Gạo Rang cùng với 50ml nước sôi sau đó khuấy tan đều để nguội.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 42,
+    "number": 3,
+    "foods_id": 42,
+    "content": "Pha cà phê: cho 20ml nước sôi cùng với 4g cà phê pha sẵn thêm vào 1m đường, 1 ít muối dùng máy đánh tạo bọt đánh bông.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 42,
+    "number": 4,
+    "foods_id": 42,
+    "content": "Trình bày: Cho Blendy® Trà Matcha Gạo Rang ra ly sau đó cho đá vào cho thêm 80ml sữa tươi không đường vào trên cùng là cho cà phê đã đánh bông lên trang trí thêm 2 ống bánh quế socola và nho khô lên trên.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 43,
+    "number": 1,
+    "foods_id": 43,
+    "content": "Khoai mài sau khi bào vỏ thái lát mỏng 2/3 còn 1/3 còn lại thái hạt lựu.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 43,
+    "number": 2,
+    "foods_id": 43,
+    "content": "Tôm ướp cùng gia vị 1M hành tím băm, 1m gừng băm cùng với gia vị 1/2m Hạt nêm Aji-ngon® HEO, 1/2m bột ngọt, 1/4m tiêu sau đó trộn đều và quết tạo độ dai cho tôm.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 43,
+    "number": 3,
+    "foods_id": 43,
+    "content": "Cho 1M dầu ăn vào chảo sau đó cho lượng hành tím còn lại vào xào thơm tiếp theo là cho 1 lít nước vào đun sôi sau đó cho khoai mài vào nấu, nêm vào canh 1M Hạt nêm Aji-ngon® HEO, 1/2M nước mắm cùng 1m Bột ngọt AJI-NO-MOTO®, sau đó dùng muỗng múc viên nhân tôm cho vào đun sôi vớt bọt nấu thêm 10 phút cho khoai mềm. trong lúc nấu lưu ý thường xuyên khuấy đều. Khi khoai mềm cho rau ngò ôm vào.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 43,
+    "number": 4,
+    "foods_id": 43,
+    "content": "Cho canh ra tô trang trí thêm rau om trên cùng là nhân tôm. Ăn kèm cơm trắng.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 1,
+    "foods_id": 44,
+    "content": "Củ năng, cà rốt Cắt sợi nhỏ.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 2,
+    "foods_id": 44,
+    "content": "Đậu hũ non cắt khối vuông nhỏ.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 3,
+    "foods_id": 44,
+    "content": "Nấm rơm búp cắt lát.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 4,
+    "foods_id": 44,
+    "content": "Nấm mèo ngâm mềm, cắt sợi nhuyễn.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 5,
+    "foods_id": 44,
+    "content": "Ngưu bàng tươi cạo vỏ, rửa cắt sợi.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 6,
+    "foods_id": 44,
+    "content": "Nấm hương sapa rửa sạch, cắt sợi nhuyễn",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 7,
+    "foods_id": 44,
+    "content": "Xào nấm",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 8,
+    "foods_id": 44,
+    "content": "Đậu hũ cắt khối vuông nhỏ.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 9,
+    "foods_id": 44,
+    "content": "Bắc chảo dầu phi poa-rô cho thơm. Vớt poa-rô ra, dầu còn lại trong chảo xào qua nấm rơm, nêm 1/2m Hạt nêm Aji-ngon® NẤM.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 10,
+    "foods_id": 44,
+    "content": "Tắt lửa cho nấm mèo và nấm hương, thêm 1/3m tiêu vào đảo cho thơm, trút ra tô..",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 11,
+    "foods_id": 44,
+    "content": "Nấu súp ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 12,
+    "foods_id": 44,
+    "content": "Đun nước dùng cho sôi, cho ngưu bàng vào rồi nêm gia vị: 1M Hạt nêm Aji-ngon® NẤM, 1/2M đường, 1m muối, cho 3 loại nấm vào, cùng với cà rốt, củ năng, nấu chín. Cho 3M nước bột năng vào khuấy cho nước súp sánh vừa. Thêm 1/2m dầu mè.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 13,
+    "foods_id": 44,
+    "content": "Tắt lửa múc ra tô, rắc tiêu, ngò rí, poa rô phi. Dọn kèm Nước tương “Phú Sĩ”.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "number": 14,
+    "foods_id": 44,
+    "content": "🫕 Món ăn chay ngon đi kèm: Xào lăn chay thảo mộc",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "number": 1,
+    "foods_id": 45,
+    "content": "Nấm mối đen rửa sạch, nấm linh chi nâu & và nấm linh chi trắng cắt chân, rửa sạch, nấm đùi gà baby chẻ đôi, nấm bào ngư cắt chân rửa sạch.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "number": 2,
+    "foods_id": 45,
+    "content": "Tiêu xanh đập dập, boaro cắt lát mỏng.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "number": 3,
+    "foods_id": 45,
+    "content": "Phi thơm 1M hành boaro với 2.5M dầu ăn.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "number": 4,
+    "foods_id": 45,
+    "content": "Cho tất cả nấm đã sơ chế vào tô, nêm 1m hạt nêm Aji-ngon® NẤM, 1/2m đường, 1/2m bột ngọt, 1m tương ớt, 1m nước tương “Phú Sĩ”, 1M lá quế cắt nhỏ tiêu xanh và tất cả dầu hành boaro phi thơm, trộn đều rồi ướp trong vòng 15 phút.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "number": 5,
+    "foods_id": 45,
+    "content": "Gói vào giấy bạc và đem đút lò 20 phút, nhiệt độ 200ᴼc.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "number": 6,
+    "foods_id": 45,
+    "content": "Cho ra dĩa, trang trí bằng ớt sừng cắt sợi và ngò rí. Chấm với nước tương ớt xắt.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "number": 1,
+    "foods_id": 46,
+    "content": "Nếp vo sạch, ngâm nước ấm 60 độ khoảng 30 phút",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "number": 2,
+    "foods_id": 46,
+    "content": "Tôm càng rửa sạch bỏ vỏ, chừa đuôi, đầu, chẻ lưng rút chỉ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "number": 3,
+    "foods_id": 46,
+    "content": "Xoài chín gọt vỏ, cắt hạt lựu 1 ít dùng để trang trí, còn lại cắt nhỏ dùng để xay sốt.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "number": 4,
+    "foods_id": 46,
+    "content": "Đậu phộng rang vàng.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "number": 5,
+    "foods_id": 46,
+    "content": "Ướp tôm: Ướp tôm với 1M hỗn hợp hành tím băm, đầu hành băm và ớt sừng đỏ, 1/4m tiêu, 1/3m Hạt nêm Aji-ngon® HEO.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "number": 6,
+    "foods_id": 46,
+    "content": "Hấp xôi: nếp đã vo và ngâm trộn với 1/2m Hạt nêm Aji-ngon® HEO, cho vào xửng hấp, hấp 15 phút thì mở nắp, rưới 1M Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản vào trộn đều, hấp thêm khoảng 5 phút cho xôi chín, cho tôm vào hấp chung thêm 5 phút thì tắt lửa.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "number": 7,
+    "foods_id": 46,
+    "content": "Làm xốt: cho 100gr xoài, 4M Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản, 1M sữa tươi, ít muối vào cối xay nhuyễn. Xốt sau khi làm xong thì cất vào tủ mát tủ lạnh.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "number": 8,
+    "foods_id": 46,
+    "content": "Đậu phộng rang vàng, giã nhuyễn.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "number": 9,
+    "foods_id": 46,
+    "content": "Xếp xôi ra dĩa, rưới xốt lên, rắt đậu phộng.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "number": 10,
+    "foods_id": 46,
+    "content": "Trang trí bằng rau húng lủi.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "number": 1,
+    "foods_id": 47,
+    "content": "Thịt má heokhông lấy phần mỡ, rửa sạch lông",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "number": 2,
+    "foods_id": 47,
+    "content": "🥣Ướp thịt: Xát thịt má heo với 1m muối hòa cùng 1M rượu để 15 phút, rửa sạch, để ráo, cắt miếng dày 5mm. Ướp thịt với hành tím, tỏi, nước táo, bột ớt Hàn Quốc, 1m Hạt nêm Aji-ngon® HEO, 1m baking soda, 1/3m ngũ vị hương, 1/3m Bột ngọt AJI-NO-MOTO® và 2M dầu ăn trong 30 phút, để ráo.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "number": 3,
+    "foods_id": 47,
+    "content": "🥣Xốt nướng: hòa đều tương cà, tương ớt, sữa đặc, 1m dầu hào, 1/2m Hạt nêm Aji-ngon® HEO, 1/2m Bột ngọt AJI-NO-MOTO® .",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "number": 4,
+    "foods_id": 47,
+    "content": "Áp chảo cho thịt heo chín rồi cho xốt nướng vào xóc đều.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "number": 5,
+    "foods_id": 47,
+    "content": "Cho thịt ra đĩa, rắc mè trắng rang lên trên. ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "number": 6,
+    "foods_id": 47,
+    "content": "Dùng nóng, chấm chung với muối ớt tắc và cải, kim chi chua.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 48,
+    "number": 1,
+    "foods_id": 48,
+    "content": "Bột bánh rán, trộn đều với 1/3m muối, pha với nước theo tỷ lệ 200g bột: 280g nước.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 48,
+    "number": 2,
+    "foods_id": 48,
+    "content": "Xúc xích cắt lát mỏng. Chà bông xé nhỏ.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 48,
+    "number": 3,
+    "foods_id": 48,
+    "content": "Phết 1 lớp dầu mỏng lên chảo không dính, múc 1 muỗng hỗn hợp bột trán lớp mỏng lên chảo, nướng áp chảo bánh đến khi bánh gần khô mặt.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 48,
+    "number": 4,
+    "foods_id": 48,
+    "content": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 48,
+    "number": 5,
+    "foods_id": 48,
+    "content": "Xếp xúc xích, chà bông, thêm tương cà và mayonnaise lên trên, cuộn bánh lại, cho ra dĩa. Tiếp tục đổ bánh đến khi hết bột.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 48,
+    "number": 6,
+    "foods_id": 48,
+    "content": "Xếp bánh ra dĩa, cắt miếng vừa ăn, chấm kèm xốt mayonnaise trộn tương cà.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 49,
+    "number": 1,
+    "foods_id": 49,
+    "content": "Cá thu rửa sạch, để ráo.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 49,
+    "number": 2,
+    "foods_id": 49,
+    "content": "Xoài cắt hạt lựu khoảng ½ chén.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 49,
+    "number": 3,
+    "foods_id": 49,
+    "content": "Hành lá đập dập, băm nhỏ, ướp với cá và tẩm ½ gói bột Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 49,
+    "number": 4,
+    "foods_id": 49,
+    "content": "Làm nóng 1M dầu trong chảo, cho cá vào chiên áp chảo chín vàng hai mặt, xếp cá ra dĩa.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 49,
+    "number": 5,
+    "foods_id": 49,
+    "content": "🥣 Pha xốt: trộn ½ chén xoài tượng với 1 chén tương xí muội.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 49,
+    "number": 6,
+    "foods_id": 49,
+    "content": "Múc xốt ra đĩa, xếp cá lên trên, dùng kèm với cơm trắng và rau luộc.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 50,
+    "number": 1,
+    "foods_id": 50,
+    "content": "Tôm bóc vỏ, chừa đuôi, lộn quả đào (xẻ lưng, đâm 1 lỗ ở giữa, lộn đuôi tôm qua lỗ).",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 50,
+    "number": 2,
+    "foods_id": 50,
+    "content": "Nấu tan bơ, thêm tỏi, ớt và 1/3m bột canh, rưới lên tôm, rắc phô mai lên trên, đậy nắp nấu đến khi tôm chín, phô mai tan chảy.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 50,
+    "number": 3,
+    "foods_id": 50,
+    "content": "Thêm xà lách xoong vào giữa chảo, topping Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 50,
+    "number": 4,
+    "foods_id": 50,
+    "content": "Dùng nóng kèm bánh mì.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "number": 1,
+    "foods_id": 51,
+    "content": "Tôm càng bỏ chân, vỏ mình chừa đuôi, bỏ chỉ lưng. Ướp với 1/2M Gia vị nêm sẵn Aji-Quick® LẨU THÁI .",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "number": 2,
+    "foods_id": 51,
+    "content": "Hành tím cắt đôi, riềng cắt lát, sả cây cắt khúc đập giập, ớt hiểm đập giập, lá chúc xé nhỏ, nấm rơm khứa đầu nấm, cà chua cắt múi. Ngò rí cắt nhỏ.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "number": 3,
+    "foods_id": 51,
+    "content": "Cho dầu điều vào nồi, xào nấm và hành tím trước, sau đó cho cà chua vào xào sơ rồi trút ra.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "number": 4,
+    "foods_id": 51,
+    "content": "Thêm dầu điều vào xào riềng thơm rồi hòa nước dừa với nước đủ 1,5 lít cho vào cùng Gia vị nêm sẵn Aji-Quick® LẨU THÁI còn lại vào, sau đó cho các nguyên liệu đã xào vào nấu sôi, rồi cho tôm vào nấu chín, thả lá chúc xé 4 vào, hoàn tất.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "number": 5,
+    "foods_id": 51,
+    "content": "Cho canh ra tô rắc ngò lên trên dùng nóng với cơm hoặc bún, miến.",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 52,
+    "number": 1,
+    "foods_id": 52,
+    "content": "Đậu gà  tách lấy đậu, chừa 1 chén nước ngâm.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "number": 2,
+    "foods_id": 52,
+    "content": "🥣Làm xốt",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "number": 3,
+    "foods_id": 52,
+    "content": "Mài 1m vỏ chanh vàng. Vắt lấy 2M nước cốt chanh.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "number": 4,
+    "foods_id": 52,
+    "content": "Xay nhuyễn hỗn hợp xốt gồm: đậu gà, bơ mè, chuối, 1m vỏ chanh mài, 2M nước chanh, cho từ từ dầu oliu, nước ngâm đậu, 1/4m muối, 1/4m tiêu cho thành hỗn hợp xốt hơi sánh. Giữ xốt trong tủ mát. Lấy 1 ít để trong ngăn đông, dùng múc như viên kem trang trí.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "number": 5,
+    "foods_id": 52,
+    "content": "🥞Làm bánh",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "number": 6,
+    "foods_id": 52,
+    "content": "Bột bánh rán pha sẵn vị truyền thống pha theo hướng dẫn trên bao bì. Lần lượt làm thành những cái bánh bằng nhau.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "number": 7,
+    "foods_id": 52,
+    "content": "Đặt 1 cái bánh, bắt lên 1 lớp xốt, đặt cái bánh lên trên. Múc 1 viên xốt như viên kem, đặt ở giữa, xung quanh thêm nho cắt lát rồi rắc ít cốm màu lên.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "number": 8,
+    "foods_id": 52,
+    "content": "🧋Nước uống ngon đi kèm: Kem vị trà Matcha Blendy",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "number": 1,
+    "foods_id": 53,
+    "content": "Thịt heo cắt lát dày 0.5cm, dần mỏng.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "number": 2,
+    "foods_id": 53,
+    "content": "Cải xanh: để riêng phần lá, phần cọng cắt que như cà rốt.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "number": 3,
+    "foods_id": 53,
+    "content": "Ướp thịt: Ướp thịt với 1/2M dầu ăn, 1/2m Hạt nêm Aji-ngon® HEO, 1m đầu hành băm, ít tiêu.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "number": 4,
+    "foods_id": 53,
+    "content": "Phi hành tím với dầu ăn, cho nấm vào xào thơm rồi trộn cùng giò sống, ướp thêm 1m nước mắm, 1/2m bột ngọt AJI-NO-MOTO®, 1/2m Hạt nêm Aji-ngon® HEO, 1/3m tiêu.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "number": 5,
+    "foods_id": 53,
+    "content": "Trứng gà tráng mỏng, cắt bản vuông bằng miếng thịt.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "number": 6,
+    "foods_id": 53,
+    "content": "Cuốn thịt: trải miếng thịt đã dần ra mặt thớt phẳng, phết 1 lớp giò mỏng đã tẩm ướp gia vị ban đầu, tiếp đến là lớp trứng tráng, đặt cà rốt và cọng cải xanh ở giữa và cuốn chặt tay. Dùng phần lá cải bọc lại bên ngoài cuốn thịt.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "number": 7,
+    "foods_id": 53,
+    "content": "Hấp: xếp cuốn thịt vào nồi, hấp khoảng 10 phút, lấy ra cắt lát dày 1.5cm.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "number": 8,
+    "foods_id": 53,
+    "content": "Làm xốt: Phi thơm hỗn hợp 1M hành tím, đầu hành lá, gừng băm nhuyễn, cho 4M nước tương “Phú Sĩ”, 1/3m Bột ngọt AJI-NO-MOTO®, 1m đường, 1/2M nước bột năng, ít dầu mè, đun sôi đến khi sánh sệt.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "number": 9,
+    "foods_id": 53,
+    "content": "Cho xốt ra đĩa, xếp cuộn thịt lên trên",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "number": 1,
+    "foods_id": 54,
+    "content": "Ớt các loại đạp dập, giã nhuyễn, để riêng.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "number": 2,
+    "foods_id": 54,
+    "content": "Cải thìa chần sơ. Mì vàng trụng, chia vào chén. Nấm đông cô khô ngâm với ít nước cho nở.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "number": 3,
+    "foods_id": 54,
+    "content": "Đun nóng 1M dầu ăn, cho tỏi, ớt và xuyên tiêu và phi thơm, cho nước dùng gà và nấm đông cô vào nấu sôi, nêm 1.5M đường, 1.5M hạt nêm, 1/2m muối, 1m bột ngọt, 1.5M tương ớt, tắt lửa.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "number": 4,
+    "foods_id": 54,
+    "content": " ",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "number": 5,
+    "foods_id": 54,
+    "content": "Phi thơm tỏi, cho thịt bò và hành tây vào đảo nhanh tay, thêm 3M nước dùng vào đảo đều, tắt lửa.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "number": 6,
+    "foods_id": 54,
+    "content": "Xếp thịt bò và cải thìa vào tô mì, chan nước dùng lên trên, dùng nóng.",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "number": 7,
+    "foods_id": 54,
+    "content": " ",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 55,
+    "number": 1,
+    "foods_id": 55,
+    "content": "Nếp ngỗng: Ngâm 4h trong nước lá cẩm ( nước lá cẩm xay từ lá cẩm tươi tỷ lệ 1:1 )",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "number": 2,
+    "foods_id": 55,
+    "content": "Thịt cua: Thịt tươi không khai, lấy phần thịt đỏ và trắng 50-50. Không dùng thịt ghẹ.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "number": 3,
+    "foods_id": 55,
+    "content": "Hành tím Bắc: Bào lát",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "number": 4,
+    "foods_id": 55,
+    "content": "Hành lá: Đầu lá để riêng",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "number": 5,
+    "foods_id": 55,
+    "content": "Tôm khô: Ngâm mềm.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "number": 6,
+    "foods_id": 55,
+    "content": "Hấp xôi nếp với lá chuối lên trên. Phi vàng hành tím để riêng. Cho đầu hành vào xào vàng, hạ lửa cho tôm khô vào xào dậy mùi, thêm 1/2m đường. Cho tiếp thịt cua vào xào tơi, nêm 1m Hạt nêm Aji-ngon® GÀ, 1/2m Bột ngọt AJI-NO-MOTO® , 1/2m tiêu, 1/2m nước tương “Phú Sĩ”.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "number": 7,
+    "foods_id": 55,
+    "content": "Chế biến: Trét 1 lớp xôi lên chảo sâu lòng. Trộn thịt cua xào vào phần xôi còn lại. Cho xôi trộn vào lại chào xôi đã trét, ém chặt. Chiên áp chào nhỏ lửa từ từ đến khi xôi xém cứng bên ngoài.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "number": 8,
+    "foods_id": 55,
+    "content": "Cho xôi ra đĩa cắt ra miếng nhỏ, thêm hành phi, mỡ hành.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "number": 9,
+    "foods_id": 55,
+    "content": "Dùng nóng, chan thêm nước tương tùy vị.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "number": 10,
+    "foods_id": 55,
+    "content": "🥘Món ngon đi kèm: Gỏi cóc tai heo",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "number": 1,
+    "foods_id": 56,
+    "content": "Đậu hũ cắt mỏng theo chiều ngang, chiên sơ sau đó cắt sợi mỏng.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "number": 2,
+    "foods_id": 56,
+    "content": "Nấm tuyết ngâm mềm, cắt nhỏ. Củ sắn, cà rốt cắt sợi. Bắp cải tím cắt sợi, rửa sơ, để ráo.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "number": 3,
+    "foods_id": 56,
+    "content": "Rong biển sấy bóp nhỏ. Hành boaro băm nhỏ. Cà chua cắt hạt lựu. Mè rang giã nhỏ.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "number": 4,
+    "foods_id": 56,
+    "content": "Phi thơm 2M hành boaro, xào củ sắn, cà rốt chín mềm, thêm bắp cải tím, nêm 1m hạt nêm Aji-ngon NHHS, 1M nước tương Phú Sĩ, tiếp tục cho nấm tuyết, đậu hũ vào xào khoảng 2 phút, tắt lửa, cuối cùng thêm rong biển vào đảo đều.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "number": 5,
+    "foods_id": 56,
+    "content": "Thấm ướt bánh tráng, cho 1.2M nhân vào, thêm ít mè rang, gấp 2 mép bánh tráng, sau đó cuộn tròn lại.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "number": 6,
+    "foods_id": 56,
+    "content": "Pha nước chấm: Phi thơm 1M hành boaro băm, xào mềm cà chua, nêm 1m Hạt nêm Aji-ngon® Nấm Hương và Hạt Sen, 1m đường, 1M Nước tương “Phú Sĩ”, 1/2m Bột ngọt AJI-NO-MOTO®, thêm đậu phộng và 1/2 chén nước, nấu đến khi đậu phộng mềm, xốt sánh mịn thì tắt lửa. Thêm 1m ớt băm.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "number": 7,
+    "foods_id": 56,
+    "content": "Xếp cuốn rong biển ra dĩa. Khi ăn chấm xốt pha.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "number": 1,
+    "foods_id": 57,
+    "content": "Khoai mì, khoai lang, khoai tây gọt vỏ, rửa sạch, để ráo.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "number": 2,
+    "foods_id": 57,
+    "content": "Cắt khoai thành từng thanh dài khoảng 5cm. Tẩm khoai qua nửa gói Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "number": 3,
+    "foods_id": 57,
+    "content": "Lá quế rửa sạch, để ráo.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "number": 4,
+    "foods_id": 57,
+    "content": "Pha sốt: Cho 2,5M Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản, sữa chua, sữa đặc, 1m mè rang giã nhuyễn vào tô rồi trộn đều lại.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "number": 5,
+    "foods_id": 57,
+    "content": "Làm bột lắc: Cho 1/3m muối, 1m bột ớt paprika, 1/3m đường, 1/3m tiêu, 1M mè trắng còn lại.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "number": 6,
+    "foods_id": 57,
+    "content": "Chiên lá quế: Cho dầu nóng già rồi cho lá quế vào chiên đến khi lá quế giòn thì vớt ra để ráo dầu.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "number": 7,
+    "foods_id": 57,
+    "content": "Chiên khoai: Cho dầu vào chảo, bật bếp ở mức lửa to cho dầu nóng già, sau đó cho khoai vào chiên đến khi khoai vàng giòn.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "number": 8,
+    "foods_id": 57,
+    "content": "Lắc khoai qua hỗn hợp bột lắc.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "number": 9,
+    "foods_id": 57,
+    "content": "Xếp khoai dĩa, rắc lá quế lên trên, rưới sốt mayo mè lên sau đó rắc phần mè rang còn lại lên.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 58,
+    "number": 1,
+    "foods_id": 58,
+    "content": "Thịt bò cắt miếng dày 1cm, đập dẹp còn 0.7cm, ướp với 1m nước tương, 1/2m hạt nêm Aji-ngon®, 1/2m tiêu, 1/2m bột ngọt AJI-NO-MOTO®, 1M dầu ăn, thoa đều 2 mặt, để thấm 10 phút.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 58,
+    "number": 2,
+    "foods_id": 58,
+    "content": "Tiêu xanh đập dập",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 58,
+    "number": 3,
+    "foods_id": 58,
+    "content": "Đun nóng ít dầu ăn, cho 1 nhánh lá hương thảo vào chiên tạo mùi thơm, áp chảo bò chín tới, xếp ra dĩa.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 58,
+    "number": 4,
+    "foods_id": 58,
+    "content": "Xốt tiêu xanh: Phi thơm hành tỏi gừng băm trong chảo chiên bò, cho 2 nhánh tiêu xanh đập dập vào xào, thêm 1/3 chén nước, nêm 2m Nước tương “Phú Sĩ”, 1/2m Hạt nêm Aji-ngon® Heo, 1/2m Bột ngọt AJI-NO-MOTO®, 1m đường, thêm bột năng pha loãng tạo độ sánh. Cuối cùng, cho thêm 1 m dầu ăn vào tạo độ bóng cho xốt. ",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 58,
+    "number": 5,
+    "foods_id": 58,
+    "content": "Xếp bò ra dĩa, thêm xốt tiêu xanh lên trên, dùng với bánh mì và salad.",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 59,
+    "number": 1,
+    "foods_id": 59,
+    "content": "Tôm sú bóc vỏ đập dập băm nhuyễn, chôm chôm bóc bỏ hạt.",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "number": 2,
+    "foods_id": 59,
+    "content": "Trộn nhân tôm ",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "number": 3,
+    "foods_id": 59,
+    "content": "Cho tôm vào tô sau đó cho 1/2M ớt sừng băm, 1/2m cọng ngò băm, 1M đầu hành lá băm vào cùng với gia vị 1/2m Hạt nêm Aji-ngon® HEO, 1/4m tiêu và 1/2m Bột ngọt AJI-NO-MOTO® sau đó nhồi lại tạo độ dai.",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "number": 4,
+    "foods_id": 59,
+    "content": "Tiếp theo cho nhân tôm vào trong túi bắt bông kem.",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "number": 5,
+    "foods_id": 59,
+    "content": "Nhồi và chiên tôm ",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "number": 6,
+    "foods_id": 59,
+    "content": "Cho nhân tôm vào trong qua chôm chôm làm lần lượt cho hết nhân. Cho 1 đĩa 20g bột mì và 1 đĩa 30g trộn bột chiên xù và bột mì. Sau đó lăn quả chôm chôm đã nhồi nhân qua bột mì rồi lăn qua trứng. Cuối cùng lăn vào bột chiên xù pha cùng với bột mì. Cho dầu vào đun dầu nóng sau đó cho vải vào chiên với lửa vừa vớt ra giấy thấm dầu để ráo.",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "number": 7,
+    "foods_id": 59,
+    "content": "Trình bày",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "number": 8,
+    "foods_id": 59,
+    "content": "Cắt dưa leo hình khối bỏ bớt ruột sau đó cho chôm chôm đã chiên lên chấm cùng với Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản.",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "number": 9,
+    "foods_id": 59,
+    "content": "Món ăn ngon khi chấm cùng với Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản.",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 60,
+    "number": 1,
+    "foods_id": 60,
+    "content": "Tôm sú bóc đầu & vỏ để riêng, thịt tôm băm nhỏ, trộn giò sống, ướp 1/2m hạt nêm, 1/2m bột ngọt, 1m hành tím băm, 1m hành lá cắt nhỏ, 1 ít tiêu, 1/2m bột năng, trộn đều, đập vài lần cho tôm dai. Vo thịt tôm thành các viên tròn đều.",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 60,
+    "number": 2,
+    "foods_id": 60,
+    "content": "Đậu hũ non cắt miếng vừa ăn. Cà chua cắt hạt lựu.",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 60,
+    "number": 3,
+    "foods_id": 60,
+    "content": "Nấu vỏ & đầu tôm với 500ml nước lấy nước dùng. Phi thơm hành tím, cho cà chua vào xào, thêm nước luộc tôm vào nấu, nêm 2m hạt nêm, 1m đường, 1M tương cà, nấu khoảng 5 phút, cho viên tôm vào nấu khoảng 5 phút, tiếp tục cho đậu hũ vào nấu thêm 3 phút đến khi sốt sánh, đảo đều, tắt lửa, cho hành lá và tiêu.",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 60,
+    "number": 4,
+    "foods_id": 60,
+    "content": "Trình bày tôm xốt ra dĩa, trang trí hành lá ngò rí, dùng nóng với cơm",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 61,
+    "number": 1,
+    "foods_id": 61,
+    "content": "Sườn non chặt miếng vừa ăn, ướp với 1/2m muối, 1.5M đường, 1/2M hạt nêm Aji-ngon®, 2M nước mắm, 1M hành tỏi băm, 1/3m tiêu, để 10 phút cho thấm vị.",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 61,
+    "number": 2,
+    "foods_id": 61,
+    "content": "Trứng cút luộc chín, bóc vỏ. Dưa cải chua cắt miếng vừa ăn. Cà chua cắt múi cau. Ớt sừng cắt lát. Ớt hiểm đập dập. Hành lá, ngò rí cắt nhỏ.",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 61,
+    "number": 3,
+    "foods_id": 61,
+    "content": "Bắc nồi đất lên bếp, đun nóng 1M dầu ăn với 1M đường thắng màu caramel, cho hành tỏi băm vào phi thơm, cho tiếp sườn vào xào săn, thêm dưa cải chua ớt và nước dừa vừa ngập mặt sườn, nêm 1,5m hạt nêm Heo, kho lửa vừa cho đến khi sườn chín mềm, nước hơi sánh lại, cho cà chua và trứng cút vào kho khoảng 2 phút, cho hành ngò vào, tắt lửa.",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 61,
+    "number": 4,
+    "foods_id": 61,
+    "content": "Trình bày món ăn ra dĩa, trang trí với ngò. Dùng nóng với cơm.",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 61,
+    "number": 5,
+    "foods_id": 61,
+    "content": "🥙 Món ăn đi kèm: Gà xào măng tây",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 62,
+    "number": 1,
+    "foods_id": 62,
+    "content": "Nghêu: ngâm rửa sạch.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "number": 2,
+    "foods_id": 62,
+    "content": "Thơm: cắt hình rẽ quạt.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "number": 3,
+    "foods_id": 62,
+    "content": "Cây sả: đập dập, cắt khúc.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "number": 4,
+    "foods_id": 62,
+    "content": "Lá chanh Thái, 2 cây lá quế: lặt rửa sạch, một ít cắt nhỏ, một ít vò nhẹ.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "number": 5,
+    "foods_id": 62,
+    "content": "Phi thơm hành tím băm, sả băm, tỏi băm, sả đập dập với dầu điều.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "number": 6,
+    "foods_id": 62,
+    "content": "Thêm 0.5 lít nước đun sôi, nêm 1M Gia vị nêm sẵn Aji-Quick® Lẩu Thái, 1m Bột ngọt AJI-NO-MOTO®, 1m nước mắm, cho nghêu vào nấu chín.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "number": 7,
+    "foods_id": 62,
+    "content": "Thêm lá chanh và lá quế vào, đảo đều rồi dùng nóng.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "number": 8,
+    "foods_id": 62,
+    "content": "Dùng nóng.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 63,
+    "number": 1,
+    "foods_id": 63,
+    "content": "Ướp tép bạc với 1/2 m Hạt nêm Aji-ngon® HEO, 1/2 m Bột ngọt AJI-NO-MOTO®, 1/3 m tiêu.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 63,
+    "number": 2,
+    "foods_id": 63,
+    "content": "Ướp thịt ba chỉ 1/3 m Bột ngọt AJI-NO-MOTO®, 1m hành tỏi, 1/3 m Hạt nêm Aji-ngon® HEO.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 63,
+    "number": 3,
+    "foods_id": 63,
+    "content": "Khế cắt cọng ướp với 1/2M đường.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 63,
+    "number": 4,
+    "foods_id": 63,
+    "content": "Cho vào chảo 2M dầu đun nóng. Cho 1M hành tỏi băm vào phi thơm, cho thịt ba chỉ vào xào săn cho tiếp tép bạc vào, cho khế và bông điên điển vào nêm gia vị: 1/2m Hạt nêm Aji-ngon® HEO, tắt lửa cho thêm hành lá, ớt sợi vào.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 63,
+    "number": 5,
+    "foods_id": 63,
+    "content": "Xúc món ăn ra dĩa rắc tiêu, hành lá, bày thêm ngò và nước tương “Phú Sĩ” có ớt. Dùng kèm với cơm hoặc cuốn bánh tráng.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 63,
+    "number": 6,
+    "foods_id": 63,
+    "content": "🫕Món ngon đi kèm: Ba rọi rim cháy cạnh",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 1,
+    "foods_id": 64,
+    "content": "Xà lách cắt miếng vừa ăn. Cà chua cắt đôi. Bắp Mỹ hạt luộc chín. Dưa leo cắt khoanh tròn. Húng lũi cắt nhỏ Trộn đều các loại rau, xếp ra dĩa.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 2,
+    "foods_id": 64,
+    "content": "",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 3,
+    "foods_id": 64,
+    "content": "",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 4,
+    "foods_id": 64,
+    "content": "Má đùi gà lạng mỏng, đập sơ, ướp má đùi gà với 1/2m hạt nêm Aji-ngon, 1/2m Bột ngọt AJI-NO-MOTO®, 1m nước tương Phú Sĩ, 1/3m tiêu, hành tỏi băm nhuyễn, 1/2M mật ong, 2m dầu ăn, để thấm 10 phút.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 5,
+    "foods_id": 64,
+    "content": "",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 6,
+    "foods_id": 64,
+    "content": "",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 7,
+    "foods_id": 64,
+    "content": "Phết 1M Xốt Mayonnaise Aji-mayo® lên gà đem nướng trong nồi chiên không dầu nhiệt độ 180 độ, 20 phút cho chín vàng để nguội cắt miếng ngang 1cm.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 8,
+    "foods_id": 64,
+    "content": "Pha xốt: trộn đều 3M Xốt Mayonnaise Aji-mayo®, 1M tương cà và 1M tương ớt.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 9,
+    "foods_id": 64,
+    "content": "",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 10,
+    "foods_id": 64,
+    "content": "",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 11,
+    "foods_id": 64,
+    "content": "",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 12,
+    "foods_id": 64,
+    "content": "",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 13,
+    "foods_id": 64,
+    "content": "",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "number": 14,
+    "foods_id": 64,
+    "content": "Xếp gà lên dĩa salad, rưới xốt lên trên, khi ăn trộn đều.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "number": 1,
+    "foods_id": 65,
+    "content": "Tôm thẻ: sau đó bóc vỏ, đập dập, băm nhỏ.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "number": 2,
+    "foods_id": 65,
+    "content": "Cà chua: cắt múi cau.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "number": 3,
+    "foods_id": 65,
+    "content": "Rau muống: lặt rồi rửa sạch, cắt khúc vừa ăn.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "number": 4,
+    "foods_id": 65,
+    "content": "Rau om, ngò gai: cắt nhỏ",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "number": 5,
+    "foods_id": 65,
+    "content": "Phi thơm hành tỏi băm, cho cà chua và tôm vào xào sơ.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "number": 6,
+    "foods_id": 65,
+    "content": "Thêm 1.5 lít nước đun sôi, nêm 4M Gia vị nêm sẵn Aji-Quick® Lẩu Thái, 1.5M đường, nếm vị chua nhẹ vừa ăn.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "number": 7,
+    "foods_id": 65,
+    "content": "Cho rau muống vào nấu chín, thêm 1.5M nước mắm, rau om, ngò gai rồi tắt lửa.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "number": 8,
+    "foods_id": 65,
+    "content": "Múc canh ra tô, rắc tỏi phi lên trên.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "number": 9,
+    "foods_id": 65,
+    "content": "Dùng nóng.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "number": 10,
+    "foods_id": 65,
+    "content": "🦐Xem thêm các món ngon từ tôm",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "number": 1,
+    "foods_id": 66,
+    "content": "Tôm bỏ đầu, lột vỏ, chừa đuôi, giữ lại phần đầu và vỏ tôm để nấu nước dùng.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "number": 2,
+    "foods_id": 66,
+    "content": "Nấu nước dùng: cho phần đầu và vỏ tôm vào nồi, rang khô, đổ vào 1.6L nước, nấu sôi với lửa nhỏ trong 5 phút, sau đó lọc lại lấy nước dùng tôm.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "number": 3,
+    "foods_id": 66,
+    "content": "Thơm cắt rẻ quạt. Cà chua, hành tây cắt múi cau. Rau quế, rau om, ngò gai cắt nhỏ.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "number": 4,
+    "foods_id": 66,
+    "content": "Đun nóng 2M dầu ăn, cho tỏi vào phi vàng, tắt lửa, vớt tỏi ra để riêng, cho tiếp cà chua và thơm vào xào mềm rồi cho phần nước dùng tôm vào, nêm 1 gói Gia vị nêm sẵn Aji-Quick® Lẩu Thái, khuấy đều.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "number": 5,
+    "foods_id": 66,
+    "content": "Trước khi ăn cho hành tây và tôm vào nấu chín, nhúng hoa chuối bào vừa chín, thêm rau quế, rau om, ngò gai và tỏi phi vào.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "number": 6,
+    "foods_id": 66,
+    "content": "Múc canh tôm chua cay ra tô, thêm nước mắm tùy vị, trang trí với rau quế và tỏi phi.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 67,
+    "number": 1,
+    "foods_id": 67,
+    "content": "Hành tây cắt hạt lựu, ướp 1m muối, trộn đều, xả sạch, vắt ráo.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 67,
+    "number": 2,
+    "foods_id": 67,
+    "content": "Cá ngừ gạn bỏ dầu, để ráo, dằm nhỏ, trộn với 1M hành tây, 1/2m ngò rí băm, 1 ít tiêu. Trộn đều với 2M Xốt Mayonnaise Aji-mayo® Vị Nguyên Bản.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 67,
+    "number": 3,
+    "foods_id": 67,
+    "content": "Trộn 1 gói bột bánh rán pha sẵn bữa sáng dinh dưỡng với 105ml nước. Khuấy đều",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 67,
+    "number": 4,
+    "foods_id": 67,
+    "content": "Tráng bánh: đun nóng chảo, hạ nhiệt bằng khăn ẩm, dùng vá múc bột đổ vào chảo, rán đến khi viền bánh se lại thì dùng sạn nhựa lật bánh lại, rán thêm một chút cho bánh chín rồi lấy ra dĩa. Làm từng cặp 2 cái bánh bằng nhau, để nguội.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 67,
+    "number": 5,
+    "foods_id": 67,
+    "content": "Cho nhân cá ngừ lên trên 1 mặt bánh, xếp dưa leo, xà lách, cà chua lên trên, lấy 1 miếng bánh đặt lên trên, kẹp lại.",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 68,
+    "number": 1,
+    "foods_id": 68,
+    "content": "Ướp thịt bê với 1/2M đường, 1/2m muối, 2M Nước tương “Phú Sĩ”, 1/2m bột ngũ vị hương, 1M hành tỏi băm, 1m Hạt nêm Aji-ngon® HEO, 1/2m tiêu, 1M dầu điều. Xong dùng chỉ cuồn tròn lại để 30 phút.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "number": 2,
+    "foods_id": 68,
+    "content": "Chiên cuốn thịt",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "number": 3,
+    "foods_id": 68,
+    "content": "Bắc chảo cho 3M dầu, sả và tỏi đập giập phi thơm (vuốt cho gia vị rơi ra ngoài cuốn thịt để chiên không bị cháy).",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "number": 4,
+    "foods_id": 68,
+    "content": "Cho cuốn thịt vào chảo chiên sơ cho săn thịt.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "number": 5,
+    "foods_id": 68,
+    "content": "Khìa thịt",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "number": 6,
+    "foods_id": 68,
+    "content": "Cho sả lót dưới đặt cuộn thịt lên rồi đổ nước dừa và nước săm sắp thịt. Đậy vung lại khìa lửa vừa khoảng 25 phút. Khi xốt khìa cạn, thịt chín. Tắt lửa, rắc ít hành lá vào cho thơm.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "number": 7,
+    "foods_id": 68,
+    "content": "Để nguội cắt chỉ, cắt thịt thành lát dầy khoảng 2 li. Ăn kèm bánh mì, cơm, xôi đều được.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "number": 1,
+    "foods_id": 69,
+    "content": "Pha 1 gói trà sữa Royal với 25ml nước sôi, khuấy tan, để nguội.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "number": 2,
+    "foods_id": 69,
+    "content": "Trộn 1 gói bột bánh rán pha sẵn vị truyền thống với 140ml nước và hỗn hợp trà sữa. Khuấy đều.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "number": 3,
+    "foods_id": 69,
+    "content": "Quết mềm creamcheese, cho vụn dừa và vỏ chanh mài vào trộn đều.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "number": 4,
+    "foods_id": 69,
+    "content": "Tráng bánh: đun nóng chảo, hạ nhiệt bằng khăn ẩm, dùng vá múc bột đổ vào chảo, rán đến khi viền bánh se lại thì dùng sạn nhựa lật bánh lại, rán thêm một chút cho bánh chín rồi lấy ra dĩa. Làm từng cặp 2 cái bánh bằng nhau, để nguội.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "number": 5,
+    "foods_id": 69,
+    "content": "Phết hỗn hợp creamcheese và vụn dừa lên 1 miếng bánh, đặt 1 miếng bánh khác lên rồi đặt xoài, nho và dâu đã cắt lát và húng lủi lên.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 70,
+    "number": 1,
+    "foods_id": 70,
+    "content": "Cà chua: bổ múi cau.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 70,
+    "number": 2,
+    "foods_id": 70,
+    "content": "Giá đỗ: nhặt sạch.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 70,
+    "number": 3,
+    "foods_id": 70,
+    "content": "Hành củ, tỏi củ, hành hoa, ngò om, ngò gai: tất cả thái nhỏ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 70,
+    "number": 4,
+    "foods_id": 70,
+    "content": "Phi thơm hành tỏi, cho thịt băm vào xào, sau đó cho cà chua vào đảo chín.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 70,
+    "number": 5,
+    "foods_id": 70,
+    "content": "Thêm 1 lít nước, đun sôi vớt bọt và nêm 4M Gia vị nêm sẵn Aji-Quick® Lẩu Thái, sau đó đun sôi và tắt lửa.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 70,
+    "number": 6,
+    "foods_id": 70,
+    "content": "Cho giá đỗ, các loại rau thơm vào bát, sau đó múc canh nóng vào.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 70,
+    "number": 7,
+    "foods_id": 70,
+    "content": "Dùng với cơm trắng.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "number": 1,
+    "foods_id": 71,
+    "content": "Cá Diêu hồng: cắt khúc, rửa sạch (nếu đầu cá thì bổ đôi)",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "number": 2,
+    "foods_id": 71,
+    "content": "Dọc mùng: thái miếng, ngâm nước muối sau đó rửa sạch",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "number": 3,
+    "foods_id": 71,
+    "content": "Cà chua: bổ cau",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "number": 4,
+    "foods_id": 71,
+    "content": "Dứa: thái miếng",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "number": 5,
+    "foods_id": 71,
+    "content": "Hành củ thái lát, hành lá và thì là: thái nhỏ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "number": 6,
+    "foods_id": 71,
+    "content": "Rán vàng cá với dầu ăn, sau đó để riêng.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "number": 7,
+    "foods_id": 71,
+    "content": "Phi thơm hành cho cà chua vào xào chín, thêm 1.5 lít nước, đun sôi.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "number": 8,
+    "foods_id": 71,
+    "content": "Thả cá vào ninh nhỏ lửa khoảng 30 phút, cá được ninh nhỏ lửa càng lâu sẽ càng ngọt nước. Sau đó nêm 4M Gia vị nêm sẵn Aji-Quick® Lẩu Thái, cho dọc mùng, dứa vào đun sôi và tắt lửa (có thể gia giảm phần dứa theo độ chua mong muốn).",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "number": 9,
+    "foods_id": 71,
+    "content": "Với canh cá nên tận dụng phần đầu cá để nấu, vì chứa phần lớn lượng mỡ cá sẽ giúp món canh có độ béo.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "number": 10,
+    "foods_id": 71,
+    "content": "Múc canh ra bát, thêm rau thơm.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "number": 11,
+    "foods_id": 71,
+    "content": "Dùng nóng.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "number": 1,
+    "foods_id": 72,
+    "content": "Sườn non: rửa sạch, chặt miếng vừa ăn, chần sơ, để ráo.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "number": 2,
+    "foods_id": 72,
+    "content": "Cà chua: cắt múi cau.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "number": 3,
+    "foods_id": 72,
+    "content": "Dưa cải chua: rửa sạch, cắt miếng vừa ăn, để ráo.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "number": 4,
+    "foods_id": 72,
+    "content": "Rau om, ngò gai: cắt nhỏ.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "number": 5,
+    "foods_id": 72,
+    "content": "Phi thơm hành tím với dầu ăn, cho cà chua và sườn non vào xào sơ.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "number": 6,
+    "foods_id": 72,
+    "content": "Thêm 1.7 lít nước vào đun sôi khoảng 10 phút, cho cải chua vào, nêm 4M Gia vị nêm sẵn Aji-Quick® Lẩu Thái.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "number": 7,
+    "foods_id": 72,
+    "content": "Khi nước sôi trở lại thì cho 2M nước mắm, rau om, ngò gai vào rồi tắt lửa.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "number": 8,
+    "foods_id": 72,
+    "content": "Dùng nóng với cơm hoặc bún.",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 73,
+    "number": 1,
+    "foods_id": 73,
+    "content": "Cá hồi rửa sạch, để ráo, cắt lát mỏng 1cm.",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "number": 2,
+    "foods_id": 73,
+    "content": "Các loại rau củ cắt lát mỏng.",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "number": 3,
+    "foods_id": 73,
+    "content": "Gừng, cần tây cắt lát",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "number": 4,
+    "foods_id": 73,
+    "content": "Nước ngâm: nấu tan hỗn hợp gồm 1 chén đường, 1 chén Giấm gạo lên men Ajinomoto, 1/3 chén Nước tương “Phú Sĩ”, 1/2 chén nước, 1/2m Bột ngọt AJI-NO-MOTO®, 1m muối. Thêm rau củ vào, đợi sôi lại tắt lửa. Để nguội.",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "number": 5,
+    "foods_id": 73,
+    "content": "Cá hồi để sống, thêm nước ngâm vào ngập mặt cá. Bảo quản tủ lạnh khoảng 4h là dùng được.",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "number": 6,
+    "foods_id": 73,
+    "content": "Xếp cá hồi ra dĩa. Dùng làm món khai vị.",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "number": 7,
+    "foods_id": 73,
+    "content": "🍗 Món ăn đi kèm: Bánh gà chiên xốt mè",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 74,
+    "number": 1,
+    "foods_id": 74,
+    "content": "Cá bớp/ cá đuối: rửa sạch, để ráo.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "number": 2,
+    "foods_id": 74,
+    "content": "Cà chua: cắt múi cau.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "number": 3,
+    "foods_id": 74,
+    "content": "Măng chua: rửa sạch, cắt miếng vừa ăn. Luộc măng khoảng 10 phút với lửa nhỏ, vớt ra xả lại với nước lạnh rồi để ráo.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "number": 4,
+    "foods_id": 74,
+    "content": "Hành lá, ngò gai: cắt nhỏ.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "number": 5,
+    "foods_id": 74,
+    "content": "Phi thơm hành tím với dầu ăn, cho cà chua và măng vào xào sơ.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "number": 6,
+    "foods_id": 74,
+    "content": "Thêm 1.7 lít nước đun sôi, cho cá vào nồi, nấu đến khi nước sôi trở lại thì vớt bọt.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "number": 7,
+    "foods_id": 74,
+    "content": "-Tiếp tục đun cá khoảng 5 phút, nêm 4M Gia vị nêm sẵn Aji-Quick® Lẩu Thái, 2m Bột ngọt AJI-NO-MOTO®, nếm vị chua nhẹ vừa ăn, thêm 2M nước mắm, thêm hành lá, ngò gai, tỏi phi, rồi tắt lửa.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "number": 8,
+    "foods_id": 74,
+    "content": "Dùng nóng với cơm hoặc bún, chấm nước mắm ớt tùy khẩu vị.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 1,
+    "foods_id": 75,
+    "content": "Đậu hũ non cắt sợi. Cà rốt cắt nhuyễn. Rong biển ngâm mềm, để ráo, cắt nhỏ.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 2,
+    "foods_id": 75,
+    "content": "Trứng gà đánh tan. Nấm kim châm cắt đôi.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 3,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 4,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 5,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 6,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 7,
+    "foods_id": 75,
+    "content": "Phi thơm 1m boaro, cho 1L nước dùng vào nấu sôi, cho cà rốt vào nấu 2 phút, tiếp tục cho nấm kim châm, đậu hũ, nêm 1M hạt nêm, 1m bột ngọt, 1.5M nước tương, 1m đường, thêm bột năng vào tạo độ sánh, từ từ thêm trứng vào tạo vân, tắt lửa, thêm rong biển, tiêu và ngò rí.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 8,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 9,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 10,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 11,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 12,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 13,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 14,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 15,
+    "foods_id": 75,
+    "content": "Múc súp ra tô, dùng nóng.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 16,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "number": 17,
+    "foods_id": 75,
+    "content": "",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "number": 1,
+    "foods_id": 76,
+    "content": "Cá lóc/cá hú/cá basa: cắt khứa vừa ăn",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "number": 2,
+    "foods_id": 76,
+    "content": "Cà chua: cắt múi cau",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "number": 3,
+    "foods_id": 76,
+    "content": "Thơm, Bạc hà, ngò gai, rau om: cắt lát mỏng",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "number": 4,
+    "foods_id": 76,
+    "content": "Đậu bắp: bỏ đầu, cắt lát xéo",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "number": 5,
+    "foods_id": 76,
+    "content": "Phi thơm 1M hành tỏi băm, cho cà chua vào xào sơ, thêm 1.5 lít nước vào đun sôi.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "number": 6,
+    "foods_id": 76,
+    "content": "Cho thơm và cá vào nấu chín, nêm 4M Gia vị nêm sẵn Aji-Quick® Lẩu Thái, 1.5M đường, nếm vị chua nhẹ vừa ăn.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "number": 7,
+    "foods_id": 76,
+    "content": "Cho bạc hà, đậu bắp, giá vào, khi nước sôi trở lại thì thêm 1.5M nước mắm, rau om, ngò gai, tắt lửa.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "number": 8,
+    "foods_id": 76,
+    "content": "Múc canh ra tô, rắc tỏi phi lên trên.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "number": 9,
+    "foods_id": 76,
+    "content": "Dùng nóng.",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "number": 10,
+    "foods_id": 76,
+    "content": "🍲Xem thêm các món canh ngon",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 77,
+    "number": 1,
+    "foods_id": 77,
+    "content": "",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "number": 2,
+    "foods_id": 77,
+    "content": "",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "number": 3,
+    "foods_id": 77,
+    "content": "",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "number": 4,
+    "foods_id": 77,
+    "content": "",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "number": 5,
+    "foods_id": 77,
+    "content": "Làm nóng nồi chiên không dầu ở nhiệt độ 180 độ, cho khoai vào nướng 15 phút, sau đó thêm phô mai nướng thêm 5 phút đến khi phô mai tan chảy.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "number": 6,
+    "foods_id": 77,
+    "content": "",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "number": 7,
+    "foods_id": 77,
+    "content": "",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "number": 8,
+    "foods_id": 77,
+    "content": "",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "number": 9,
+    "foods_id": 77,
+    "content": "Cho khoai tây nướng ra dĩa, thêm mayonniase lên trên, rắc thêm ớt bột. Dùng nóng.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "number": 10,
+    "foods_id": 77,
+    "content": "",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "number": 11,
+    "foods_id": 77,
+    "content": "",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "number": 12,
+    "foods_id": 77,
+    "content": "",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "number": 1,
+    "foods_id": 78,
+    "content": "Phết cream cheese lên 1 mặt 2 miếng bánh mì. 2 miếng còn lại phết mứt cam. Kẹp 2 miếng lại với nhau, cẳt bỏ rìa, cắt 1/2 theo đường chéo. Trứng gà đánh tan",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "number": 2,
+    "foods_id": 78,
+    "content": "Chuẩn bị chảo nóng, cho ít bơ vào đun chảy. Nhúng nhanh từng miếng bánh vào trứng rồi cho vào hạnh nhân áo phủ đều bên ngoài, cho vào chảo chiên nhỏ lửa, trở đều các mặt đến khi hạnh nhân vàng bên ngoài và trứng chín bên trong.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "number": 3,
+    "foods_id": 78,
+    "content": "Bắt Xốt Mayonnaise Aji-mayo® Vị Ngọt Dịu lên bánh mì.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "number": 4,
+    "foods_id": 78,
+    "content": "Cho bánh ra đĩa, ray đường bột lên trên, bắt chỉ Xốt Mayonnaise Aji-mayo® Vị Ngọt Dịu và mật ong trên cùng.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "number": 5,
+    "foods_id": 78,
+    "content": "Trang trí với dâu tây và húng lủi.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "number": 6,
+    "foods_id": 78,
+    "content": "🧋ăn ngon đi kèm: Trà sữa hoa đậu biếc",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "number": 1,
+    "foods_id": 79,
+    "content": "Cá liệt/ cá diêu hồng/ cá lóc: rửa sạch, để ráo.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "number": 2,
+    "foods_id": 79,
+    "content": "Cà chua: cắt múi cau",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "number": 3,
+    "foods_id": 79,
+    "content": "Thơm: cắt hình rẻ quạt",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "number": 4,
+    "foods_id": 79,
+    "content": "Bạc hà (Dọc mùng): cắt lát mỏng",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "number": 5,
+    "foods_id": 79,
+    "content": "Rau om (rau ngổ), hành lá: cắt nhỏ",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "number": 6,
+    "foods_id": 79,
+    "content": "Phi thơm hành tím với dầu ăn, cho cà chua vào xào sơ.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "number": 7,
+    "foods_id": 79,
+    "content": "Thêm 1.7 lít nước đun sôi, cho cá và thơm vào nồi, nấu đến khi nước sôi trở lại thì vớt bọt.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "number": 8,
+    "foods_id": 79,
+    "content": "Tiếp tục đun cá khoảng 5 phút rồi nêm 4M Gia vị nêm sẵn Aji-Quick® Lẩu Thái, 1m Bột ngọt AJI-NO-MOTO®, nếm vị chua nhẹ vừa ăn, thêm 2M nước mắm, hành lá, rau om, rồi tắt lửa.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "number": 9,
+    "foods_id": 79,
+    "content": "Dùng nóng với cơm hoặc bún, chấm nước mắm ớt tùy khẩu vị.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "number": 10,
+    "foods_id": 79,
+    "content": "🐟 Xem thêm các món cá ngon",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "number": 1,
+    "foods_id": 80,
+    "content": "Trừng gà đánh tan, thêm hành lá cắt nhỏ, nêm 1/2m hạt nêm, 1m nước tương, ít tiêu.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "number": 2,
+    "foods_id": 80,
+    "content": "Bắt cải, cà rốt cắt sợi thật nhuyễn.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "number": 3,
+    "foods_id": 80,
+    "content": "Phi thơm hành tím, xào sơ bắp cải và cà rốt, nêm 1/2m hạt nêm, trút ra riêng. Tiếp tục thêm dầu ăn và cho trứng vào quậy đều, khi trứng gần chín, cho phần bắp cải và cà rốt và trộn đều, tắt lửa, rắc thêm riêu.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "number": 4,
+    "foods_id": 80,
+    "content": " ",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "number": 5,
+    "foods_id": 80,
+    "content": "Thấm ướt bánh tráng, cho 1.5M nhân trứng vào, gấp 2 mép rồi cuộn lại, tạo hình chữ nhật.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "number": 6,
+    "foods_id": 80,
+    "content": "Làm nóng chảo chống dính, cho cuốn trứng lên áp chảo sém 2 mặt. tắt lửa",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "number": 7,
+    "foods_id": 80,
+    "content": "🥣Pha xốt chấm: Trộn đều 3M xốt mayonnaise Aji-mayo với 1M tương ớt",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "number": 8,
+    "foods_id": 80,
+    "content": "Xếp bánh ra dĩa, khi ăn chấm xốt mayonniase pha tương ớt.",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "number": 9,
+    "foods_id": 80,
+    "content": "🥚Xem thêm các món ngon từ trứng",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 81,
+    "number": 1,
+    "foods_id": 81,
+    "content": "Sơ chế cua: Cua chà rửa sạch, bóc mai ra, cắt cua làm 2 (nếu cua nhỏ) rồi dùng đồ đập bể phần càng cua.",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 81,
+    "number": 2,
+    "foods_id": 81,
+    "content": "Ớt sừng bỏ hạt, cắt miếng hình thoi. Hành lá cắt khúc 2cm. Tỏi đập dập. Tắc vắt lấy nước cốt, lấy vỏ 2 quả tắc cắt sợi.",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 81,
+    "number": 3,
+    "foods_id": 81,
+    "content": "Chiên cua: tẩm cua qua bột mì rồi cho cua và mai cua vào chảo dầu chiên vàng, vớt ra để ráo dầu.",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 81,
+    "number": 4,
+    "foods_id": 81,
+    "content": "Làm xốt: phi thơm tỏi, cho vào chảo 1/2 chén nước lọc, 1/2m bột ngọt AJINOMOTO®, 1m bột canh Ajinomoto, 2.5M đường, 3M nước cốt tắc, 1M vỏ tắc cắt sợi, 1/4m muối, 1m tương ớt nấu cho tan gia vị, nếm vị chua ngọt vừa rồi cho cua vào, rim đến khi xốt cạn, cuối cùng cho ớt sừng và hành lá vào đảo đều.",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 81,
+    "number": 5,
+    "foods_id": 81,
+    "content": "Làm muối tắc: cho 20g rau răm cắt nhỏ, 1.5M bột canh của Ajinomoto, 2M nước cốt tắc, 1m vỏ tắc sắc sợi nhuyễn, đổ ra chén, cắt thêm ớt băm vào.",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 81,
+    "number": 6,
+    "foods_id": 81,
+    "content": "Xếp các phần thành hình con cua rồi úp mai cua lên trên cho đẹp. Xốt chua ngọt rưới xung quanh, rắc 1 ít vỏ tắc. Khi ăn chấm cua với muối tắc.",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 81,
+    "number": 7,
+    "foods_id": 81,
+    "content": "🍴Món ngon đi kèm: Salad bí đỏ",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 82,
+    "number": 1,
+    "foods_id": 82,
+    "content": "Ướp thịt gà với 2m Hạt nêm Aji-ngon® GÀ, 1M cốt chanh.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "number": 2,
+    "foods_id": 82,
+    "content": "Cà pháo cắt múi cau 2cm, ớt sừng cắt miếng 2cm, cắt làm 4 đậu đũa cột gút.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "number": 3,
+    "foods_id": 82,
+    "content": "Xào thơm ớt sừng, cà pháo trút ra để riêng. Thêm dầu ăn, cho thịt gà vào xào săn, nêm vào 1/2M nước mắm, thêm cà ri xanh vào xào thấm. Thêm cốt dừa xấp mặt thịt, thêm đường, nấu nhỏ lửa 15 phút. Thêm cà pháo và ớt vào nấu 5 phút, rồi thêm lá chúc xé, nước rau bó xôi vào đảo đều, nấu thêm 5 phút. Sau cùng cho đậu đũa, húng quế vào đảo đều.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "number": 4,
+    "foods_id": 82,
+    "content": "Cho cà ri ra tô rắc ngò rí lên trên, dùng nóng với xôi, cơm hoặc bánh mì.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 83,
+    "number": 1,
+    "foods_id": 83,
+    "content": "Xát ít muối, rượu trắng vào miếng thịt để 10 phút sau đó rửa sạch để ráo. Luộc thịt nhanh qua nước sôi, xả nước làm lạnh, cắt thanh cỡ ngón tay. Ớt sừng, hành lá cắt khúc xéo, hành tây cắt múi cau.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 83,
+    "number": 2,
+    "foods_id": 83,
+    "content": "Dùng nồi đất hoặc gang. Chiên cháy cạnh thịt với ít dầu. Thêm 2M đường thắng vàng, thêm hành tím, tỏi xào thơm. Thêm 2M nước mắm đảo nhanh dậy mùi, thêm 1 chén nước, 1m Bột ngọt AJI-NO-MOTO® rim đến khi thịt mềm thấm vị. Sau cùng cho ớt sừng, hành lá vào đảo đều.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 83,
+    "number": 3,
+    "foods_id": 83,
+    "content": "Bày nồi thịt kho ra bàn ăn. Dùng với cơm nóng dưa leo.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 83,
+    "number": 4,
+    "foods_id": 83,
+    "content": "🍴Món ngon đi kèm: Canh chua cá dứa 1 nắng, Rau muống xào mắm ruốc",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "number": 1,
+    "foods_id": 84,
+    "content": "Nấm đông cô rửa sạch, cắt bỏ chân, ngâm nước vo gạo, sau đó luộc chín với nước có ít hạt nêm Aji-ngon, vớt ra vắt ráo nước, ướp với 1/2m hạt nêm Aji-ngon® Nấm.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "number": 2,
+    "foods_id": 84,
+    "content": "Đậu hũ trắng lấy muỗng tán ra cho nhuyễn. Bông cải xanh cắt miếng vừa ăn, luộc với nước có nêm 1 ít hạt nêm Aji-ngon® Nấm.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "number": 3,
+    "foods_id": 84,
+    "content": "Trộn đều đậu hũ trắng, giò sống gà chay, 2M hành boaro băm, 2M cà rốt băm với 1/2m hạt nêm Aji-ngon® Nấm, 1m đường, 1/2m bột ngọt AJI-NO-MOTO®, ít tiêu và 1m dầu ăn. Sau đó cho 2M bột năng vào, trộn đến khi hỗn hợp thật mịn.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "number": 4,
+    "foods_id": 84,
+    "content": "Rắc 2m bột năng vào lòng nấm đông cô, cho nhân vào, bo tròn, rồi phết một ít dầu lên trên mặt cho bóng, cho 1 lát ớt lên trên, nhấn nhẹ. Cho nấm vào hấp trong khoảng 15 phút đến khi chín.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "number": 5,
+    "foods_id": 84,
+    "content": "Nấu xốt: Hòa tan 1/2m đường, 1/2m bột ngọt AJI-NO-MOTO®, 1/3m muối, 1m hạt nêm Aji-ngon® Nấm, 1m dầu hào chay, 2m bột năng và 1 chén nước, 1m nước tương “”Phú Sĩ””. Phi thơm hành boaro, cho hỗn hợp đã pha vào, nấu cho sệt lại, tắt lửa, thêm 1/2m dầu mè, 1m ớt băm, 1m ngò rí băm vào.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "number": 6,
+    "foods_id": 84,
+    "content": "Rưới sốt ra đĩa, sắp xếp nấm đông cô lên trên, trang trí với bông cải xanh, ngò và ớt xung quanh.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "number": 1,
+    "foods_id": 85,
+    "content": "Dồi trường rửa sạch, ngâm nước có pha chút rượu và gừng đập dập rồi rửa sạch lại cho vô tô nước đá 30 phút, cắt khúc 2cm.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "number": 2,
+    "foods_id": 85,
+    "content": "Bông hẹ rửa sạch, bỏ phần già, cắt khúc 3 – 4cm.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "number": 3,
+    "foods_id": 85,
+    "content": "Hành tây cắt sợi 5cm. Ớt chuông bỏ hạt, cắt miếng vừa ăn.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "number": 4,
+    "foods_id": 85,
+    "content": "Gừng cắt sợi nhuyễn.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "number": 5,
+    "foods_id": 85,
+    "content": "Pha xốt: 1/2m đường, 1.5m hạt nêm Heo, 1/2m bột ngọt, 1/2m tiêu, 1M dầu hào, ít rượu trắng và 1M nước.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "number": 6,
+    "foods_id": 85,
+    "content": "Phi thơm 1M hành tỏi băm, 1M gừng, cho dồi trường vào xào lửa lớn, đảo thật nhanh tay, cho nửa lượng xốt đã pha vào, xào dồi trường chín tới thêm hành tây, trút ra dĩa.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "number": 7,
+    "foods_id": 85,
+    "content": "Đun nóng dầu, phi thơm 1M hành tỏi băm, cho bông hẹ và ớt chuông vào xào, cho phần xốt còn lại vào xào, bông hẹ sắp chín cho dồi trường vào trộn nhanh tay, tắt lửa.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "number": 8,
+    "foods_id": 85,
+    "content": "Múc dồi trường ra dĩa, rắc thêm tiêu, ớt cắt lát, chấm cùng nước tương “Phú Sĩ”.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "number": 1,
+    "foods_id": 86,
+    "content": "Cá kèo làm sạch cắt làm đôi.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "number": 2,
+    "foods_id": 86,
+    "content": "Cà chua cắt múi cau. Thơm cắt rẽ quạt. Ớt hiểm đập dập 2 trái.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "number": 3,
+    "foods_id": 86,
+    "content": "Chuẩn bị các loại rau, bún, xếp ra dĩa. Rau nêm cắt khúc 1cm.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "number": 4,
+    "foods_id": 86,
+    "content": "Đun sôi nước dùng, cho cà chua, thơm vào, nêm 1m bột ngọt AJI-NO-MOTO®, 1.5m muối, 1M hạt nêm Aji-ngon® Gà, 2M đường, 4M giấm gạo lên men Ajinomoto, 3M nước mắm (cho vào sau cùng trước khi tắt lửa), ớt hiểm đập giập, nếm vị chua ngọt vừa ăn.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "number": 5,
+    "foods_id": 86,
+    "content": "Đun sôi nước dùng lẩu, cho cá vào, đợi nước lẩu sôi lại cho 1/2 lượng rau các loại vào, cho thêm ít tỏi phi, ăn kèm với bún, chấm nước mắm và ớt cắt lát.",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "number": 6,
+    "foods_id": 86,
+    "content": "🍴Món ngon đi kèm: Mực xào xốt tiêu xanh",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 87,
+    "number": 1,
+    "foods_id": 87,
+    "content": "Đùi tỏi gà khứa xéo vài đường. Hành tây băm nhỏ.  ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 87,
+    "number": 2,
+    "foods_id": 87,
+    "content": "Làm xốt BBQ: phi thơm tỏi băm và hành tây băm với 3M dầu ăn, nêm 1/3m bột đinh hương, 1/2m muối, 1/2m lá oregano, 1m ớt bột, 1m mù tạc vàng, 2m hạt nêm Aji-ngon® Heo, 1M giấm gạo lên men Ajinomoto, 1M mật ong, 2M đường vàng, 2M nước tương “Phú Sĩ”, 1/2 chén tương cà, 1/2 chén nước, 1M bơ lạt đun sôi lửa nhẹ cho sánh lại, cho thêm 1/2m tiêu vào, tắt lửa.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 87,
+    "number": 3,
+    "foods_id": 87,
+    "content": "Ướp 2/3 lượng xốt BBQ lên đùi gà, để thấm 10 phút, áp chảo sơ cho gà săn, rồi nướng khoảng 25-30’ với 230 độ cho đùi gà chín. Thỉnh thoảng phết xốt lên cho bám đều vào đùi gà. Thử gà bằng cách xiên tăm chỗ thịt dầy nhất, nước chảy ra trong, không còn đỏ hồng là chín.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 87,
+    "number": 4,
+    "foods_id": 87,
+    "content": "Bày đùi gà BBQ ra dĩa và ăn kèm với xà lách, đồ chua.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "number": 1,
+    "foods_id": 88,
+    "content": "Thịt vịt áp chảo da (không cần dầu ăn) để tăng mùi vị, chặt miếng to 5cm. Bắp mỹ cắt khoanh.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "number": 2,
+    "foods_id": 88,
+    "content": "Cho thịt vịt ra tô sau đó cho gia vị 1/2M Hạt nêm Aji-ngon® Heo, 1m bột ngọt AJI-NO-MOTO®, 1m muối, 2m đường, 1M hành tím băm và 1/2M gừng băm để cho thịt thấm vị 10 phút sau đó sẽ cắt cà rốt hình khối, đập dập sả.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "number": 3,
+    "foods_id": 88,
+    "content": "Cho 1M dầu ăn vào nồi sau đó cho hành tây bi vào xóc cho thơm, trút ra rồi.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "number": 4,
+    "foods_id": 88,
+    "content": "Cho 1M tỏi băm, 1M hành tây băm vào phi thơm cùng với 2.5M cà chua tán, đinh hương và quế vào để tạo màu và hương thơm cho món ăn. Tiếp theo cho hết thịt vịt vào xào cho thơm với lửa lớn cho thịt săn lại và 1.5l cho nước dừa và nước lã vào đun sôi với bọt, sau đó cho sả cây đã đập và hành tay bi vào và nêm thêm 1M hạt nêm Aji-ngon® Heo vào nấu với lửa vừa 15 phút. Tiếp theo, cho bắp và cà rốt vào nấu thêm 7 phút nữa. Hòa 1M bột năng cùng với nước cho vào để tạo độ sánh cho món ăn.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "number": 5,
+    "foods_id": 88,
+    "content": "Cho thịt ra tô sau đó trang trí thêm ngò và ăn kèm cùng bánh mì.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "number": 6,
+    "foods_id": 88,
+    "content": "🥗 Món ăn đi kèm: Salad tôm thanh mát",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "number": 1,
+    "foods_id": 89,
+    "content": "Thịt bò cắt lát mỏng, ướp 1/3m tiêu, 1/2m hạt nêm Aji-ngon® Heo, 1M hành tỏi băm, trộn đều.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "number": 2,
+    "foods_id": 89,
+    "content": "Hành tây cắt múi cau, ớt chuông vàng và đỏ cắt miếng vừa ăn.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "number": 3,
+    "foods_id": 89,
+    "content": "Phi thơm hành tỏi băm với 2M dầu ăn, cho thịt bò xào nhanh vừa chín trút ra.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "number": 4,
+    "foods_id": 89,
+    "content": "Tiếp tục phi dầu với hành tỏi, cho lần lượt ớt chuông, hành tây vào xào, nêm 1m hạt nêm Aji-Ngon® Heo, 1/2M nước tương “Phú Sĩ”, 1/2M dầu hào tiếp tục cho bông so đũa xào nhanh tay khoảng 2 phút, cuối cùng cho thịt bò vào trộn đều, tắt lửa và thêm hành lá, ngò rí, rắc tiêu.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "number": 5,
+    "foods_id": 89,
+    "content": "Trình bày món ăn ra dĩa. Khi ăn chấm kèm nước tương “Phú Sĩ”.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "number": 1,
+    "foods_id": 90,
+    "content": "Bánh phồng tôm gạo lứt: chiên phồng.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "number": 2,
+    "foods_id": 90,
+    "content": "Tôm đất loại nhỏ vừa.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "number": 3,
+    "foods_id": 90,
+    "content": "Xúc xích cắt hạt lựu. Bắp hạt, đậu bi luộc chín, ngâm nước đá, vớt ra để ráo. Ngò rí lấy lá. Xà lách cắt nhỏ. Chanh dây cắt đôi lấy nước và giữ lại 1 ít hạt.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "number": 4,
+    "foods_id": 90,
+    "content": "Luộc tôm lên cắt hạt lựu, để lại 15 con để trang trí.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "number": 5,
+    "foods_id": 90,
+    "content": "Trộn đều xúc xích, bắp, đậu, xà lách, rắc thêm ít muối, tiêu.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "number": 6,
+    "foods_id": 90,
+    "content": "Xếp nhân lên bánh phồng tôm, rưới 1/2m nước chanh dây, thêm 1 con tôm, topping xốt Mayonnaise Aji-mayo® vị ngọt dịu và thêm lá ngò lên trên – có thể trang trí thêm hạt chanh dây nếu thích.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "number": 7,
+    "foods_id": 90,
+    "content": "Bày món ăn ra dĩa, dùng làm món khai vị.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 91,
+    "number": 1,
+    "foods_id": 91,
+    "content": "Thịt ba chỉ cắt miếng nhỏ hình con chì, ướp 1m hành tím băm, 1m tỏi băm, 1m ớt băm, nửa gói Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn để thấm.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 91,
+    "number": 2,
+    "foods_id": 91,
+    "content": "Phi thơm 1M sả, 1M tỏi, 1M ớt băm với 1M dầu ăn, trút ra để riêng. Sau đó cho thịt chiên ngập dầu, sau khi thịt chín thì tắt lửa.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 91,
+    "number": 3,
+    "foods_id": 91,
+    "content": "Trộn thịt với sả, tỏi, ớt đã phi.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 91,
+    "number": 4,
+    "foods_id": 91,
+    "content": "Cho ba rọi chiên sả ớt ra dĩa, dùng nóng với cơm trắng.",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 91,
+    "number": 5,
+    "foods_id": 91,
+    "content": "🥗 Món ăn đi kèm: Salad mực ống",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 92,
+    "number": 1,
+    "foods_id": 92,
+    "content": "Tàu hũ ky lá chiên giòn.",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "number": 2,
+    "foods_id": 92,
+    "content": "Củ sen cắt dày 0,3cm.",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "number": 3,
+    "foods_id": 92,
+    "content": "Cà rốt tỉa hoa cắt miếng dày 0,3cm.",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "number": 4,
+    "foods_id": 92,
+    "content": "Mít cắt miếng 3 cm, bắc chảo dầu, chiên qua cho thơm. Lấy sườn chay đã ngâm và vắt bớt nước cắt làm 4, áp chảo sơ qua cho miếng sườn thơm.",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "number": 5,
+    "foods_id": 92,
+    "content": "Cho 2M dầu điều, đun nóng, thêm 2 cây sả, 2m boarô cắt mỏng, phi cho thơm, cho mít vào, cho củ sen vào, thêm 2 chén nước dừa tươi, 1m hạt nêm Aji-ngon® Nấm + 3M Nước tương “Phú Sĩ”+ 1/2M đường, đậy vung nấu lửa vừa 5 phút, cho cà rốt, sườn chay, củ sen, ớt xiêm, ớt hiểm, nấu lửa nhỏ cho tất cả nguyên liệu chín, cho thêm một chén nước cốt dừa, đun lửa nhỏ vừa sôi tắt lửa.",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "number": 6,
+    "foods_id": 92,
+    "content": "Múc ra dĩa rắc đậu phộng, ngò gai rau om và tàu hũ ky chiên phồng.",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "number": 7,
+    "foods_id": 92,
+    "content": "Ăn với cơm trắng hoặc bánh mì.",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "number": 8,
+    "foods_id": 92,
+    "content": "🍲Món ngon ăn kèm: Canh nấm khoai từ.",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 93,
+    "number": 1,
+    "foods_id": 93,
+    "content": "Ốc bươu đã tách vỏ cắt nhỏ 0,5cm",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "number": 2,
+    "foods_id": 93,
+    "content": "Mỡ luộc cắt hạt lựu, ướp mỡ với 1m đường 10 phứt. Ốc ướp với 1m gừng băm.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "number": 3,
+    "foods_id": 93,
+    "content": "Làm mỡ hành: Đun nóng dầu ăn đến khi bắt đầu sôi cho hành lá cắt nhỏ, ít muối + đường vào cho đến khi hành hơi se lại thì tắt bếp.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "number": 4,
+    "foods_id": 93,
+    "content": "Trộn nhân: Trộn giò sống+ ốc, mỡ + nấm+ lá lốt cắt sợi, 1m hành băm, 1m tỏi băm, 2M tiêu xanh đập giập + 1m đường + 1/2m Hạt nêm Aji-ngon® Heo, 1m nước tương “Phú Sĩ”. Để 10 phút, cho thấm gia vị.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "number": 5,
+    "foods_id": 93,
+    "content": "Tạo hình và nướng: Dùng lá lốt to, cho vào lá 1 muỗng nhân gói lại như chả giò. Xiên vào que tre. Nướng chả ốc trên vỉ nướng điện (phết 1 lớp dầu trên chảo trước khi nướng) cho chín lá mềm và sem sém.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "number": 6,
+    "foods_id": 93,
+    "content": "Pha nươc chấm: 2M nước tương “”Phú Sĩ””, 2M tương ớt, 1m gừng băm 1m đường và đồ chua.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "number": 7,
+    "foods_id": 93,
+    "content": "Dọn kèm rau thơm, salad, dưa leo, nước chấm nước tương “Phú Sĩ” và tương ớt, ghim cà chua bi lên đầu que xiên.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "number": 1,
+    "foods_id": 94,
+    "content": "Cóc non, sả non, rau răm cắt lát",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "number": 2,
+    "foods_id": 94,
+    "content": "Bạch tuộc sơ chế sạch, luộc với nước có gừng, 1.5M giấm gạo và sả đập dập, vớt ra ngâm nước đá, cắt miếng vừa ăn.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "number": 3,
+    "foods_id": 94,
+    "content": "Sốt Thái: Xào thơm sả hành tỏi xay với dầu ăn, sau đó cho hỗn hợp gia vị gồm 1M Gia vị nêm sẵn Aji-Quick® LẨU THÁI, 1M đường, 1M nước mắm, 1M tương ớt, 1M nước, nấu sôi, tắt lửa để nguội.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "number": 4,
+    "foods_id": 94,
+    "content": "Trộn đều các nguyên liệu bạch tuộc, cóc, sả, rau răm, tắc, sau đó cho sốt vào trộn đều.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "number": 5,
+    "foods_id": 94,
+    "content": "Trình bày món ăn ra dĩa.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 95,
+    "number": 1,
+    "foods_id": 95,
+    "content": "Chuẩn bị nhân: Tầm bóp cắt lát mỏng 5 quả. Còn lại cắt nhỏ 3 li (hoặc xay nhỏ), thêm vào 2M đường, 1M nước, 1 chút muối, bắc lên bếp sên cho sánh lại, dùng làm nhân bánh.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 95,
+    "number": 2,
+    "foods_id": 95,
+    "content": "Làm bánh: Bột bánh rán pha sẵn vị Sô-cô-la pha theo hướng dẫn trên bao bì. Lần lượt làm thành những cái bánh bằng nhau.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 95,
+    "number": 3,
+    "foods_id": 95,
+    "content": "Trình bày: Đặt 1 cái bánh, phết lên 1 lớp mứt tầm bóp, đặt cái bánh lên trên. Trình bày tầm bóp xen kẽ dâu cắt lát lên trên, rưới xốt tầm bóp. Rắc thêm đường bột.",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 96,
+    "number": 1,
+    "foods_id": 96,
+    "content": "Sườn non chặt 3 cm. Củ sen cắt khoanh dày 3 ly.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 96,
+    "number": 2,
+    "foods_id": 96,
+    "content": "A-ti-sô rửa sạch chẻ 2. Hành tây cắt múi cau nhỏ.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 96,
+    "number": 3,
+    "foods_id": 96,
+    "content": "Ướp sườn: 1m Hạt nêm Aji-ngon® HEO, 1/2 m muối.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 96,
+    "number": 4,
+    "foods_id": 96,
+    "content": "Đun 1 nồi nước 1,8 L. Cho sườn vào nấu cùng 2 củ hành tím nướng. Nêm nước dùng với 1/2m muối, 1/2M Hạt nêm Aji-ngon® HEO. Sau khi nấu 10 phút thì cho củ sen và a-ti-sô vào. Nấu thêm 25 phút thì cho hành tây và cà rốt vào. Khi tất cả chín mềm thì cho 1/2M nước mắm, tắt lửa.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 96,
+    "number": 5,
+    "foods_id": 96,
+    "content": "Múc canh ra tô, rắc tiêu bày hành ngò. Dọn kèm 1 chén nước mắm nguyên. Dùng với cơm.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 96,
+    "number": 6,
+    "foods_id": 96,
+    "content": "🐚 Món ăn đi kèm: Ốc hương xào củ dừa",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "number": 1,
+    "foods_id": 97,
+    "content": "Cà rốt cắt hạt lựu.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "number": 2,
+    "foods_id": 97,
+    "content": "Đun sôi nước, thêm ít muối, cho đậu cô ve Nhật vào luộc chín, vớt ra, ngâm vào nước đá giúp giữ màu xanh. Cho cà rốt vào luộc, vớt ra. Chần lại đậu đỏ để rửa lại cho đậu sạch phần cám bên ngoài. Đậu cô ve cắt khúc 1cm. Khoai lang cắt hạt lựu, sau đó luộc toàn bộ khoai lang đã cắt hạt lựu đến khi vừa chín tới.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "number": 3,
+    "foods_id": 97,
+    "content": "Trứng gà luộc chín, lòng trắng cắt hạt lựu, lòng đỏ cà nhỏ. Cam mài lấy 1m vỏ cam, ½ tách miếng 2 phân, ½ trái vắt lấy nước. Ham cắt hạt lựu. Húng lủi băm nhỏ.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "number": 4,
+    "foods_id": 97,
+    "content": "Pha xốt: cho 4M xốt Mayonnaise Aji-mayo® Vị Nguyên Bản Vị Nguyên Bản, 2M nước cam, 1M bơ đậu phộng, 1M sữa đặc và 1ít húng lủi băm nhỏ, 1m vỏ cam mài, trộn đều.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "number": 5,
+    "foods_id": 97,
+    "content": "Trộn đều các loại đậu, cam, khoai lang, lòng trắng trứng, cà rốt và ham cùng với hỗn hợp xốt Mayonnaise Aji-mayo® Vị Nguyên Bản.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "number": 6,
+    "foods_id": 97,
+    "content": "Cho salad cam đậu đỏ ra dĩa, rắc lòng đỏ trứng lên trên, trang trí húng lủi.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 98,
+    "number": 1,
+    "foods_id": 98,
+    "content": "Cắt puff parstry thành miếng vừa ăn 6x12cm.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 98,
+    "number": 2,
+    "foods_id": 98,
+    "content": "Chuẩn bị lò nướng 180oC. Trải giấy nến ra khay. Cho puff parstry vô nướng đến khi nổi bung vàng đều. Lấy ra để nguội, cắt xẻ đôi phết xốt Mayonnaise Aji-mayo® vị nguyên bản 2 mặt cắt, cho thịt nguội phô mai lên trên, phết 1 lớp lòng đỏ trứng gà lên mặt bánh. Cho vào lò nướng lần 2 đến khi phô mai tan chảy.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 98,
+    "number": 3,
+    "foods_id": 98,
+    "content": "Dùng nóng cùng với salad dầu giấm hoặc dùng không.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 99,
+    "number": 1,
+    "foods_id": 99,
+    "content": "Tôm sú lấy chỉ lưng, ghim tăm định hình luộc chín.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 99,
+    "number": 2,
+    "foods_id": 99,
+    "content": "🍚Trộn cơm: hòa tan 1m giấm gạo lên men Ajinomoto, 1/3m muối, 1m đường và 1m nước, trộn đều vào cơm, thêm 4M rong biển, 2M mè rang vào trộn đều.”",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 99,
+    "number": 3,
+    "foods_id": 99,
+    "content": "🫔Tạo hình: Trải miếng cá hồi xông khói ra, phết 1 lớp cơm, đặt 1 con tôm và cọng thì là lên, chừa đuôi và phần lá thì là ra ngoài, cuộn tròn lại.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 99,
+    "number": 4,
+    "foods_id": 99,
+    "content": "Xếp cuốn cá cuộn cơm chiên ra dĩa, topping và chấm với xốt Mayonnaise Aji-mayo® vị nguyên bản trộn tương ớt với tỉ lệ 3:1.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 100,
+    "number": 1,
+    "foods_id": 100,
+    "content": "Lá cà ri cắt nhuyễn.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 100,
+    "number": 2,
+    "foods_id": 100,
+    "content": "Sụn gà rửa sạch, để ráo, ướp với lá cà ri và ớt xiêm xanh.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 100,
+    "number": 3,
+    "foods_id": 100,
+    "content": "Đun nóng dầu ăn, cho nhánh lá cà ri vào chiên trước rồi vớt ra giấy thấm dầu.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 100,
+    "number": 4,
+    "foods_id": 100,
+    "content": "Tẩm sụn gà qua Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn, đem chiên chín vàng, vớt ra để ráo dầu.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 100,
+    "number": 5,
+    "foods_id": 100,
+    "content": "Bày sụn gà ra dĩa, topping xốt xốt mayonnaise Aji-mayo vị nguyên bản, ăn kèm với xà lách, đồ chua.",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  }
+]

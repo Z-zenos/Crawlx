@@ -1,0 +1,7607 @@
+[
+  {
+    "id": 1,
+    "foods_id": 1,
+    "name": "mì nưa",
+    "name_no_accent": "mi nua",
+    "quantity": "160gr",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "foods_id": 1,
+    "name": "tôm sú",
+    "name_no_accent": "tom su",
+    "quantity": "4 con",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "foods_id": 1,
+    "name": "nấm đùi gà",
+    "name_no_accent": "nam dui ga",
+    "quantity": "1 cây",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "foods_id": 1,
+    "name": "ớt chuông",
+    "name_no_accent": "ot chuong",
+    "quantity": "20gr",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "foods_id": 1,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "30gr",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "foods_id": 1,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "30gr",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "foods_id": 1,
+    "name": "tiêu xay",
+    "name_no_accent": "tieu xay",
+    "quantity": "1/2m",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "foods_id": 1,
+    "name": "tỏi",
+    "name_no_accent": "toi",
+    "quantity": "10 gr",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "foods_id": 1,
+    "name": "dầu ăn",
+    "name_no_accent": "dau an",
+    "quantity": "20m",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "foods_id": 1,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò rí",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 1,
+    "foods_id": 1,
+    "name": "gia vị: dầu hào, bột ngọt, đường",
+    "name_no_accent": "gia vi  dau hao  bot ngot  duong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:20",
+    "updated_at": "2023-12-30 19:26:20"
+  },
+  {
+    "id": 2,
+    "foods_id": 2,
+    "name": "cá thác lác",
+    "name_no_accent": "ca thac lac",
+    "quantity": "300 g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "foods_id": 2,
+    "name": "tôm sú",
+    "name_no_accent": "tom su",
+    "quantity": "300 g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "foods_id": 2,
+    "name": "bông điên điển",
+    "name_no_accent": "bong dien dien",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "foods_id": 2,
+    "name": "bông so đũa",
+    "name_no_accent": "bong so dua",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "foods_id": 2,
+    "name": "bông hẹ",
+    "name_no_accent": "bong he",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "foods_id": 2,
+    "name": "bông bí",
+    "name_no_accent": "bong bi",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "foods_id": 2,
+    "name": "bông súng",
+    "name_no_accent": "bong sung",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "foods_id": 2,
+    "name": "nấm rơm búp",
+    "name_no_accent": "nam rom bup",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "foods_id": 2,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "cần tàu, húng quế, ngò gai, rau om, ớt hiểm xanh đỏ, sả cây",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "foods_id": 2,
+    "name": "ăn kèm: bún tươi",
+    "name_no_accent": "an kem  bun tuoi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 2,
+    "foods_id": 2,
+    "name": "gia vị:  nước mắm, dầu ăn, tỏi băm",
+    "name_no_accent": "gia vi  nuoc mam  dau an  toi bam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "foods_id": 4,
+    "name": "thịt ức gà",
+    "name_no_accent": "thit uc ga",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "foods_id": 4,
+    "name": "cải ngồng",
+    "name_no_accent": "cai ngong",
+    "quantity": "200g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "foods_id": 4,
+    "name": "mè trắng rang",
+    "name_no_accent": "me trang rang",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "foods_id": 4,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1/2 củ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "foods_id": 4,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "1/2 củ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "foods_id": 4,
+    "name": "húng lủi",
+    "name_no_accent": "hung lui",
+    "quantity": "20g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "foods_id": 4,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "húng lủi, ớt sợi, hoa cải ngồng",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 4,
+    "foods_id": 4,
+    "name": "gia vị: dầu mè, muối, đường, dầu hào, tương cà, tương ớt bắc.",
+    "name_no_accent": "gia vi  dau me  muoi  duong  dau hao  tuong ca  tuong ot bac ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "foods_id": 5,
+    "name": "gà ta",
+    "name_no_accent": "ga ta",
+    "quantity": "1/2 con",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "foods_id": 5,
+    "name": "cọng súng",
+    "name_no_accent": "cong sung",
+    "quantity": "300 g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "foods_id": 5,
+    "name": "hoa súng",
+    "name_no_accent": "hoa sung",
+    "quantity": "3 bông",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "foods_id": 5,
+    "name": "dưa leo",
+    "name_no_accent": "dua leo",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "foods_id": 5,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1/2 củ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "foods_id": 5,
+    "name": "hành phi",
+    "name_no_accent": "hanh phi",
+    "quantity": "2 m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "foods_id": 5,
+    "name": "cần tây",
+    "name_no_accent": "can tay",
+    "quantity": "1 bẹ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "foods_id": 5,
+    "name": "đậu phộng rang",
+    "name_no_accent": "dau phong rang",
+    "quantity": "2 m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "foods_id": 5,
+    "name": "lá cóc non",
+    "name_no_accent": "la coc non",
+    "quantity": "1 chén",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "foods_id": 5,
+    "name": "tắc",
+    "name_no_accent": "tac",
+    "quantity": "2 trái to",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "foods_id": 5,
+    "name": "ăn kèm: bánh tráng mè đen nướng",
+    "name_no_accent": "an kem  banh trang me den nuong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 5,
+    "foods_id": 5,
+    "name": "gia vị: muối, đường, tắc, tỏi ớt, nước mắm.",
+    "name_no_accent": "gia vi  muoi  duong  tac  toi ot  nuoc mam ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "foods_id": 6,
+    "name": "tôm",
+    "name_no_accent": "tom",
+    "quantity": "300gr",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "foods_id": 6,
+    "name": "giò sống",
+    "name_no_accent": "gio song",
+    "quantity": "50gr",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "foods_id": 6,
+    "name": "miến khô",
+    "name_no_accent": "mien kho",
+    "quantity": "2 vắt",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "foods_id": 6,
+    "name": "cải bó xôi",
+    "name_no_accent": "cai bo xoi",
+    "quantity": "20gr",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "foods_id": 6,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "30gr",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "foods_id": 6,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "30gr",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "foods_id": 6,
+    "name": "tiêu xay",
+    "name_no_accent": "tieu xay",
+    "quantity": "1/2m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "foods_id": 6,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò rí",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 6,
+    "foods_id": 6,
+    "name": "gia vị: dầu hào, bột ngọt, đường",
+    "name_no_accent": "gia vi  dau hao  bot ngot  duong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "foods_id": 7,
+    "name": "cá basa phi lê",
+    "name_no_accent": "ca basa phi le",
+    "quantity": "200g ti",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "foods_id": 7,
+    "name": "rau tần ô",
+    "name_no_accent": "rau tan o",
+    "quantity": "400g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "foods_id": 7,
+    "name": "củ cải trắng",
+    "name_no_accent": "cu cai trang",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "foods_id": 7,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "3 cây",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "foods_id": 7,
+    "name": "ớt sừng",
+    "name_no_accent": "ot sung",
+    "quantity": "1/2 trái (cắt sợi)",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "foods_id": 7,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "50g(cắt sợi)",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "foods_id": 7,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1/4 củ (cắt lát)",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "foods_id": 7,
+    "name": "mè trắng rang",
+    "name_no_accent": "me trang rang",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 7,
+    "foods_id": 7,
+    "name": "gia vị: tiêu, đường, dầu ăn",
+    "name_no_accent": "gia vi  tieu  duong  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "foods_id": 8,
+    "name": "giò sống",
+    "name_no_accent": "gio song",
+    "quantity": "200g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "foods_id": 8,
+    "name": "tôm thẻ",
+    "name_no_accent": "tom the",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "foods_id": 8,
+    "name": "bắp mĩ",
+    "name_no_accent": "bap mi",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "foods_id": 8,
+    "name": "đầu hành lá băm",
+    "name_no_accent": "dau hanh la bam",
+    "quantity": "1m (cắt nhỏ)",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "foods_id": 8,
+    "name": "tiêu",
+    "name_no_accent": "tieu",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "foods_id": 8,
+    "name": "ớt hiểm",
+    "name_no_accent": "ot hiem",
+    "quantity": "1 trái (băm nhuyễn)",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "foods_id": 8,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "1/2m (băm nhuyễn)",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "foods_id": 8,
+    "name": "ớt sừng băm",
+    "name_no_accent": "ot sung bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "foods_id": 8,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò rí",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "foods_id": 8,
+    "name": "ăn kèm: cơm trắng",
+    "name_no_accent": "an kem  com trang",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 8,
+    "foods_id": 8,
+    "name": "gia vị: nước mắm",
+    "name_no_accent": "gia vi  nuoc mam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "foods_id": 9,
+    "name": "lá hoành thánh",
+    "name_no_accent": "la hoanh thanh",
+    "quantity": "20 lá",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "foods_id": 9,
+    "name": "thịt xay",
+    "name_no_accent": "thit xay",
+    "quantity": "50gr",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "foods_id": 9,
+    "name": "trứng gà",
+    "name_no_accent": "trung ga",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "foods_id": 9,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "25gr",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "foods_id": 9,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "25gr",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "foods_id": 9,
+    "name": "ớt sừng",
+    "name_no_accent": "ot sung",
+    "quantity": "20gr",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "foods_id": 9,
+    "name": "mè trắng",
+    "name_no_accent": "me trang",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "foods_id": 9,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "foods_id": 9,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "1 nhánh",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "foods_id": 9,
+    "name": "ớt khô",
+    "name_no_accent": "ot kho",
+    "quantity": "2 trái",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 9,
+    "foods_id": 9,
+    "name": "gia vị: dầu hào, bột ngọt, đường, dầu ăn",
+    "name_no_accent": "gia vi  dau hao  bot ngot  duong  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "foods_id": 10,
+    "name": "ba rọi heo",
+    "name_no_accent": "ba roi heo",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "foods_id": 10,
+    "name": "bắp mỹ",
+    "name_no_accent": "bap my",
+    "quantity": "1/2 trái",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "foods_id": 10,
+    "name": "măng tây",
+    "name_no_accent": "mang tay",
+    "quantity": "5 cây",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "foods_id": 10,
+    "name": "cà chua bi",
+    "name_no_accent": "ca chua bi",
+    "quantity": "5 trái",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "foods_id": 10,
+    "name": "mè đen",
+    "name_no_accent": "me den",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "foods_id": 10,
+    "name": "mè trắng",
+    "name_no_accent": "me trang",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "foods_id": 10,
+    "name": "hành băm",
+    "name_no_accent": "hanh bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "foods_id": 10,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "1.5m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "foods_id": 10,
+    "name": "lá basil (quế tây) khô",
+    "name_no_accent": "la basil  que tay  kho",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 10,
+    "foods_id": 10,
+    "name": "gia vị: dầu hào, dầu điều, tiêu, dầu ăn, tương cà, tương ớt",
+    "name_no_accent": "gia vi  dau hao  dau dieu  tieu  dau an  tuong ca  tuong ot",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "foods_id": 11,
+    "name": "ba chỉ bò",
+    "name_no_accent": "ba chi bo",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "foods_id": 11,
+    "name": "củ cải trắng",
+    "name_no_accent": "cu cai trang",
+    "quantity": "1 củ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "foods_id": 11,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "1 củ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "foods_id": 11,
+    "name": "cải thảo",
+    "name_no_accent": "cai thao",
+    "quantity": "1/3 bắp",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "foods_id": 11,
+    "name": "trứng gà",
+    "name_no_accent": "trung ga",
+    "quantity": "2 quả",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "foods_id": 11,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "2 nhánh",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "foods_id": 11,
+    "name": "nấm kim châm",
+    "name_no_accent": "nam kim cham",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "foods_id": 11,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1 củ nhỏ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 11,
+    "foods_id": 11,
+    "name": "ăn kèm: tương đen, sa tế",
+    "name_no_accent": "an kem  tuong den  sa te",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 12,
+    "foods_id": 12,
+    "name": "cam vàng",
+    "name_no_accent": "cam vang",
+    "quantity": "2 quả",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 12,
+    "foods_id": 12,
+    "name": "whipping cream",
+    "name_no_accent": "whipping cream",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 12,
+    "foods_id": 12,
+    "name": "nước cốt chanh",
+    "name_no_accent": "nuoc cot chanh",
+    "quantity": "1/2m",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 13,
+    "foods_id": 13,
+    "name": "xúc xích xông khói",
+    "name_no_accent": "xuc xich xong khoi",
+    "quantity": "2 cái",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 13,
+    "foods_id": 13,
+    "name": "bắp cải",
+    "name_no_accent": "bap cai",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 13,
+    "foods_id": 13,
+    "name": "trứng gà",
+    "name_no_accent": "trung ga",
+    "quantity": "2 quả",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 13,
+    "foods_id": 13,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "2 nhánh",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 13,
+    "foods_id": 13,
+    "name": "phô mai lát",
+    "name_no_accent": "pho mai lat",
+    "quantity": "4 lát",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 13,
+    "foods_id": 13,
+    "name": "gia vị: dầu ăn, tương cà.",
+    "name_no_accent": "gia vi  dau an  tuong ca ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:22",
+    "updated_at": "2023-12-30 19:26:22"
+  },
+  {
+    "id": 14,
+    "foods_id": 14,
+    "name": "táo",
+    "name_no_accent": "tao",
+    "quantity": "1/2quả",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 14,
+    "foods_id": 14,
+    "name": "kiwi",
+    "name_no_accent": "kiwi",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 14,
+    "foods_id": 14,
+    "name": "dâu",
+    "name_no_accent": "dau",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 14,
+    "foods_id": 14,
+    "name": "rượu rum",
+    "name_no_accent": "ruou rum",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 14,
+    "foods_id": 14,
+    "name": "bơ lạt",
+    "name_no_accent": "bo lat",
+    "quantity": "10g",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 14,
+    "foods_id": 14,
+    "name": "whipping cream",
+    "name_no_accent": "whipping cream",
+    "quantity": "15ml",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 14,
+    "foods_id": 14,
+    "name": "đường",
+    "name_no_accent": "duong",
+    "quantity": "20g",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "foods_id": 15,
+    "name": "gà da giòn bình định",
+    "name_no_accent": "ga da gion binh dinh",
+    "quantity": "1/2 con (chặt miếng 3cm)",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "foods_id": 15,
+    "name": "sả cây",
+    "name_no_accent": "sa cay",
+    "quantity": "2 cây",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "foods_id": 15,
+    "name": "ngò gai",
+    "name_no_accent": "ngo gai",
+    "quantity": "1 cây",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "foods_id": 15,
+    "name": "ngò rí",
+    "name_no_accent": "ngo ri",
+    "quantity": "1 nhúm",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "foods_id": 15,
+    "name": "húng lủi bắc",
+    "name_no_accent": "hung lui bac",
+    "quantity": "1 nhúm",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "foods_id": 15,
+    "name": "gừng lát",
+    "name_no_accent": "gung lat",
+    "quantity": "3 lát",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "foods_id": 15,
+    "name": "hạt mắc khén",
+    "name_no_accent": "hat mac khen",
+    "quantity": "2g",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "foods_id": 15,
+    "name": "hạt dổi",
+    "name_no_accent": "hat doi",
+    "quantity": "2g",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "foods_id": 15,
+    "name": "ớt thóc xanh",
+    "name_no_accent": "ot thoc xanh",
+    "quantity": "5 trái (trái nhỏ, bỏ cuống)",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "foods_id": 15,
+    "name": "tỏi bắc lột vỏ",
+    "name_no_accent": "toi bac lot vo",
+    "quantity": "6 tép",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "foods_id": 15,
+    "name": "dừa xiêm",
+    "name_no_accent": "dua xiem",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 15,
+    "foods_id": 15,
+    "name": "gia vị: dầu ăn, muối, tiêu, đường.",
+    "name_no_accent": "gia vi  dau an  muoi  tieu  duong ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "foods_id": 16,
+    "name": "cơm gạo thái hạt dài",
+    "name_no_accent": "com gao thai hat dai",
+    "quantity": "3 chén",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "foods_id": 16,
+    "name": "kimchi (ông kim,chọn mẻ ngấu nhiều)",
+    "name_no_accent": "kimchi  ong kim chon me ngau nhieu ",
+    "quantity": "1 chén",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "foods_id": 16,
+    "name": "thịt bò fillet mềm",
+    "name_no_accent": "thit bo fillet mem",
+    "quantity": "200g",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "foods_id": 16,
+    "name": "trứng gà",
+    "name_no_accent": "trung ga",
+    "quantity": "4 quả",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "foods_id": 16,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "2 nhánh",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "foods_id": 16,
+    "name": "mè trắng rang",
+    "name_no_accent": "me trang rang",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "foods_id": 16,
+    "name": "tương ớt hàn quốc - gochujang",
+    "name_no_accent": "tuong ot han quoc   gochujang",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "foods_id": 16,
+    "name": "bắp hạt ( bắp mỹ ) luộc",
+    "name_no_accent": "bap hat   bap my   luoc",
+    "quantity": "1/2 chén",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "foods_id": 16,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "foods_id": 16,
+    "name": "rong biển khô hàn quốc cắt sợi",
+    "name_no_accent": "rong bien kho han quoc cat soi",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "foods_id": 16,
+    "name": "gừng băm",
+    "name_no_accent": "gung bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 16,
+    "foods_id": 16,
+    "name": "gia vị: dầu ăn, dầu mè hàn quốc 1m",
+    "name_no_accent": "gia vi  dau an  dau me han quoc 1m",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "foods_id": 17,
+    "name": "khoai tây đà lạt  250g (2 củ)",
+    "name_no_accent": "khoai tay da lat 250g  2 cu ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "foods_id": 17,
+    "name": "hành tây  30g (1/3 củ)",
+    "name_no_accent": "hanh tay 30g  1 3 cu ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "foods_id": 17,
+    "name": "cà chua  50g (2/3 quả)",
+    "name_no_accent": "ca chua 50g  2 3 qua ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "foods_id": 17,
+    "name": "hành lá  1 cọng",
+    "name_no_accent": "hanh la 1 cong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "foods_id": 17,
+    "name": "thịt nguội cắt lát  30g (2 lát)",
+    "name_no_accent": "thit nguoi cat lat 30g  2 lat ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "foods_id": 17,
+    "name": "phô mai mozzarella  65g",
+    "name_no_accent": "pho mai mozzarella 65g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "foods_id": 17,
+    "name": "trứng  1 quả",
+    "name_no_accent": "trung 1 qua",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "foods_id": 17,
+    "name": "tuỳ ý",
+    "name_no_accent": "tuy y",
+    "quantity": "3 lá quế tây (basil) cắt sợi, 1/2m lá cọ xạ hương tươi",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "foods_id": 17,
+    "name": "ăn kèm: tương ớt/ tương cà",
+    "name_no_accent": "an kem  tuong ot  tuong ca",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 17,
+    "foods_id": 17,
+    "name": "gia vị:  dầu ăn, muối, tiêu, đường, tương cà",
+    "name_no_accent": "gia vi  dau an  muoi  tieu  duong  tuong ca",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:25",
+    "updated_at": "2023-12-30 19:26:25"
+  },
+  {
+    "id": 18,
+    "foods_id": 18,
+    "name": "má đùi gà rút xương  300g",
+    "name_no_accent": "ma dui ga rut xuong 300g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 18,
+    "foods_id": 18,
+    "name": "cam mỹ  1 trái",
+    "name_no_accent": "cam my 1 trai",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 18,
+    "foods_id": 18,
+    "name": "gừng băm  1m",
+    "name_no_accent": "gung bam 1m",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 18,
+    "foods_id": 18,
+    "name": "gia vị:  dầu ăn, ớt bột hàn quốc, tiêu, đường, bột năng",
+    "name_no_accent": "gia vi  dau an  ot bot han quoc  tieu  duong  bot nang",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "foods_id": 19,
+    "name": "khoai tây",
+    "name_no_accent": "khoai tay",
+    "quantity": "1 củ khoảng 150g",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "foods_id": 19,
+    "name": "củ dền",
+    "name_no_accent": "cu den",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "foods_id": 19,
+    "name": "bắp mĩ hạt",
+    "name_no_accent": "bap mi hat",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "foods_id": 19,
+    "name": "đậu bi",
+    "name_no_accent": "dau bi",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "foods_id": 19,
+    "name": "dăm bông",
+    "name_no_accent": "dam bong",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "foods_id": 19,
+    "name": "trứng cút",
+    "name_no_accent": "trung cut",
+    "quantity": "7 trái",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "foods_id": 19,
+    "name": "sữa chua",
+    "name_no_accent": "sua chua",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 19,
+    "foods_id": 19,
+    "name": "gia vị: mù tạt vàng, muối",
+    "name_no_accent": "gia vi  mu tat vang  muoi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "đùi dê",
+    "name_no_accent": "dui de",
+    "quantity": "1 cái",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "sả băm",
+    "name_no_accent": "sa bam",
+    "quantity": "1m (lấy phần lõi non)",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "tỏi xay",
+    "name_no_accent": "toi xay",
+    "quantity": "2m (không băm)",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "bột nướng thịt",
+    "name_no_accent": "bot nuong thit",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "nước cốt dừa",
+    "name_no_accent": "nuoc cot dua",
+    "quantity": "1 chén nhỏ",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "hạt mắc khén",
+    "name_no_accent": "hat mac khen",
+    "quantity": "1g",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "hạt dỗi",
+    "name_no_accent": "hat doi",
+    "quantity": "2 hạt",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "gừng giã nhuyễn",
+    "name_no_accent": "gung gia nhuyen",
+    "quantity": "1 củ nhỏ (gừng già)",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "ớt thóc xanh",
+    "name_no_accent": "ot thoc xanh",
+    "quantity": "5 quả (bỏ cuống)",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "ngò gai cắt nhỏ",
+    "name_no_accent": "ngo gai cat nho",
+    "quantity": "3 lá",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "tắc",
+    "name_no_accent": "tac",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "ăn kèm: muối ớt sả và rau \"rừng\" như đọt xoài, đọt cốc, quế vị, sao nhái ...",
+    "name_no_accent": "an kem  muoi ot sa va rau  rung  nhu dot xoai  dot coc  que vi  sao nhai    ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 20,
+    "foods_id": 20,
+    "name": "gia vị: dầu điều 2m, muối, tiêu, đường, rượu trắng 30ml",
+    "name_no_accent": "gia vi  dau dieu 2m  muoi  tieu  duong  ruou trang 30ml",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:26",
+    "updated_at": "2023-12-30 19:26:26"
+  },
+  {
+    "id": 21,
+    "foods_id": 21,
+    "name": "thanh cua",
+    "name_no_accent": "thanh cua",
+    "quantity": "5 cây",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "foods_id": 21,
+    "name": "khoai tây",
+    "name_no_accent": "khoai tay",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "foods_id": 21,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "foods_id": 21,
+    "name": "đậu cove nhật",
+    "name_no_accent": "dau cove nhat",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "foods_id": 21,
+    "name": "mè đen",
+    "name_no_accent": "me den",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "foods_id": 21,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "2 nhánh",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "foods_id": 21,
+    "name": "phô mai mozarella khối",
+    "name_no_accent": "pho mai mozarella khoi",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 21,
+    "foods_id": 21,
+    "name": "gia vị: tiêu, dầu ăn",
+    "name_no_accent": "gia vi  tieu  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:37",
+    "updated_at": "2023-12-30 19:26:37"
+  },
+  {
+    "id": 22,
+    "foods_id": 22,
+    "name": "đầu cá lóc to",
+    "name_no_accent": "dau ca loc to",
+    "quantity": "2 cái \t(thêm trứng và ruột cá)",
+    "created_at": "2023-12-30 19:26:38",
+    "updated_at": "2023-12-30 19:26:38"
+  },
+  {
+    "id": 22,
+    "foods_id": 22,
+    "name": "sả cây",
+    "name_no_accent": "sa cay",
+    "quantity": "50 g",
+    "created_at": "2023-12-30 19:26:38",
+    "updated_at": "2023-12-30 19:26:38"
+  },
+  {
+    "id": 22,
+    "foods_id": 22,
+    "name": "lá chúc",
+    "name_no_accent": "la chuc",
+    "quantity": "6 lá",
+    "created_at": "2023-12-30 19:26:38",
+    "updated_at": "2023-12-30 19:26:38"
+  },
+  {
+    "id": 22,
+    "foods_id": 22,
+    "name": "thơm",
+    "name_no_accent": "thom",
+    "quantity": "1/4 trái",
+    "created_at": "2023-12-30 19:26:38",
+    "updated_at": "2023-12-30 19:26:38"
+  },
+  {
+    "id": 22,
+    "foods_id": 22,
+    "name": "mẹt tre 25cm, lót lá chuối",
+    "name_no_accent": "met tre 25cm  lot la chuoi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:38",
+    "updated_at": "2023-12-30 19:26:38"
+  },
+  {
+    "id": 22,
+    "foods_id": 22,
+    "name": "nấm rơm búp, nấm kim châm",
+    "name_no_accent": "nam rom bup  nam kim cham",
+    "quantity": "100g mỗi loại",
+    "created_at": "2023-12-30 19:26:38",
+    "updated_at": "2023-12-30 19:26:38"
+  },
+  {
+    "id": 22,
+    "foods_id": 22,
+    "name": "ăn kèm: bông so đũa, cọng súng, kèo nèo, cà chua, rau nhút, rau muống cọng, bông điên điển, rau thơm, cần tàu, rau om, ngò gai",
+    "name_no_accent": "an kem  bong so dua  cong sung  keo neo  ca chua  rau nhut  rau muong cong  bong dien dien  rau thom  can tau  rau om  ngo gai",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:38",
+    "updated_at": "2023-12-30 19:26:38"
+  },
+  {
+    "id": 22,
+    "foods_id": 22,
+    "name": "gia vị: ớt hiểm xanh đỏ, nước mắm, hạt nêm, dầu ăn, ớt hiểm băm, tỏi băm",
+    "name_no_accent": "gia vi  ot hiem xanh do  nuoc mam  hat nem  dau an  ot hiem bam  toi bam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:38",
+    "updated_at": "2023-12-30 19:26:38"
+  },
+  {
+    "id": 23,
+    "foods_id": 23,
+    "name": "thịt vế cua",
+    "name_no_accent": "thit ve cua",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:26:40",
+    "updated_at": "2023-12-30 19:26:40"
+  },
+  {
+    "id": 23,
+    "foods_id": 23,
+    "name": "nấm kim châm",
+    "name_no_accent": "nam kim cham",
+    "quantity": "40g",
+    "created_at": "2023-12-30 19:26:40",
+    "updated_at": "2023-12-30 19:26:40"
+  },
+  {
+    "id": 23,
+    "foods_id": 23,
+    "name": "nấm đông cô tươi",
+    "name_no_accent": "nam dong co tuoi",
+    "quantity": "40g",
+    "created_at": "2023-12-30 19:26:40",
+    "updated_at": "2023-12-30 19:26:40"
+  },
+  {
+    "id": 23,
+    "foods_id": 23,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "40g",
+    "created_at": "2023-12-30 19:26:40",
+    "updated_at": "2023-12-30 19:26:40"
+  },
+  {
+    "id": 23,
+    "foods_id": 23,
+    "name": "trứng gà",
+    "name_no_accent": "trung ga",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:40",
+    "updated_at": "2023-12-30 19:26:40"
+  },
+  {
+    "id": 23,
+    "foods_id": 23,
+    "name": "nước dùng gà",
+    "name_no_accent": "nuoc dung ga",
+    "quantity": "1 lít",
+    "created_at": "2023-12-30 19:26:40",
+    "updated_at": "2023-12-30 19:26:40"
+  },
+  {
+    "id": 23,
+    "foods_id": 23,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò rí",
+    "created_at": "2023-12-30 19:26:40",
+    "updated_at": "2023-12-30 19:26:40"
+  },
+  {
+    "id": 23,
+    "foods_id": 23,
+    "name": "gia vị: tiêu, đường",
+    "name_no_accent": "gia vi  tieu  duong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:40",
+    "updated_at": "2023-12-30 19:26:40"
+  },
+  {
+    "id": 24,
+    "foods_id": 24,
+    "name": "thịt cá thu tươi",
+    "name_no_accent": "thit ca thu tuoi",
+    "quantity": "250 g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "foods_id": 24,
+    "name": "lá lốt",
+    "name_no_accent": "la lot",
+    "quantity": "25 lá",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "foods_id": 24,
+    "name": "tiêu xanh",
+    "name_no_accent": "tieu xanh",
+    "quantity": "1 nhánh",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "foods_id": 24,
+    "name": "lòng trắng trứng gà ta",
+    "name_no_accent": "long trang trung ga ta",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "foods_id": 24,
+    "name": "hành tỏi băm",
+    "name_no_accent": "hanh toi bam",
+    "quantity": "1 m",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "foods_id": 24,
+    "name": "mỡ luộc cắt nhỏ",
+    "name_no_accent": "mo luoc cat nho",
+    "quantity": "30 g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "foods_id": 24,
+    "name": "đầu hành lá băm",
+    "name_no_accent": "dau hanh la bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "foods_id": 24,
+    "name": "ớt băm",
+    "name_no_accent": "ot bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "foods_id": 24,
+    "name": "ăn kèm: salad, rau thơm dưa, tương ớt",
+    "name_no_accent": "an kem  salad  rau thom dua  tuong ot",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 24,
+    "foods_id": 24,
+    "name": "gia vị: tỏi băm, tiêu xay, đường, dầu ăn, mè trắng rang, tỏi phi",
+    "name_no_accent": "gia vi  toi bam  tieu xay  duong  dau an  me trang rang  toi phi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "foods_id": 25,
+    "name": "sườn non (có sụn nhỏ)",
+    "name_no_accent": "suon non  co sun nho ",
+    "quantity": "500 g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "foods_id": 25,
+    "name": "mít non (có hạt nhỏ)",
+    "name_no_accent": "mit non  co hat nho ",
+    "quantity": "500 g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "foods_id": 25,
+    "name": "sả",
+    "name_no_accent": "sa",
+    "quantity": "4 cây",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "foods_id": 25,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1/2 củ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "foods_id": 25,
+    "name": "bột cà ri",
+    "name_no_accent": "bot ca ri",
+    "quantity": "1 gói",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "foods_id": 25,
+    "name": "nước cốt dừa",
+    "name_no_accent": "nuoc cot dua",
+    "quantity": "1 chén",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "foods_id": 25,
+    "name": "nước dão",
+    "name_no_accent": "nuoc dao",
+    "quantity": "2 tô",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "foods_id": 25,
+    "name": "lá cà ri",
+    "name_no_accent": "la ca ri",
+    "quantity": "khô hay tươi đều được",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "foods_id": 25,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "rau om, ngò gai,",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "foods_id": 25,
+    "name": "ăn kèm: bún hoặc bánh mì",
+    "name_no_accent": "an kem  bun hoac banh mi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 25,
+    "foods_id": 25,
+    "name": "gia vị: hành tỏi băm, màu dầu điều, ớt hiểm xanh, đỏ, đậu phộng rang giã bể, dầu ăn, muối, đường",
+    "name_no_accent": "gia vi  hanh toi bam  mau dau dieu  ot hiem xanh  do  dau phong rang gia be  dau an  muoi  duong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "foods_id": 26,
+    "name": "thịt bê",
+    "name_no_accent": "thit be",
+    "quantity": "700 g (chọn vừa có thịt + da, đều đặn, cắt khối 4cm)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "foods_id": 26,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1/2 củ (cắt múi cau)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "foods_id": 26,
+    "name": "sả",
+    "name_no_accent": "sa",
+    "quantity": "5 cây \t(đập giập cắt khúc 5 cm, sả băm)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "foods_id": 26,
+    "name": "gừng",
+    "name_no_accent": "gung",
+    "quantity": "1 củ (cắt lát)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "foods_id": 26,
+    "name": "nước nghệ tươi",
+    "name_no_accent": "nuoc nghe tuoi",
+    "quantity": "1/2 chén (đặc)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "foods_id": 26,
+    "name": "ớt hiểm",
+    "name_no_accent": "ot hiem",
+    "quantity": "2 trái",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "foods_id": 26,
+    "name": "nước dừa",
+    "name_no_accent": "nuoc dua",
+    "quantity": "2 chén",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "foods_id": 26,
+    "name": "hành tím",
+    "name_no_accent": "hanh tim",
+    "quantity": "7 củ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "foods_id": 26,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò gai, rau om, húng quế",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 26,
+    "foods_id": 26,
+    "name": "gia vị: muối, đường, nước mắm, hành tỏi băm, dầu ăn, ớt sừng cắt lát",
+    "name_no_accent": "gia vi  muoi  duong  nuoc mam  hanh toi bam  dau an  ot sung cat lat",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 27,
+    "foods_id": 27,
+    "name": "cá he",
+    "name_no_accent": "ca he",
+    "quantity": "3 con (400g/con, có thể thay bằng cá mè dinh)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 27,
+    "foods_id": 27,
+    "name": "mía cây chẻ",
+    "name_no_accent": "mia cay che",
+    "quantity": "1 đoạn mía 5 dm (5 tấc)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 27,
+    "foods_id": 27,
+    "name": "dừa tươi",
+    "name_no_accent": "dua tuoi",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 27,
+    "foods_id": 27,
+    "name": "ớt hiểm xanh",
+    "name_no_accent": "ot hiem xanh",
+    "quantity": "4 trái",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 27,
+    "foods_id": 27,
+    "name": "ớt hiểm đỏ",
+    "name_no_accent": "ot hiem do",
+    "quantity": "4 trái",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 27,
+    "foods_id": 27,
+    "name": "tiêu xanh",
+    "name_no_accent": "tieu xanh",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 27,
+    "foods_id": 27,
+    "name": "ăn kèm: rau ghém, cơm trắng",
+    "name_no_accent": "an kem  rau ghem  com trang",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 27,
+    "foods_id": 27,
+    "name": "gia vị:  nước mắm, đường, hành tỏi băm, tiêu, đầu hành, dầu ăn, màu dầu điều, muối",
+    "name_no_accent": "gia vi  nuoc mam  duong  hanh toi bam  tieu  dau hanh  dau an  mau dau dieu  muoi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 28,
+    "foods_id": 28,
+    "name": "tôm",
+    "name_no_accent": "tom",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 28,
+    "foods_id": 28,
+    "name": "bắp mĩ",
+    "name_no_accent": "bap mi",
+    "quantity": "20g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 28,
+    "foods_id": 28,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 28,
+    "foods_id": 28,
+    "name": "bơ lạt",
+    "name_no_accent": "bo lat",
+    "quantity": "20g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 28,
+    "foods_id": 28,
+    "name": "sữa tươi không đường",
+    "name_no_accent": "sua tuoi khong duong",
+    "quantity": "100ml",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 28,
+    "foods_id": 28,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "lá quế cắt nhỏ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 28,
+    "foods_id": 28,
+    "name": "ăn kèm: bông cải xanh luộc",
+    "name_no_accent": "an kem  bong cai xanh luoc",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 28,
+    "foods_id": 28,
+    "name": "gia vị: dầu ăn, đường, bột ớt hàn quốc",
+    "name_no_accent": "gia vi  dau an  duong  bot ot han quoc",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "foods_id": 29,
+    "name": "cá ngừ phi lê",
+    "name_no_accent": "ca ngu phi le",
+    "quantity": "300 g (khối thịt cá phi lê to nguyên miếng, cạnh 12)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "foods_id": 29,
+    "name": "thịt heo ba chỉ",
+    "name_no_accent": "thit heo ba chi",
+    "quantity": "200g (mua nguyên khối, cân bằng mỡ và thịt)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "foods_id": 29,
+    "name": "phô mai lát",
+    "name_no_accent": "pho mai lat",
+    "quantity": "2 lát",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "foods_id": 29,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "100g (cắt hình que)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "foods_id": 29,
+    "name": "đậu cô ve",
+    "name_no_accent": "dau co ve",
+    "quantity": "4 cây",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "foods_id": 29,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "4 cây",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "foods_id": 29,
+    "name": "củ hồi",
+    "name_no_accent": "cu hoi",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "foods_id": 29,
+    "name": "mù tạt xanh",
+    "name_no_accent": "mu tat xanh",
+    "quantity": "1/2m",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "foods_id": 29,
+    "name": "ăn kèm: salad, cà chua, dưa leo.",
+    "name_no_accent": "an kem  salad  ca chua  dua leo ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 29,
+    "foods_id": 29,
+    "name": "gia vị: tiêu, tương ớt,  dầu",
+    "name_no_accent": "gia vi  tieu  tuong ot  dau",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "foods_id": 30,
+    "name": "tôm",
+    "name_no_accent": "tom",
+    "quantity": "200g (bóc vỏ, chừa đuôi)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "foods_id": 30,
+    "name": "miến",
+    "name_no_accent": "mien",
+    "quantity": "3 vắt",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "foods_id": 30,
+    "name": "đậu phộng rang",
+    "name_no_accent": "dau phong rang",
+    "quantity": "3m (giã nhỏ)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "foods_id": 30,
+    "name": "đậu bún",
+    "name_no_accent": "dau bun",
+    "quantity": "60g (cắt khúc 2cm)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "foods_id": 30,
+    "name": "cà chua bi",
+    "name_no_accent": "ca chua bi",
+    "quantity": "6 trái (cắt đôi)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "foods_id": 30,
+    "name": "hành tím",
+    "name_no_accent": "hanh tim",
+    "quantity": "1 củ (cắt lát)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "foods_id": 30,
+    "name": "ớt hiểm",
+    "name_no_accent": "ot hiem",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "foods_id": 30,
+    "name": "ớt xiêm",
+    "name_no_accent": "ot xiem",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "foods_id": 30,
+    "name": "hành tỏi băm",
+    "name_no_accent": "hanh toi bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "foods_id": 30,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò gai cắt nhỏ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 30,
+    "foods_id": 30,
+    "name": "gia vị: dầu ăn, đường, nước mắm, tương ớt",
+    "name_no_accent": "gia vi  dau an  duong  nuoc mam  tuong ot",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "foods_id": 31,
+    "name": "cua xay",
+    "name_no_accent": "cua xay",
+    "quantity": "200g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "foods_id": 31,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "2 trái",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "foods_id": 31,
+    "name": "đậu hũ bi chiên",
+    "name_no_accent": "dau hu bi chien",
+    "quantity": "120g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "foods_id": 31,
+    "name": "huyết heo",
+    "name_no_accent": "huyet heo",
+    "quantity": "120g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "foods_id": 31,
+    "name": "bún",
+    "name_no_accent": "bun",
+    "quantity": "600g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "foods_id": 31,
+    "name": "ngò gai",
+    "name_no_accent": "ngo gai",
+    "quantity": "1 nhánh",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "foods_id": 31,
+    "name": "hành tím băm",
+    "name_no_accent": "hanh tim bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "foods_id": 31,
+    "name": "ăn kèm: rau chuối, rau muống bào, kinh giới, giá,…",
+    "name_no_accent": "an kem  rau chuoi  rau muong bao  kinh gioi  gia …",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "foods_id": 31,
+    "name": "gia vị: dầu ăn",
+    "name_no_accent": "gia vi  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 31,
+    "foods_id": 31,
+    "name": "aji-quick bún riêu cua",
+    "name_no_accent": "aji quick bun rieu cua",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 32,
+    "foods_id": 32,
+    "name": "trà sữa royal “blendy\"",
+    "name_no_accent": "tra sua royal “blendy ",
+    "quantity": "2 gói",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 32,
+    "foods_id": 32,
+    "name": "nho xanh không hạt",
+    "name_no_accent": "nho xanh khong hat",
+    "quantity": "8 trái",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 32,
+    "foods_id": 32,
+    "name": "sữa tươi không đường",
+    "name_no_accent": "sua tuoi khong duong",
+    "quantity": "80ml",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 32,
+    "foods_id": 32,
+    "name": "kem vani",
+    "name_no_accent": "kem vani",
+    "quantity": "3 viên",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 32,
+    "foods_id": 32,
+    "name": "đá bi",
+    "name_no_accent": "da bi",
+    "quantity": "120g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 32,
+    "foods_id": 32,
+    "name": "syrup socola",
+    "name_no_accent": "syrup socola",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 32,
+    "foods_id": 32,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "rau húng lủi",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 33,
+    "foods_id": 33,
+    "name": "mực lá làm sạch",
+    "name_no_accent": "muc la lam sach",
+    "quantity": "1 con khoảng 200g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 33,
+    "foods_id": 33,
+    "name": "hành tím băm",
+    "name_no_accent": "hanh tim bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 33,
+    "foods_id": 33,
+    "name": "quả tắc",
+    "name_no_accent": "qua tac",
+    "quantity": "7 quả",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 33,
+    "foods_id": 33,
+    "name": "ớt hiểm",
+    "name_no_accent": "ot hiem",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 33,
+    "foods_id": 33,
+    "name": "rau xà lách xoong nhỏ",
+    "name_no_accent": "rau xa lach xoong nho",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 33,
+    "foods_id": 33,
+    "name": "dầu ăn, đường, muối",
+    "name_no_accent": "dau an  duong  muoi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "foods_id": 34,
+    "name": "khô cá minh thái ( pollock )",
+    "name_no_accent": "kho ca minh thai   pollock  ",
+    "quantity": "200g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "foods_id": 34,
+    "name": "củ cải trắng",
+    "name_no_accent": "cu cai trang",
+    "quantity": "1/2 củ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "foods_id": 34,
+    "name": "khoai tây",
+    "name_no_accent": "khoai tay",
+    "quantity": "1 củ nhỏ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "foods_id": 34,
+    "name": "đậu hủ non ( loại miếng )",
+    "name_no_accent": "dau hu non   loai mieng  ",
+    "quantity": "1 miếng",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "foods_id": 34,
+    "name": "hành boa-rô",
+    "name_no_accent": "hanh boa ro",
+    "quantity": "1/2 cọng  (lấy phần xanh)",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "foods_id": 34,
+    "name": "giá sạch",
+    "name_no_accent": "gia sach",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "foods_id": 34,
+    "name": "dầu mè hq ( hàn quốc )",
+    "name_no_accent": "dau me hq   han quoc  ",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "foods_id": 34,
+    "name": "tỏi xay",
+    "name_no_accent": "toi xay",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "foods_id": 34,
+    "name": "trứng gà",
+    "name_no_accent": "trung ga",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "foods_id": 34,
+    "name": "rượu trắng",
+    "name_no_accent": "ruou trang",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "foods_id": 34,
+    "name": "ăn kèm: cơm trắng",
+    "name_no_accent": "an kem  com trang",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 34,
+    "foods_id": 34,
+    "name": "gia vị: dầu ăn, muối, đường",
+    "name_no_accent": "gia vi  dau an  muoi  duong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:41",
+    "updated_at": "2023-12-30 19:26:41"
+  },
+  {
+    "id": 35,
+    "foods_id": 35,
+    "name": "sườn non heo",
+    "name_no_accent": "suon non heo",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "foods_id": 35,
+    "name": "táo đỏ",
+    "name_no_accent": "tao do",
+    "quantity": "10 trái",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "foods_id": 35,
+    "name": "nấm đông cô tai nhỏ",
+    "name_no_accent": "nam dong co tai nho",
+    "quantity": "10 tai",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "foods_id": 35,
+    "name": "kỷ tử",
+    "name_no_accent": "ky tu",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "foods_id": 35,
+    "name": "đẳng sâm",
+    "name_no_accent": "dang sam",
+    "quantity": "2 cây",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "foods_id": 35,
+    "name": "nấm kim châm",
+    "name_no_accent": "nam kim cham",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "foods_id": 35,
+    "name": "xuyên tiêu",
+    "name_no_accent": "xuyen tieu",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "foods_id": 35,
+    "name": "nước",
+    "name_no_accent": "nuoc",
+    "quantity": "1.5 lít",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "foods_id": 35,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "hành ngò",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 35,
+    "foods_id": 35,
+    "name": "gia vị: dầu điều, muối, đường",
+    "name_no_accent": "gia vi  dau dieu  muoi  duong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 36,
+    "foods_id": 36,
+    "name": "phô mai mozzarella",
+    "name_no_accent": "pho mai mozzarella",
+    "quantity": "100gr",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 36,
+    "foods_id": 36,
+    "name": "bơ lạt",
+    "name_no_accent": "bo lat",
+    "quantity": "25 gr",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 36,
+    "foods_id": 36,
+    "name": "nước",
+    "name_no_accent": "nuoc",
+    "quantity": "140gr",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "bánh phở khô",
+    "name_no_accent": "banh pho kho",
+    "quantity": "150g (ngâm mềm)",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "ớt chuông đỏ",
+    "name_no_accent": "ot chuong do",
+    "quantity": "1/4 quả",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "bí ngòi",
+    "name_no_accent": "bi ngoi",
+    "quantity": "1/2 quả",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "đậu hũ trắng",
+    "name_no_accent": "dau hu trang",
+    "quantity": "2 miếng",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "hem chay",
+    "name_no_accent": "hem chay",
+    "quantity": "80g",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "giá sống",
+    "name_no_accent": "gia song",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "cần tây",
+    "name_no_accent": "can tay",
+    "quantity": "1 cọng",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "boaro băm",
+    "name_no_accent": "boaro bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "nước cốt me",
+    "name_no_accent": "nuoc cot me",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "đậu phộng rang giã sơ",
+    "name_no_accent": "dau phong rang gia so",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "hắc xì dầu",
+    "name_no_accent": "hac xi dau",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "húng quế, ớt hiểm băm",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 37,
+    "foods_id": 37,
+    "name": "gia vị:  đường, dầu hào chay, dầu ăn, tương ớt, xốt cà chua, tiêu",
+    "name_no_accent": "gia vi  duong  dau hao chay  dau an  tuong ot  xot ca chua  tieu",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "foods_id": 38,
+    "name": "thịt heo nạc vai xay",
+    "name_no_accent": "thit heo nac vai xay",
+    "quantity": "500g",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "foods_id": 38,
+    "name": "lá xương sông",
+    "name_no_accent": "la xuong song",
+    "quantity": "30 lá",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "foods_id": 38,
+    "name": "nấm hương băm",
+    "name_no_accent": "nam huong bam",
+    "quantity": "5 tai",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "foods_id": 38,
+    "name": "hành lá thái nhỏ",
+    "name_no_accent": "hanh la thai nho",
+    "quantity": "4 m",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "foods_id": 38,
+    "name": "đầu hành lá băm",
+    "name_no_accent": "dau hanh la bam",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "foods_id": 38,
+    "name": "ớt sừng băm",
+    "name_no_accent": "ot sung bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "foods_id": 38,
+    "name": "gừng băm",
+    "name_no_accent": "gung bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "foods_id": 38,
+    "name": "ăn kèm: dưa leo, rau thơm",
+    "name_no_accent": "an kem  dua leo  rau thom",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 38,
+    "foods_id": 38,
+    "name": "gia vị: tiêu, nước mắm, tương ớt, dầu",
+    "name_no_accent": "gia vi  tieu  nuoc mam  tuong ot  dau",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "ngưu bàng tươi",
+    "name_no_accent": "nguu bang tuoi",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "khoai lang bí đà lạt",
+    "name_no_accent": "khoai lang bi da lat",
+    "quantity": "100 g",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "khoai tây",
+    "name_no_accent": "khoai tay",
+    "quantity": "50 g",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "củ sắn",
+    "name_no_accent": "cu san",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "chanh vàng",
+    "name_no_accent": "chanh vang",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "trứng gà ta",
+    "name_no_accent": "trung ga ta",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "tôm đông lạnh to siêu thị",
+    "name_no_accent": "tom dong lanh to sieu thi",
+    "quantity": "200 g",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "mực lá",
+    "name_no_accent": "muc la",
+    "quantity": "100 g",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "tiêu xanh",
+    "name_no_accent": "tieu xanh",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "cọng ngò băm",
+    "name_no_accent": "cong ngo bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "gừng băm",
+    "name_no_accent": "gung bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "ăn kèm: cải xoong nhỏ, rau mầm 2 màu,",
+    "name_no_accent": "an kem  cai xoong nho  rau mam 2 mau ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 39,
+    "foods_id": 39,
+    "name": "gia vị:  hành tỏi, tiêu, dầu chiên, ớt hiểm băm, nước mắm",
+    "name_no_accent": "gia vi  hanh toi  tieu  dau chien  ot hiem bam  nuoc mam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:42",
+    "updated_at": "2023-12-30 19:26:42"
+  },
+  {
+    "id": 40,
+    "foods_id": 40,
+    "name": "măng tây",
+    "name_no_accent": "mang tay",
+    "quantity": "400g",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "foods_id": 40,
+    "name": "mực ống",
+    "name_no_accent": "muc ong",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "foods_id": 40,
+    "name": "cà chua bi nhiều màu",
+    "name_no_accent": "ca chua bi nhieu mau",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "foods_id": 40,
+    "name": "ngò rí",
+    "name_no_accent": "ngo ri",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "foods_id": 40,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "foods_id": 40,
+    "name": "hành tím băm",
+    "name_no_accent": "hanh tim bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "foods_id": 40,
+    "name": "hành tây tím",
+    "name_no_accent": "hanh tay tim",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "foods_id": 40,
+    "name": "hạt điều rang",
+    "name_no_accent": "hat dieu rang",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 40,
+    "foods_id": 40,
+    "name": "gia vị: đường, muối, tiêu trắng, dầu, dầu mè",
+    "name_no_accent": "gia vi  duong  muoi  tieu trang  dau  dau me",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:43",
+    "updated_at": "2023-12-30 19:26:43"
+  },
+  {
+    "id": 41,
+    "foods_id": 41,
+    "name": "bạch tuột  200g",
+    "name_no_accent": "bach tuot 200g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "foods_id": 41,
+    "name": "bánh gạo  200g",
+    "name_no_accent": "banh gao 200g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "foods_id": 41,
+    "name": "nấm đông cô tươi  70g",
+    "name_no_accent": "nam dong co tuoi 70g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "foods_id": 41,
+    "name": "bắp cải  70g",
+    "name_no_accent": "bap cai 70g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "foods_id": 41,
+    "name": "hành tây  70g",
+    "name_no_accent": "hanh tay 70g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "foods_id": 41,
+    "name": "boaro băm  1 cây",
+    "name_no_accent": "boaro bam 1 cay",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "foods_id": 41,
+    "name": "mè rang  1m",
+    "name_no_accent": "me rang 1m",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "foods_id": 41,
+    "name": "tỏi băm  1m",
+    "name_no_accent": "toi bam 1m",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 41,
+    "foods_id": 41,
+    "name": "gia vị:  đường, tương ớt hàn quốc, dầu ăn",
+    "name_no_accent": "gia vi  duong  tuong ot han quoc  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:52",
+    "updated_at": "2023-12-30 19:26:52"
+  },
+  {
+    "id": 42,
+    "foods_id": 42,
+    "name": "blendy® trà matcha gạo rang",
+    "name_no_accent": "blendy® tra matcha gao rang",
+    "quantity": "2 gói",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 42,
+    "foods_id": 42,
+    "name": "cà phê pha sẵn (loại gói to)",
+    "name_no_accent": "ca phe pha san  loai goi to ",
+    "quantity": "4g",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 42,
+    "foods_id": 42,
+    "name": "bánh quế socola",
+    "name_no_accent": "banh que socola",
+    "quantity": "2 cây",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 42,
+    "foods_id": 42,
+    "name": "sữa tươi không đường",
+    "name_no_accent": "sua tuoi khong duong",
+    "quantity": "80ml",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 42,
+    "foods_id": 42,
+    "name": "nho khô",
+    "name_no_accent": "nho kho",
+    "quantity": "10g",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 42,
+    "foods_id": 42,
+    "name": "nước đá bi",
+    "name_no_accent": "nuoc da bi",
+    "quantity": "120g",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 42,
+    "foods_id": 42,
+    "name": "gia vị: đường, muối",
+    "name_no_accent": "gia vi  duong  muoi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 43,
+    "foods_id": 43,
+    "name": "củ mài ( khoai mài hay củ hoài sơn)",
+    "name_no_accent": "cu mai   khoai mai hay cu hoai son ",
+    "quantity": "500g",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 43,
+    "foods_id": 43,
+    "name": "tôm băm",
+    "name_no_accent": "tom bam",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 43,
+    "foods_id": 43,
+    "name": "hành tím băm",
+    "name_no_accent": "hanh tim bam",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 43,
+    "foods_id": 43,
+    "name": "gừng băm",
+    "name_no_accent": "gung bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 43,
+    "foods_id": 43,
+    "name": "rau om",
+    "name_no_accent": "rau om",
+    "quantity": "20g",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 43,
+    "foods_id": 43,
+    "name": "gia vị: nước mắm, dầu, tiêu",
+    "name_no_accent": "gia vi  nuoc mam  dau  tieu",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "foods_id": 44,
+    "name": "nước dùng rau củ  1,5 lít",
+    "name_no_accent": "nuoc dung rau cu 1 5 lit",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "foods_id": 44,
+    "name": "củ năng  50g",
+    "name_no_accent": "cu nang 50g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "foods_id": 44,
+    "name": "cà rốt  50g",
+    "name_no_accent": "ca rot 50g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "foods_id": 44,
+    "name": "đậu hũ non  1 miếng",
+    "name_no_accent": "dau hu non 1 mieng",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "foods_id": 44,
+    "name": "nấm rơm búp  100g",
+    "name_no_accent": "nam rom bup 100g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "foods_id": 44,
+    "name": "nấm mèo  1 miếng",
+    "name_no_accent": "nam meo 1 mieng",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "foods_id": 44,
+    "name": "ngưu bàng tươi  1 khúc 2 tấc",
+    "name_no_accent": "nguu bang tuoi 1 khuc 2 tac",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "foods_id": 44,
+    "name": "nấm hương sapa  3 tai",
+    "name_no_accent": "nam huong sapa 3 tai",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 44,
+    "foods_id": 44,
+    "name": "gia vị:  muối, đường, tiêu, bột năng, poa rô cắt lát (1 chén), ngò rí, dầu, dầu mè.",
+    "name_no_accent": "gia vi  muoi  duong  tieu  bot nang  poa ro cat lat  1 chen   ngo ri  dau  dau me ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "foods_id": 45,
+    "name": "nấm mối đen",
+    "name_no_accent": "nam moi den",
+    "quantity": "50gr",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "foods_id": 45,
+    "name": "nấm đùi gà baby",
+    "name_no_accent": "nam dui ga baby",
+    "quantity": "50gr",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "foods_id": 45,
+    "name": "nấm linh chi nâu",
+    "name_no_accent": "nam linh chi nau",
+    "quantity": "50gr",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "foods_id": 45,
+    "name": "nấm linh chi trắng",
+    "name_no_accent": "nam linh chi trang",
+    "quantity": "50gr",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "foods_id": 45,
+    "name": "nấm bào ngư",
+    "name_no_accent": "nam bao ngu",
+    "quantity": "50gr",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "foods_id": 45,
+    "name": "boa rô",
+    "name_no_accent": "boa ro",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "foods_id": 45,
+    "name": "tiêu xanh",
+    "name_no_accent": "tieu xanh",
+    "quantity": "2 nhánh",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "foods_id": 45,
+    "name": "lá quế cắt nhỏ",
+    "name_no_accent": "la que cat nho",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "foods_id": 45,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò rí, ớt sừng",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "foods_id": 45,
+    "name": "ăn kèm: cơm trắng",
+    "name_no_accent": "an kem  com trang",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 45,
+    "foods_id": 45,
+    "name": "gia vị: đường, dầu ăn, bột ngọt,  tương ớt",
+    "name_no_accent": "gia vi  duong  dau an  bot ngot  tuong ot",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "foods_id": 46,
+    "name": "tôm càng",
+    "name_no_accent": "tom cang",
+    "quantity": "4 con",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "foods_id": 46,
+    "name": "nếp",
+    "name_no_accent": "nep",
+    "quantity": "200 gr",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "foods_id": 46,
+    "name": "xoài chín",
+    "name_no_accent": "xoai chin",
+    "quantity": "100 gr",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "foods_id": 46,
+    "name": "đậu phộng",
+    "name_no_accent": "dau phong",
+    "quantity": "50gr",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "foods_id": 46,
+    "name": "sữa tươi không đường",
+    "name_no_accent": "sua tuoi khong duong",
+    "quantity": "20 gr",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "foods_id": 46,
+    "name": "dầu ăn",
+    "name_no_accent": "dau an",
+    "quantity": "1 m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "foods_id": 46,
+    "name": "muối",
+    "name_no_accent": "muoi",
+    "quantity": "1 gr",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 46,
+    "foods_id": 46,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "rau húng lủi",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "foods_id": 47,
+    "name": "thịt má heo",
+    "name_no_accent": "thit ma heo",
+    "quantity": "500g",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "foods_id": 47,
+    "name": "hành tím băm",
+    "name_no_accent": "hanh tim bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "foods_id": 47,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "1/2m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "foods_id": 47,
+    "name": "nước táo hộp",
+    "name_no_accent": "nuoc tao hop",
+    "quantity": "200ml",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "foods_id": 47,
+    "name": "tương cà heinz",
+    "name_no_accent": "tuong ca heinz",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "foods_id": 47,
+    "name": "tương ớt",
+    "name_no_accent": "tuong ot",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "foods_id": 47,
+    "name": "mè trắng rang",
+    "name_no_accent": "me trang rang",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "foods_id": 47,
+    "name": "bột ớt hàn quốc",
+    "name_no_accent": "bot ot han quoc",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "foods_id": 47,
+    "name": "sữa đặc có đường",
+    "name_no_accent": "sua dac co duong",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "foods_id": 47,
+    "name": "ăn kèm: dưa cải, rau thơm, muối ớt tắc",
+    "name_no_accent": "an kem  dua cai  rau thom  muoi ot tac",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 47,
+    "foods_id": 47,
+    "name": "gia vị: dầu ăn, muối, dầu hào, bột ngũ vị hương, baking soda, rượu trắng",
+    "name_no_accent": "gia vi  dau an  muoi  dau hao  bot ngu vi huong  baking soda  ruou trang",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 48,
+    "foods_id": 48,
+    "name": "xúc xích",
+    "name_no_accent": "xuc xich",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 48,
+    "foods_id": 48,
+    "name": "chà bông",
+    "name_no_accent": "cha bong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 48,
+    "foods_id": 48,
+    "name": "gia vị:  tương cà,  dầu ăn",
+    "name_no_accent": "gia vi  tuong ca  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 49,
+    "foods_id": 49,
+    "name": "cá thu",
+    "name_no_accent": "ca thu",
+    "quantity": "3 khứa (lát mỏng, tổng 500g)",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 49,
+    "foods_id": 49,
+    "name": "xoài keo",
+    "name_no_accent": "xoai keo",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 49,
+    "foods_id": 49,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "hành lá",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 49,
+    "foods_id": 49,
+    "name": "gia vị: tương xí muội, dầu ăn",
+    "name_no_accent": "gia vi  tuong xi muoi  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 50,
+    "foods_id": 50,
+    "name": "tôm thẻ",
+    "name_no_accent": "tom the",
+    "quantity": "400g",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 50,
+    "foods_id": 50,
+    "name": "bơ lạt",
+    "name_no_accent": "bo lat",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 50,
+    "foods_id": 50,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 50,
+    "foods_id": 50,
+    "name": "ớt băm",
+    "name_no_accent": "ot bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 50,
+    "foods_id": 50,
+    "name": "xà lách xoong",
+    "name_no_accent": "xa lach xoong",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 50,
+    "foods_id": 50,
+    "name": "phô mai mozzarela khối",
+    "name_no_accent": "pho mai mozzarela khoi",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 50,
+    "foods_id": 50,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "xà lách xoong",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 50,
+    "foods_id": 50,
+    "name": "ăn kèm: bánh mì",
+    "name_no_accent": "an kem  banh mi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "foods_id": 51,
+    "name": "tôm càng xanh 120-150g",
+    "name_no_accent": "tom cang xanh 120 150g",
+    "quantity": "4 con",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "foods_id": 51,
+    "name": "hành tím lột vỏ",
+    "name_no_accent": "hanh tim lot vo",
+    "quantity": "12 củ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "foods_id": 51,
+    "name": "riềng cạo vỏ",
+    "name_no_accent": "rieng cao vo",
+    "quantity": "1 nhánh",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "foods_id": 51,
+    "name": "sả cây bỏ lá",
+    "name_no_accent": "sa cay bo la",
+    "quantity": "4 cây",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "foods_id": 51,
+    "name": "ớt hiểm",
+    "name_no_accent": "ot hiem",
+    "quantity": "4 quả",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "foods_id": 51,
+    "name": "lá chúc",
+    "name_no_accent": "la chuc",
+    "quantity": "6 lá",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "foods_id": 51,
+    "name": "nấm rơm luộc",
+    "name_no_accent": "nam rom luoc",
+    "quantity": "120g",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "foods_id": 51,
+    "name": "nước dừa xiêm",
+    "name_no_accent": "nuoc dua xiem",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "foods_id": 51,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "2 quả",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "foods_id": 51,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò rí ( 2 cây )",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "foods_id": 51,
+    "name": "ăn kèm: cơm trắng, bún hoặc miến",
+    "name_no_accent": "an kem  com trang  bun hoac mien",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 51,
+    "foods_id": 51,
+    "name": "gia vị:  dầu điều, nước mắm",
+    "name_no_accent": "gia vi  dau dieu  nuoc mam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:54",
+    "updated_at": "2023-12-30 19:26:54"
+  },
+  {
+    "id": 52,
+    "foods_id": 52,
+    "name": "bôt bánh rán pha sẵn",
+    "name_no_accent": "bot banh ran pha san",
+    "quantity": "1 gói",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "foods_id": 52,
+    "name": "đậu gà đóng hộp",
+    "name_no_accent": "dau ga dong hop",
+    "quantity": "1 hộp (chickpea)",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "foods_id": 52,
+    "name": "bơ mè tahini",
+    "name_no_accent": "bo me tahini",
+    "quantity": "3m",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "foods_id": 52,
+    "name": "dầu oliu",
+    "name_no_accent": "dau oliu",
+    "quantity": "1 chén nhỏ (extra vigin)",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "foods_id": 52,
+    "name": "chanh vàng",
+    "name_no_accent": "chanh vang",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "foods_id": 52,
+    "name": "chuối già",
+    "name_no_accent": "chuoi gia",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "foods_id": 52,
+    "name": "nho đen ko hạt",
+    "name_no_accent": "nho den ko hat",
+    "quantity": "10 quả",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "foods_id": 52,
+    "name": "cốm màu",
+    "name_no_accent": "com mau",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 52,
+    "foods_id": 52,
+    "name": "gia vị: đường, muối, tiêu, cốm màu",
+    "name_no_accent": "gia vi  duong  muoi  tieu  com mau",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "foods_id": 53,
+    "name": "cốt lết bỏ xương",
+    "name_no_accent": "cot let bo xuong",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "foods_id": 53,
+    "name": "giò sống",
+    "name_no_accent": "gio song",
+    "quantity": "70g",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "foods_id": 53,
+    "name": "trứng gà ta",
+    "name_no_accent": "trung ga ta",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "foods_id": 53,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "1 củ",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "foods_id": 53,
+    "name": "nấm mèo",
+    "name_no_accent": "nam meo",
+    "quantity": "5g",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "foods_id": 53,
+    "name": "nấm hương rừng sapa",
+    "name_no_accent": "nam huong rung sapa",
+    "quantity": "10g",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "foods_id": 53,
+    "name": "lá cải xanh",
+    "name_no_accent": "la cai xanh",
+    "quantity": "10 lá",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "foods_id": 53,
+    "name": "hành tím băm",
+    "name_no_accent": "hanh tim bam",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "foods_id": 53,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "hành lá",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 53,
+    "foods_id": 53,
+    "name": "gia vị: nước mắm, tiêu xay, dầu ăn, thuốc muối.",
+    "name_no_accent": "gia vi  nuoc mam  tieu xay  dau an  thuoc muoi ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "foods_id": 54,
+    "name": "thịt bò fillet",
+    "name_no_accent": "thit bo fillet",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "foods_id": 54,
+    "name": "nươc dùng gà",
+    "name_no_accent": "nuoc dung ga",
+    "quantity": "1 lít",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "foods_id": 54,
+    "name": "ớt sừng",
+    "name_no_accent": "ot sung",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "foods_id": 54,
+    "name": "ớt hiểm",
+    "name_no_accent": "ot hiem",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "foods_id": 54,
+    "name": "xuyên tiêu",
+    "name_no_accent": "xuyen tieu",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "foods_id": 54,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "foods_id": 54,
+    "name": "nấm đông cô khô",
+    "name_no_accent": "nam dong co kho",
+    "quantity": "15g",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "foods_id": 54,
+    "name": "hành tâycắt múi cau",
+    "name_no_accent": "hanh taycat mui cau",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "foods_id": 54,
+    "name": "ăn kèm: mì vàng, cải thìa",
+    "name_no_accent": "an kem  mi vang  cai thia",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 54,
+    "foods_id": 54,
+    "name": "gia vị:  dầu ăn, đường, muối, bột ngọt, tương ớt",
+    "name_no_accent": "gia vi  dau an  duong  muoi  bot ngot  tuong ot",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:56",
+    "updated_at": "2023-12-30 19:26:56"
+  },
+  {
+    "id": 55,
+    "foods_id": 55,
+    "name": "nếp ngỗng",
+    "name_no_accent": "nep ngong",
+    "quantity": "0,5kg",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "foods_id": 55,
+    "name": "thịt cua",
+    "name_no_accent": "thit cua",
+    "quantity": "200gr (thịt tươi không khai. không dùng thịt ghẹ)",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "foods_id": 55,
+    "name": "hành tím bắc",
+    "name_no_accent": "hanh tim bac",
+    "quantity": "200gr",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "foods_id": 55,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "200gr",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "foods_id": 55,
+    "name": "tôm khô (con nhỏ, đỏ)",
+    "name_no_accent": "tom kho  con nho  do ",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "foods_id": 55,
+    "name": "lá cẩm tươi 1 bó",
+    "name_no_accent": "la cam tuoi 1 bo",
+    "quantity": "500g",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 55,
+    "foods_id": 55,
+    "name": "gia vị:  dầu ăn, muối, tiêu, đường, mỡ hành",
+    "name_no_accent": "gia vi  dau an  muoi  tieu  duong  mo hanh",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "foods_id": 56,
+    "name": "bánh tráng",
+    "name_no_accent": "banh trang",
+    "quantity": "1 xấp",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "foods_id": 56,
+    "name": "đậu hũ chiên",
+    "name_no_accent": "dau hu chien",
+    "quantity": "1 miếng",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "foods_id": 56,
+    "name": "nấm tuyết",
+    "name_no_accent": "nam tuyet",
+    "quantity": "10g",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "foods_id": 56,
+    "name": "củ sắn",
+    "name_no_accent": "cu san",
+    "quantity": "200g",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "foods_id": 56,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "foods_id": 56,
+    "name": "bắp cải tím",
+    "name_no_accent": "bap cai tim",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "foods_id": 56,
+    "name": "rong biển sấy",
+    "name_no_accent": "rong bien say",
+    "quantity": "15g",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "foods_id": 56,
+    "name": "hành boaro",
+    "name_no_accent": "hanh boaro",
+    "quantity": "3m",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "foods_id": 56,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "foods_id": 56,
+    "name": "đậu phộng rang giã nhỏ",
+    "name_no_accent": "dau phong rang gia nho",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "foods_id": 56,
+    "name": "ớt băm",
+    "name_no_accent": "ot bam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 56,
+    "foods_id": 56,
+    "name": "gia vị:  dầu ăn, đường, tiêu, mè rang",
+    "name_no_accent": "gia vi  dau an  duong  tieu  me rang",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "foods_id": 57,
+    "name": "khoai lang nhật",
+    "name_no_accent": "khoai lang nhat",
+    "quantity": "100gr",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "foods_id": 57,
+    "name": "khoai mì",
+    "name_no_accent": "khoai mi",
+    "quantity": "100gr",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "foods_id": 57,
+    "name": "khoai tây",
+    "name_no_accent": "khoai tay",
+    "quantity": "100gr",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "foods_id": 57,
+    "name": "lá quế",
+    "name_no_accent": "la que",
+    "quantity": "10gr",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "foods_id": 57,
+    "name": "sữa chua không đường",
+    "name_no_accent": "sua chua khong duong",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "foods_id": 57,
+    "name": "mè trắng rang",
+    "name_no_accent": "me trang rang",
+    "quantity": "1m (giã nhuyễn)",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "foods_id": 57,
+    "name": "sữa đặc",
+    "name_no_accent": "sua dac",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 57,
+    "foods_id": 57,
+    "name": "gia vị: dầu ăn, bột ớt paprika",
+    "name_no_accent": "gia vi  dau an  bot ot paprika",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 58,
+    "foods_id": 58,
+    "name": "bò fillet",
+    "name_no_accent": "bo fillet",
+    "quantity": "400g",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 58,
+    "foods_id": 58,
+    "name": "tiêu xanh",
+    "name_no_accent": "tieu xanh",
+    "quantity": "2 nhánh",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 58,
+    "foods_id": 58,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 58,
+    "foods_id": 58,
+    "name": "gừng băm",
+    "name_no_accent": "gung bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 58,
+    "foods_id": 58,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "lá hương thảo",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 58,
+    "foods_id": 58,
+    "name": "gia vị:  tiêu, dầu ăn, đường, bột năng,",
+    "name_no_accent": "gia vi  tieu  dau an  duong  bot nang ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:57",
+    "updated_at": "2023-12-30 19:26:57"
+  },
+  {
+    "id": 59,
+    "foods_id": 59,
+    "name": "tôm sú bóc vỏ",
+    "name_no_accent": "tom su boc vo",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "foods_id": 59,
+    "name": "chôm chôm",
+    "name_no_accent": "chom chom",
+    "quantity": "20 quả",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "foods_id": 59,
+    "name": "đầu hành lá băm",
+    "name_no_accent": "dau hanh la bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "foods_id": 59,
+    "name": "ớt sừng băm",
+    "name_no_accent": "ot sung bam",
+    "quantity": "1/2m",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "foods_id": 59,
+    "name": "cọng ngò băm",
+    "name_no_accent": "cong ngo bam",
+    "quantity": "1/2m",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "foods_id": 59,
+    "name": "bột xù",
+    "name_no_accent": "bot xu",
+    "quantity": "250g",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "foods_id": 59,
+    "name": "trứng gà",
+    "name_no_accent": "trung ga",
+    "quantity": "2 quả",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "foods_id": 59,
+    "name": "bột mì",
+    "name_no_accent": "bot mi",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "foods_id": 59,
+    "name": "ăn kèm: dưa leo",
+    "name_no_accent": "an kem  dua leo",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 59,
+    "foods_id": 59,
+    "name": "gia vị:  tiêu, dầu ăn",
+    "name_no_accent": "gia vi  tieu  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 60,
+    "foods_id": 60,
+    "name": "tôm sú",
+    "name_no_accent": "tom su",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 60,
+    "foods_id": 60,
+    "name": "đậu hũ non",
+    "name_no_accent": "dau hu non",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 60,
+    "foods_id": 60,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 60,
+    "foods_id": 60,
+    "name": "hành lá cắt nhỏ",
+    "name_no_accent": "hanh la cat nho",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 60,
+    "foods_id": 60,
+    "name": "hành tím băm",
+    "name_no_accent": "hanh tim bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 60,
+    "foods_id": 60,
+    "name": "giò sống",
+    "name_no_accent": "gio song",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 60,
+    "foods_id": 60,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò rí, hành lá cắt rối",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 60,
+    "foods_id": 60,
+    "name": "gia vị:  tương cà, bột ngọt, dầu ăn, đường",
+    "name_no_accent": "gia vi  tuong ca  bot ngot  dau an  duong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:26:58",
+    "updated_at": "2023-12-30 19:26:58"
+  },
+  {
+    "id": 61,
+    "foods_id": 61,
+    "name": "sườn non",
+    "name_no_accent": "suon non",
+    "quantity": "600g",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 61,
+    "foods_id": 61,
+    "name": "trứng cút",
+    "name_no_accent": "trung cut",
+    "quantity": "12 quả",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 61,
+    "foods_id": 61,
+    "name": "dưa cải chua",
+    "name_no_accent": "dua cai chua",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 61,
+    "foods_id": 61,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 61,
+    "foods_id": 61,
+    "name": "ớt hiểm, ớt sừng",
+    "name_no_accent": "ot hiem  ot sung",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 61,
+    "foods_id": 61,
+    "name": "nước dừa tươi",
+    "name_no_accent": "nuoc dua tuoi",
+    "quantity": "1 chén",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 61,
+    "foods_id": 61,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "hành lá, ngò rí, hành tỏi băm",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 61,
+    "foods_id": 61,
+    "name": "ăn kèm: cơm nóng",
+    "name_no_accent": "an kem  com nong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 61,
+    "foods_id": 61,
+    "name": "gia vị:  tiêu, muối, đường, nước mắm, dầu ăn",
+    "name_no_accent": "gia vi  tieu  muoi  duong  nuoc mam  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:08",
+    "updated_at": "2023-12-30 19:27:08"
+  },
+  {
+    "id": 62,
+    "foods_id": 62,
+    "name": "nghêu",
+    "name_no_accent": "ngheu",
+    "quantity": "500g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "foods_id": 62,
+    "name": "thơm",
+    "name_no_accent": "thom",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "foods_id": 62,
+    "name": "sả",
+    "name_no_accent": "sa",
+    "quantity": "3 cây",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "foods_id": 62,
+    "name": "lá chanh thá",
+    "name_no_accent": "la chanh tha",
+    "quantity": "5 lá",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "foods_id": 62,
+    "name": "sả băm",
+    "name_no_accent": "sa bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "foods_id": 62,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "foods_id": 62,
+    "name": "hành tím băm",
+    "name_no_accent": "hanh tim bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "foods_id": 62,
+    "name": "lá quế",
+    "name_no_accent": "la que",
+    "quantity": "2 cây",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 62,
+    "foods_id": 62,
+    "name": "gia vị: dầu điều, nước mắm",
+    "name_no_accent": "gia vi  dau dieu  nuoc mam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 63,
+    "foods_id": 63,
+    "name": "tép bạc ruộng",
+    "name_no_accent": "tep bac ruong",
+    "quantity": "200g (lặt bỏ đầu, loại nhỏ)",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 63,
+    "foods_id": 63,
+    "name": "thịt ba chỉ",
+    "name_no_accent": "thit ba chi",
+    "quantity": "100g (cắt cọng đũa, chọn đầu giòn)",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 63,
+    "foods_id": 63,
+    "name": "bông điên điển",
+    "name_no_accent": "bong dien dien",
+    "quantity": "200g (loại còn búp, tươi, lặt rửa sạch)",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 63,
+    "foods_id": 63,
+    "name": "khế chua",
+    "name_no_accent": "khe chua",
+    "quantity": "2 trái (cắt cọng)",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 63,
+    "foods_id": 63,
+    "name": "ớt sừng cắt sợi",
+    "name_no_accent": "ot sung cat soi",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 63,
+    "foods_id": 63,
+    "name": "gia vị:  tiêu, muối, đường, dầu ăn, ngò rí, hành lá, hành tím, tỏi băm",
+    "name_no_accent": "gia vi  tieu  muoi  duong  dau an  ngo ri  hanh la  hanh tim  toi bam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "foods_id": 64,
+    "name": "má đùi gà rút xương",
+    "name_no_accent": "ma dui ga rut xuong",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "foods_id": 64,
+    "name": "xà lách mỡ",
+    "name_no_accent": "xa lach mo",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "foods_id": 64,
+    "name": "cà chua bi",
+    "name_no_accent": "ca chua bi",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "foods_id": 64,
+    "name": "bắp mỹ hạt",
+    "name_no_accent": "bap my hat",
+    "quantity": "20g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "foods_id": 64,
+    "name": "dưa leo",
+    "name_no_accent": "dua leo",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "foods_id": 64,
+    "name": "hành tỏi băm",
+    "name_no_accent": "hanh toi bam",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "foods_id": 64,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "húng lũi",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 64,
+    "foods_id": 64,
+    "name": "gia vị: nướng tương, hạt nêm, dầu ăn, bột ngọt, mật ong, tương cà, tương ớt",
+    "name_no_accent": "gia vi  nuong tuong  hat nem  dau an  bot ngot  mat ong  tuong ca  tuong ot",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "foods_id": 65,
+    "name": "tôm thẻ",
+    "name_no_accent": "tom the",
+    "quantity": "250g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "foods_id": 65,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "foods_id": 65,
+    "name": "rau muống",
+    "name_no_accent": "rau muong",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "foods_id": 65,
+    "name": "rau om, ngò gai",
+    "name_no_accent": "rau om  ngo gai",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "foods_id": 65,
+    "name": "hành tỏi băm",
+    "name_no_accent": "hanh toi bam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 65,
+    "foods_id": 65,
+    "name": "gia vị: dầu ăn, đường, nước mắm, tỏi phi",
+    "name_no_accent": "gia vi  dau an  duong  nuoc mam  toi phi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "foods_id": 66,
+    "name": "tôm sú (size 50 con/kg )",
+    "name_no_accent": "tom su  size 50 con kg  ",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "foods_id": 66,
+    "name": "thơm",
+    "name_no_accent": "thom",
+    "quantity": "1/4 trái",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "foods_id": 66,
+    "name": "cà chua chín đỏ",
+    "name_no_accent": "ca chua chin do",
+    "quantity": "2 quả",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "foods_id": 66,
+    "name": "bắp chuối bào",
+    "name_no_accent": "bap chuoi bao",
+    "quantity": "200g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "foods_id": 66,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1/2 củ",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "foods_id": 66,
+    "name": "lá rau quế",
+    "name_no_accent": "la rau que",
+    "quantity": "20g",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "foods_id": 66,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "foods_id": 66,
+    "name": "gia vị:  dầu ăn, rau om, ngò gai, nước mắm",
+    "name_no_accent": "gia vi  dau an  rau om  ngo gai  nuoc mam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 66,
+    "foods_id": 66,
+    "name": "ăn kèm: cơm hoặc bún",
+    "name_no_accent": "an kem  com hoac bun",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 67,
+    "foods_id": 67,
+    "name": "cá ngừ ngâm dầu",
+    "name_no_accent": "ca ngu ngam dau",
+    "quantity": "1 hộp",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 67,
+    "foods_id": 67,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1/3 củ",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 67,
+    "foods_id": 67,
+    "name": "xà lách",
+    "name_no_accent": "xa lach",
+    "quantity": "1 cây",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 67,
+    "foods_id": 67,
+    "name": "dưa leo",
+    "name_no_accent": "dua leo",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 67,
+    "foods_id": 67,
+    "name": "cà chua lớn",
+    "name_no_accent": "ca chua lon",
+    "quantity": "2 lát",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 67,
+    "foods_id": 67,
+    "name": "gia vị: tiêu",
+    "name_no_accent": "gia vi  tieu",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:10",
+    "updated_at": "2023-12-30 19:27:10"
+  },
+  {
+    "id": 68,
+    "foods_id": 68,
+    "name": "thịt bê cuộn",
+    "name_no_accent": "thit be cuon",
+    "quantity": "600g (có da bên ngoài )",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "foods_id": 68,
+    "name": "nước dừa tươi",
+    "name_no_accent": "nuoc dua tuoi",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "foods_id": 68,
+    "name": "sả cây",
+    "name_no_accent": "sa cay",
+    "quantity": "4 cây",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "foods_id": 68,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "4 cây (cắt 2cm)",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "foods_id": 68,
+    "name": "tỏi tép",
+    "name_no_accent": "toi tep",
+    "quantity": "5 tép",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "foods_id": 68,
+    "name": "dầu điều",
+    "name_no_accent": "dau dieu",
+    "quantity": "1 m",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "foods_id": 68,
+    "name": "chỉ coton",
+    "name_no_accent": "chi coton",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "foods_id": 68,
+    "name": "ăn kèm: dưa leo, rau thơm, ớt hiểm tươi xanh đỏ, rau mầm, dưa kiệu",
+    "name_no_accent": "an kem  dua leo  rau thom  ot hiem tuoi xanh do  rau mam  dua kieu",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 68,
+    "foods_id": 68,
+    "name": "gia vị: ngũ vị hương, hành tỏi băm, đường, muối, tiêu, dầu ăn.",
+    "name_no_accent": "gia vi  ngu vi huong  hanh toi bam  duong  muoi  tieu  dau an ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "foods_id": 69,
+    "name": "cream cheese",
+    "name_no_accent": "cream cheese",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "foods_id": 69,
+    "name": "vụn dừa rang",
+    "name_no_accent": "vun dua rang",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "foods_id": 69,
+    "name": "vỏ chanh mài",
+    "name_no_accent": "vo chanh mai",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "foods_id": 69,
+    "name": "xoài",
+    "name_no_accent": "xoai",
+    "quantity": "1/2 trái",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "foods_id": 69,
+    "name": "nho",
+    "name_no_accent": "nho",
+    "quantity": "5 trái",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "foods_id": 69,
+    "name": "dâu",
+    "name_no_accent": "dau",
+    "quantity": "5 trái",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "foods_id": 69,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "húng lủi",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 69,
+    "foods_id": 69,
+    "name": "gia vị:  trà sữa royal blendy",
+    "name_no_accent": "gia vi  tra sua royal blendy",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 70,
+    "foods_id": 70,
+    "name": "thịt băm",
+    "name_no_accent": "thit bam",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 70,
+    "foods_id": 70,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 70,
+    "foods_id": 70,
+    "name": "giá đỗ",
+    "name_no_accent": "gia do",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 70,
+    "foods_id": 70,
+    "name": "hành củ, tỏi củ, hành hoa, ngò om, ngò gai",
+    "name_no_accent": "hanh cu  toi cu  hanh hoa  ngo om  ngo gai",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 70,
+    "foods_id": 70,
+    "name": "gia vị: dầu ăn",
+    "name_no_accent": "gia vi  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "foods_id": 71,
+    "name": "cá diêu hồng",
+    "name_no_accent": "ca dieu hong",
+    "quantity": "800g",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "foods_id": 71,
+    "name": "dọc mùng",
+    "name_no_accent": "doc mung",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "foods_id": 71,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "foods_id": 71,
+    "name": "dứa",
+    "name_no_accent": "dua",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "foods_id": 71,
+    "name": "hành củ thái lát, hành lá và thì là",
+    "name_no_accent": "hanh cu thai lat  hanh la va thi la",
+    "quantity": "thái nhỏ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 71,
+    "foods_id": 71,
+    "name": "gia vị: dầu ăn",
+    "name_no_accent": "gia vi  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "foods_id": 72,
+    "name": "sườn non",
+    "name_no_accent": "suon non",
+    "quantity": "250g",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "foods_id": 72,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "80g",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "foods_id": 72,
+    "name": "dưa cải chua",
+    "name_no_accent": "dua cai chua",
+    "quantity": "80g",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "foods_id": 72,
+    "name": "rau om, ngò gai",
+    "name_no_accent": "rau om  ngo gai",
+    "quantity": "cắt nhỏ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "foods_id": 72,
+    "name": "hành tím băm",
+    "name_no_accent": "hanh tim bam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 72,
+    "foods_id": 72,
+    "name": "gia vị: dầu ăn, nước mắm",
+    "name_no_accent": "gia vi  dau an  nuoc mam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:12",
+    "updated_at": "2023-12-30 19:27:12"
+  },
+  {
+    "id": 73,
+    "foods_id": 73,
+    "name": "cá hồi",
+    "name_no_accent": "ca hoi",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "foods_id": 73,
+    "name": "lê",
+    "name_no_accent": "le",
+    "quantity": "1/2 trái",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "foods_id": 73,
+    "name": "táo đỏ",
+    "name_no_accent": "tao do",
+    "quantity": "1/2 trái",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "foods_id": 73,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1/2 củ",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "foods_id": 73,
+    "name": "gừng",
+    "name_no_accent": "gung",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "foods_id": 73,
+    "name": "cần tây",
+    "name_no_accent": "can tay",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "foods_id": 73,
+    "name": "ớt sừng",
+    "name_no_accent": "ot sung",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "foods_id": 73,
+    "name": "tiêu hạt",
+    "name_no_accent": "tieu hat",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "foods_id": 73,
+    "name": "tỏi",
+    "name_no_accent": "toi",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 73,
+    "foods_id": 73,
+    "name": "gia vị:  tiêu, dầu ăn",
+    "name_no_accent": "gia vi  tieu  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:15",
+    "updated_at": "2023-12-30 19:27:15"
+  },
+  {
+    "id": 74,
+    "foods_id": 74,
+    "name": "cá bớp/ cá đuối",
+    "name_no_accent": "ca bop  ca duoi",
+    "quantity": "250g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "foods_id": 74,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "foods_id": 74,
+    "name": "măng chua",
+    "name_no_accent": "mang chua",
+    "quantity": "200g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "foods_id": 74,
+    "name": "hành lá, ngò gai",
+    "name_no_accent": "hanh la  ngo gai",
+    "quantity": "cắt nhỏ",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "foods_id": 74,
+    "name": "hành tím băm",
+    "name_no_accent": "hanh tim bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "foods_id": 74,
+    "name": "tỏi phi",
+    "name_no_accent": "toi phi",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 74,
+    "foods_id": 74,
+    "name": "gia vị: dầu ăn, nước mắm",
+    "name_no_accent": "gia vi  dau an  nuoc mam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "foods_id": 75,
+    "name": "đậu hũ non",
+    "name_no_accent": "dau hu non",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "foods_id": 75,
+    "name": "trứng gà",
+    "name_no_accent": "trung ga",
+    "quantity": "2 quả",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "foods_id": 75,
+    "name": "rong biển wakame",
+    "name_no_accent": "rong bien wakame",
+    "quantity": "5g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "foods_id": 75,
+    "name": "nấm kim châm",
+    "name_no_accent": "nam kim cham",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "foods_id": 75,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "foods_id": 75,
+    "name": "nước dùng rau củ",
+    "name_no_accent": "nuoc dung rau cu",
+    "quantity": "1 lít",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "foods_id": 75,
+    "name": "boaro cắt nhỏ",
+    "name_no_accent": "boaro cat nho",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "foods_id": 75,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò rí",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 75,
+    "foods_id": 75,
+    "name": "gia vị: tiêu, đường, bột ngọt, nước tương, dầu mè",
+    "name_no_accent": "gia vi  tieu  duong  bot ngot  nuoc tuong  dau me",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "foods_id": 76,
+    "name": "cá lóc/cá hú/cá basa",
+    "name_no_accent": "ca loc ca hu ca basa",
+    "quantity": "250g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "foods_id": 76,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "foods_id": 76,
+    "name": "thơm",
+    "name_no_accent": "thom",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "foods_id": 76,
+    "name": "bạc hà",
+    "name_no_accent": "bac ha",
+    "quantity": "70g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "foods_id": 76,
+    "name": "giá",
+    "name_no_accent": "gia",
+    "quantity": "70g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "foods_id": 76,
+    "name": "đậu bắp",
+    "name_no_accent": "dau bap",
+    "quantity": "70g",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "foods_id": 76,
+    "name": "ngò gai, rau om",
+    "name_no_accent": "ngo gai  rau om",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "foods_id": 76,
+    "name": "hành tỏi băm",
+    "name_no_accent": "hanh toi bam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 76,
+    "foods_id": 76,
+    "name": "gia vị: dầu ăn, tỏi phi, đường, nước mắm",
+    "name_no_accent": "gia vi  dau an  toi phi  duong  nuoc mam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:18",
+    "updated_at": "2023-12-30 19:27:18"
+  },
+  {
+    "id": 77,
+    "foods_id": 77,
+    "name": "khoai tây",
+    "name_no_accent": "khoai tay",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "foods_id": 77,
+    "name": "thịt ba rọi xông khói",
+    "name_no_accent": "thit ba roi xong khoi",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "foods_id": 77,
+    "name": "ngò tây",
+    "name_no_accent": "ngo tay",
+    "quantity": "1 nhánh",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "foods_id": 77,
+    "name": "phô mai mozzarella",
+    "name_no_accent": "pho mai mozzarella",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 77,
+    "foods_id": 77,
+    "name": "gia vị: muối, tiêu, ớt bột",
+    "name_no_accent": "gia vi  muoi  tieu  ot bot",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "foods_id": 78,
+    "name": "bánh mì trắng (sandwich)",
+    "name_no_accent": "banh mi trang  sandwich ",
+    "quantity": "4 lát",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "foods_id": 78,
+    "name": "mứt cam",
+    "name_no_accent": "mut cam",
+    "quantity": "40g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "foods_id": 78,
+    "name": "phô mai kem ( cream cheese)",
+    "name_no_accent": "pho mai kem   cream cheese ",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "foods_id": 78,
+    "name": "hạnh nhân lát",
+    "name_no_accent": "hanh nhan lat",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "foods_id": 78,
+    "name": "trứng gà",
+    "name_no_accent": "trung ga",
+    "quantity": "2 quả",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "foods_id": 78,
+    "name": "dâu ngọt",
+    "name_no_accent": "dau ngot",
+    "quantity": "4 quả",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "foods_id": 78,
+    "name": "đường xay",
+    "name_no_accent": "duong xay",
+    "quantity": "10g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "foods_id": 78,
+    "name": "húng lủi",
+    "name_no_accent": "hung lui",
+    "quantity": "2 đọt",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 78,
+    "foods_id": 78,
+    "name": "bơ lạt",
+    "name_no_accent": "bo lat",
+    "quantity": "20g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "foods_id": 79,
+    "name": "cá liệt/ cá diêu hồng/ cá lóc",
+    "name_no_accent": "ca liet  ca dieu hong  ca loc",
+    "quantity": "250g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "foods_id": 79,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "foods_id": 79,
+    "name": "thơm",
+    "name_no_accent": "thom",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "foods_id": 79,
+    "name": "bạc hà (dọc mùng)",
+    "name_no_accent": "bac ha  doc mung ",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "foods_id": 79,
+    "name": "rau om (rau ngổ), hành lá",
+    "name_no_accent": "rau om  rau ngo   hanh la",
+    "quantity": "cắt nhỏ",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "foods_id": 79,
+    "name": "hành tím băm",
+    "name_no_accent": "hanh tim bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 79,
+    "foods_id": 79,
+    "name": "gia vị: dầu ăn, nước mắm",
+    "name_no_accent": "gia vi  dau an  nuoc mam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "foods_id": 80,
+    "name": "bánh tráng",
+    "name_no_accent": "banh trang",
+    "quantity": "1 xấp",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "foods_id": 80,
+    "name": "trứng gà",
+    "name_no_accent": "trung ga",
+    "quantity": "4 quả",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "foods_id": 80,
+    "name": "bắp cải",
+    "name_no_accent": "bap cai",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "foods_id": 80,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "foods_id": 80,
+    "name": "hành lá cắt nhỏ",
+    "name_no_accent": "hanh la cat nho",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 80,
+    "foods_id": 80,
+    "name": "gia vị:  dầu ăn,  tương ớt",
+    "name_no_accent": "gia vi  dau an  tuong ot",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:19",
+    "updated_at": "2023-12-30 19:27:19"
+  },
+  {
+    "id": 81,
+    "foods_id": 81,
+    "name": "cua biển",
+    "name_no_accent": "cua bien",
+    "quantity": "2 con (khoảng 1kg)",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 81,
+    "foods_id": 81,
+    "name": "ớt sừng",
+    "name_no_accent": "ot sung",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 81,
+    "foods_id": 81,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "2 cây",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 81,
+    "foods_id": 81,
+    "name": "tỏi tép",
+    "name_no_accent": "toi tep",
+    "quantity": "10 tép",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 81,
+    "foods_id": 81,
+    "name": "tắc",
+    "name_no_accent": "tac",
+    "quantity": "7 trái",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 81,
+    "foods_id": 81,
+    "name": "ớt băm",
+    "name_no_accent": "ot bam",
+    "quantity": "1/2 m",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 81,
+    "foods_id": 81,
+    "name": "gia vị:  bột mì, dầu ăn, đường, rau răm, tương ớt",
+    "name_no_accent": "gia vi  bot mi  dau an  duong  rau ram  tuong ot",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:35",
+    "updated_at": "2023-12-30 19:27:35"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "đùi gà không da, không xương",
+    "name_no_accent": "dui ga khong da  khong xuong",
+    "quantity": "600g (gà tam hoàng)",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "cà pháo tím",
+    "name_no_accent": "ca phao tim",
+    "quantity": "200g (trái to)",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "ớt sừng",
+    "name_no_accent": "ot sung",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "lá chúc",
+    "name_no_accent": "la chuc",
+    "quantity": "4 lá",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "hỗn hợp cà ry xanh thái",
+    "name_no_accent": "hon hop ca ry xanh thai",
+    "quantity": "2m (green curry paste thai)",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "cốt dừa",
+    "name_no_accent": "cot dua",
+    "quantity": "1 lít",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "lá húng quế",
+    "name_no_accent": "la hung que",
+    "quantity": "25g",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "đường tán",
+    "name_no_accent": "duong tan",
+    "quantity": "1 viên",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "đậu đũa chần",
+    "name_no_accent": "dau dua chan",
+    "quantity": "4 cọng",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "cốt chanh",
+    "name_no_accent": "cot chanh",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "lá rau bó xôi chần, xay nhuyễn",
+    "name_no_accent": "la rau bo xoi chan  xay nhuyen",
+    "quantity": "1 chén nhỏ",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò rí",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "ăn kèm: xôi trắng",
+    "name_no_accent": "an kem  xoi trang",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 82,
+    "foods_id": 82,
+    "name": "gia vị: dầu ăn, nước mắm",
+    "name_no_accent": "gia vi  dau an  nuoc mam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 83,
+    "foods_id": 83,
+    "name": "thịt ba rọi",
+    "name_no_accent": "thit ba roi",
+    "quantity": "500g",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 83,
+    "foods_id": 83,
+    "name": "hành tím lát",
+    "name_no_accent": "hanh tim lat",
+    "quantity": "2 củ",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 83,
+    "foods_id": 83,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 83,
+    "foods_id": 83,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1/2 củ nhỏ",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 83,
+    "foods_id": 83,
+    "name": "ớt sừng",
+    "name_no_accent": "ot sung",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 83,
+    "foods_id": 83,
+    "name": "hành lá",
+    "name_no_accent": "hanh la",
+    "quantity": "1 nhánh",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 83,
+    "foods_id": 83,
+    "name": "ăn kèm: cơm trắng, dưa leo.",
+    "name_no_accent": "an kem  com trang  dua leo ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 83,
+    "foods_id": 83,
+    "name": "gia vị:  dầu ăn, đường, nước mắm, rượu trắng.",
+    "name_no_accent": "gia vi  dau an  duong  nuoc mam  ruou trang ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "foods_id": 84,
+    "name": "nấm đông cô khô",
+    "name_no_accent": "nam dong co kho",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "foods_id": 84,
+    "name": "giò sống gà chay",
+    "name_no_accent": "gio song ga chay",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "foods_id": 84,
+    "name": "đậu hũ trắng",
+    "name_no_accent": "dau hu trang",
+    "quantity": "1/2 miếng",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "foods_id": 84,
+    "name": "cà rốt băm nhỏ",
+    "name_no_accent": "ca rot bam nho",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "foods_id": 84,
+    "name": "hành boaro băm",
+    "name_no_accent": "hanh boaro bam",
+    "quantity": "4m",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "foods_id": 84,
+    "name": "bông cải xanh",
+    "name_no_accent": "bong cai xanh",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "foods_id": 84,
+    "name": "ớt sừng cắt lát",
+    "name_no_accent": "ot sung cat lat",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "foods_id": 84,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò rí băm, ớt sừng băm",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 84,
+    "foods_id": 84,
+    "name": "gia vị: bột năng, dầu hào chay, dầu ăn, dầu mè",
+    "name_no_accent": "gia vi  bot nang  dau hao chay  dau an  dau me",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "foods_id": 85,
+    "name": "dồi trường",
+    "name_no_accent": "doi truong",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "foods_id": 85,
+    "name": "bông hẹ",
+    "name_no_accent": "bong he",
+    "quantity": "200g",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "foods_id": 85,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "foods_id": 85,
+    "name": "ớt chuông đỏ, vàng",
+    "name_no_accent": "ot chuong do  vang",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "foods_id": 85,
+    "name": "hành tỏi băm",
+    "name_no_accent": "hanh toi bam",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "foods_id": 85,
+    "name": "gừng",
+    "name_no_accent": "gung",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "foods_id": 85,
+    "name": "ăn kèm: cơm nóng",
+    "name_no_accent": "an kem  com nong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 85,
+    "foods_id": 85,
+    "name": "gia vị:  đường, tiêu, dầu ăn, rượu trắng, dầu hào",
+    "name_no_accent": "gia vi  duong  tieu  dau an  ruou trang  dau hao",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "foods_id": 86,
+    "name": "cá kèo",
+    "name_no_accent": "ca keo",
+    "quantity": "500g",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "foods_id": 86,
+    "name": "cà chua",
+    "name_no_accent": "ca chua",
+    "quantity": "2 quả",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "foods_id": 86,
+    "name": "thơm",
+    "name_no_accent": "thom",
+    "quantity": "1/2 quả",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "foods_id": 86,
+    "name": "nước dùng gà",
+    "name_no_accent": "nuoc dung ga",
+    "quantity": "1,8 lít",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "foods_id": 86,
+    "name": "bún tươi",
+    "name_no_accent": "bun tuoi",
+    "quantity": "500g",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "foods_id": 86,
+    "name": "ăn kèm: bông so đũa, điên điển, giá, bông bí, bắp chuối bào, rau muống, rau nhút, lá giang",
+    "name_no_accent": "an kem  bong so dua  dien dien  gia  bong bi  bap chuoi bao  rau muong  rau nhut  la giang",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "foods_id": 86,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "húng quế, rau om, ngò gai, ớt hiểm, tỏi phi",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 86,
+    "foods_id": 86,
+    "name": "gia vị:  muối, đường, nước mắm",
+    "name_no_accent": "gia vi  muoi  duong  nuoc mam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:36",
+    "updated_at": "2023-12-30 19:27:36"
+  },
+  {
+    "id": 87,
+    "foods_id": 87,
+    "name": "đùi tỏi gà",
+    "name_no_accent": "dui toi ga",
+    "quantity": "5 cái (loại nhỏ, tổng lượng khoảng 800gr)",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 87,
+    "foods_id": 87,
+    "name": "rau xà lách, đồ chua",
+    "name_no_accent": "rau xa lach  do chua",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 87,
+    "foods_id": 87,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1 củ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 87,
+    "foods_id": 87,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 87,
+    "foods_id": 87,
+    "name": "bơ lạt",
+    "name_no_accent": "bo lat",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 87,
+    "foods_id": 87,
+    "name": "gia vị:  đường vàng, ớt bột, muối, tiêu, bột đinh hương, lá oregano khô, mật ong, mù tạc vàng, dầu ăn, tương cà",
+    "name_no_accent": "gia vi  duong vang  ot bot  muoi  tieu  bot dinh huong  la oregano kho  mat ong  mu tac vang  dau an  tuong ca",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "thịt vịt 1/2 con",
+    "name_no_accent": "thit vit 1 2 con",
+    "quantity": "1,5 kg",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "dừa tươi",
+    "name_no_accent": "dua tuoi",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "bắp mỹ",
+    "name_no_accent": "bap my",
+    "quantity": "1/2 trái",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "sả",
+    "name_no_accent": "sa",
+    "quantity": "5 cây",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "tỏi băm",
+    "name_no_accent": "toi bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "nụ đinh hương",
+    "name_no_accent": "nu dinh huong",
+    "quantity": "2 nụ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "quế chi",
+    "name_no_accent": "que chi",
+    "quantity": "1 miếng nhỏ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "200g",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "cà chua tán",
+    "name_no_accent": "ca chua tan",
+    "quantity": "2,5m",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "hành tây bi",
+    "name_no_accent": "hanh tay bi",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "hành tây băm",
+    "name_no_accent": "hanh tay bam",
+    "quantity": "1m",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "ăn kèm: bánh mì",
+    "name_no_accent": "an kem  banh mi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 88,
+    "foods_id": 88,
+    "name": "gia vị: muối, đường, dầu ăn, bột năng, hành tím băm, tỏi băm, hành tây băm",
+    "name_no_accent": "gia vi  muoi  duong  dau an  bot nang  hanh tim bam  toi bam  hanh tay bam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "foods_id": 89,
+    "name": "thịt bò phi lê",
+    "name_no_accent": "thit bo phi le",
+    "quantity": "200g",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "foods_id": 89,
+    "name": "bông so đũa",
+    "name_no_accent": "bong so dua",
+    "quantity": "150g (bỏ nhụy)",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "foods_id": 89,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1/2 củ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "foods_id": 89,
+    "name": "ớt chuông đỏ",
+    "name_no_accent": "ot chuong do",
+    "quantity": "1/3 trái",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "foods_id": 89,
+    "name": "ớt chuông vàng",
+    "name_no_accent": "ot chuong vang",
+    "quantity": "1/3 trái",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "foods_id": 89,
+    "name": "hành tỏi băm",
+    "name_no_accent": "hanh toi bam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "foods_id": 89,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "hành lá, ngò rí",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 89,
+    "foods_id": 89,
+    "name": "gia vị:  tiêu, dầu hào, dầu ăn",
+    "name_no_accent": "gia vi  tieu  dau hao  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "foods_id": 90,
+    "name": "bánh phồng tôm gạo lứt",
+    "name_no_accent": "banh phong tom gao lut",
+    "quantity": "15 cái",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "foods_id": 90,
+    "name": "tôm đất",
+    "name_no_accent": "tom dat",
+    "quantity": "250g",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "foods_id": 90,
+    "name": "bắp hạt",
+    "name_no_accent": "bap hat",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "foods_id": 90,
+    "name": "đậu bi",
+    "name_no_accent": "dau bi",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "foods_id": 90,
+    "name": "ngò rí",
+    "name_no_accent": "ngo ri",
+    "quantity": "2 nhánh",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "foods_id": 90,
+    "name": "chanh dây",
+    "name_no_accent": "chanh day",
+    "quantity": "3 trái",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "foods_id": 90,
+    "name": "xà lách mỹ",
+    "name_no_accent": "xa lach my",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "foods_id": 90,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "ngò rí, húng lủi",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 90,
+    "foods_id": 90,
+    "name": "gia vị:  tiêu, muối",
+    "name_no_accent": "gia vi  tieu  muoi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 91,
+    "foods_id": 91,
+    "name": "thịt ba chỉ  500g",
+    "name_no_accent": "thit ba chi 500g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 91,
+    "foods_id": 91,
+    "name": "sả băm",
+    "name_no_accent": "sa bam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 91,
+    "foods_id": 91,
+    "name": "ớt băm",
+    "name_no_accent": "ot bam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 91,
+    "foods_id": 91,
+    "name": "gia vị:  dầu ăn",
+    "name_no_accent": "gia vi  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:37",
+    "updated_at": "2023-12-30 19:27:37"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "mít non (chọn loại còn sống hạt mít nhỏ, non, màu trắng)",
+    "name_no_accent": "mit non  chon loai con song hat mit nho  non  mau trang ",
+    "quantity": "600g",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "tàu hũ ky lá",
+    "name_no_accent": "tau hu ky la",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "sườn chay",
+    "name_no_accent": "suon chay",
+    "quantity": "3 miếng",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "củ sen",
+    "name_no_accent": "cu sen",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "30g",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "nước cốt dừa",
+    "name_no_accent": "nuoc cot dua",
+    "quantity": "1 chén",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "dừa tươi",
+    "name_no_accent": "dua tuoi",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "màu dầu điều",
+    "name_no_accent": "mau dau dieu",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "ớt xiêm",
+    "name_no_accent": "ot xiem",
+    "quantity": "3 trái",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "ớt hiểm đỏ",
+    "name_no_accent": "ot hiem do",
+    "quantity": "3 trái",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "rau om, ngò gai",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "ăn kèm: cơm trắng hoặc bánh mì",
+    "name_no_accent": "an kem  com trang hoac banh mi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 92,
+    "foods_id": 92,
+    "name": "gia vị: đậu phọng rang xay , boarô, sả 2 cây (đập dập, cắt khúc), dầu điều",
+    "name_no_accent": "gia vi  dau phong rang xay   boaro  sa 2 cay  dap dap  cat khuc   dau dieu",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:38",
+    "updated_at": "2023-12-30 19:27:38"
+  },
+  {
+    "id": 93,
+    "foods_id": 93,
+    "name": "ốc bươu đã tách vỏ   100g",
+    "name_no_accent": "oc buou da tach vo 100g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "foods_id": 93,
+    "name": "giò sống   250g",
+    "name_no_accent": "gio song 250g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "foods_id": 93,
+    "name": "mỡ heo   30g",
+    "name_no_accent": "mo heo 30g",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "foods_id": 93,
+    "name": "lá lốt  50 lá",
+    "name_no_accent": "la lot 50 la",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "foods_id": 93,
+    "name": "nấm mèo  1m",
+    "name_no_accent": "nam meo 1m",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "foods_id": 93,
+    "name": "nấm hương  1m",
+    "name_no_accent": "nam huong 1m",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "foods_id": 93,
+    "name": "tiêu xanh đập giập  2m",
+    "name_no_accent": "tieu xanh dap giap 2m",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "foods_id": 93,
+    "name": "rau dưa, salad",
+    "name_no_accent": "rau dua  salad",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "foods_id": 93,
+    "name": "mỡ hành  4m",
+    "name_no_accent": "mo hanh 4m",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "foods_id": 93,
+    "name": "cà chua bi đỏ và vàng  6 trái",
+    "name_no_accent": "ca chua bi do va vang 6 trai",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 93,
+    "foods_id": 93,
+    "name": "gia vị: hành tỏi băm, gừng băm, đồ chua sợi nhỏ, đường",
+    "name_no_accent": "gia vi  hanh toi bam  gung bam  do chua soi nho  duong",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "foods_id": 94,
+    "name": "bạch tuộc",
+    "name_no_accent": "bach tuoc",
+    "quantity": "500g",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "foods_id": 94,
+    "name": "cóc non",
+    "name_no_accent": "coc non",
+    "quantity": "120g",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "foods_id": 94,
+    "name": "sả non",
+    "name_no_accent": "sa non",
+    "quantity": "20g",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "foods_id": 94,
+    "name": "rau răm",
+    "name_no_accent": "rau ram",
+    "quantity": "10g",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "foods_id": 94,
+    "name": "sả, hành, tỏi xay",
+    "name_no_accent": "sa  hanh  toi xay",
+    "quantity": "30g (mỗi thứ 10g đem xay nhuyễn)",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "foods_id": 94,
+    "name": "gừng",
+    "name_no_accent": "gung",
+    "quantity": "1 củ nhỏ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "foods_id": 94,
+    "name": "ớt sừng",
+    "name_no_accent": "ot sung",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "foods_id": 94,
+    "name": "tắc",
+    "name_no_accent": "tac",
+    "quantity": "5  trái",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 94,
+    "foods_id": 94,
+    "name": "gia vị:  đường, nước mắm, tương ớt, dầu ăn.",
+    "name_no_accent": "gia vi  duong  nuoc mam  tuong ot  dau an ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 95,
+    "foods_id": 95,
+    "name": "bôt bánh rán pha sẵn chocolate",
+    "name_no_accent": "bot banh ran pha san chocolate",
+    "quantity": "1 gói",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 95,
+    "foods_id": 95,
+    "name": "quả tầm bóp chín",
+    "name_no_accent": "qua tam bop chin",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 95,
+    "foods_id": 95,
+    "name": "nước cốt tầm bóp",
+    "name_no_accent": "nuoc cot tam bop",
+    "quantity": "30ml",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 95,
+    "foods_id": 95,
+    "name": "đường bột",
+    "name_no_accent": "duong bot",
+    "quantity": "2m",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 95,
+    "foods_id": 95,
+    "name": "dâu tây",
+    "name_no_accent": "dau tay",
+    "quantity": "4 quả (cắt lát để trang trí)",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 95,
+    "foods_id": 95,
+    "name": "húng lủi",
+    "name_no_accent": "hung lui",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 95,
+    "foods_id": 95,
+    "name": "gia vị: đường, muối",
+    "name_no_accent": "gia vi  duong  muoi",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:39",
+    "updated_at": "2023-12-30 19:27:39"
+  },
+  {
+    "id": 96,
+    "foods_id": 96,
+    "name": "sườn non",
+    "name_no_accent": "suon non",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 96,
+    "foods_id": 96,
+    "name": "củ sen",
+    "name_no_accent": "cu sen",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 96,
+    "foods_id": 96,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "50g (tỉa hoa)",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 96,
+    "foods_id": 96,
+    "name": "bông a-ti-sô",
+    "name_no_accent": "bong a ti so",
+    "quantity": "1 cái  (khoảng 200-300g)",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 96,
+    "foods_id": 96,
+    "name": "hành tây",
+    "name_no_accent": "hanh tay",
+    "quantity": "1/2 củ",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 96,
+    "foods_id": 96,
+    "name": "hành tím",
+    "name_no_accent": "hanh tim",
+    "quantity": "2 củ (nướng sơ bóc vỏ)",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 96,
+    "foods_id": 96,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "hành lá, ngò rí",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 96,
+    "foods_id": 96,
+    "name": "gia vị: muối, nước mắm, tiêu",
+    "name_no_accent": "gia vi  muoi  nuoc mam  tieu",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "foods_id": 97,
+    "name": "đậu đỏ (loại hấp chín sẵn)",
+    "name_no_accent": "dau do  loai hap chin san ",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "foods_id": 97,
+    "name": "đậu cove nhật",
+    "name_no_accent": "dau cove nhat",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "foods_id": 97,
+    "name": "khoai lang",
+    "name_no_accent": "khoai lang",
+    "quantity": "150g",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "foods_id": 97,
+    "name": "thịt nguội (ham)",
+    "name_no_accent": "thit nguoi  ham ",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "foods_id": 97,
+    "name": "trứng gà",
+    "name_no_accent": "trung ga",
+    "quantity": "3 quả",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "foods_id": 97,
+    "name": "cam vàng",
+    "name_no_accent": "cam vang",
+    "quantity": "1 trái",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "foods_id": 97,
+    "name": "cà rốt",
+    "name_no_accent": "ca rot",
+    "quantity": "50g",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "foods_id": 97,
+    "name": "rau nêm",
+    "name_no_accent": "rau nem",
+    "quantity": "húng lủi",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 97,
+    "foods_id": 97,
+    "name": "gia vị:  bơ đậu phộng, sữa đặc",
+    "name_no_accent": "gia vi  bo dau phong  sua dac",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 98,
+    "foods_id": 98,
+    "name": "bột bánh ngàn lớp",
+    "name_no_accent": "bot banh ngan lop",
+    "quantity": "1 miếng (puff parstry 20cm-30cm - nhất hương)",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 98,
+    "foods_id": 98,
+    "name": "thịt nguội cắt lát",
+    "name_no_accent": "thit nguoi cat lat",
+    "quantity": "4 lát (vissan ham, loại ham square)",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 98,
+    "foods_id": 98,
+    "name": "phô mai lát",
+    "name_no_accent": "pho mai lat",
+    "quantity": "4 lát (cheddar sliced màu vàng cam sẽ đẹp)",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 98,
+    "foods_id": 98,
+    "name": "trứng gà",
+    "name_no_accent": "trung ga",
+    "quantity": "1 quả",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 98,
+    "foods_id": 98,
+    "name": "ăn kèm: salad dầu giấm",
+    "name_no_accent": "an kem  salad dau giam",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 99,
+    "foods_id": 99,
+    "name": "cá hồi xông khói",
+    "name_no_accent": "ca hoi xong khoi",
+    "quantity": "100g",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 99,
+    "foods_id": 99,
+    "name": "tôm sú size 60",
+    "name_no_accent": "tom su size 60",
+    "quantity": "200g",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 99,
+    "foods_id": 99,
+    "name": "cơm gạo nhật (cơm dẻo)",
+    "name_no_accent": "com gao nhat  com deo ",
+    "quantity": "2/3 chén",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 99,
+    "foods_id": 99,
+    "name": "rong biển chiên cắt sợi",
+    "name_no_accent": "rong bien chien cat soi",
+    "quantity": "4m",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 99,
+    "foods_id": 99,
+    "name": "thì là",
+    "name_no_accent": "thi la",
+    "quantity": "4 cây",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 99,
+    "foods_id": 99,
+    "name": "gia vị:  muối, mè rang, tương ớt.",
+    "name_no_accent": "gia vi  muoi  me rang  tuong ot ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 100,
+    "foods_id": 100,
+    "name": "sụn gà",
+    "name_no_accent": "sun ga",
+    "quantity": "300g",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 100,
+    "foods_id": 100,
+    "name": "lá cà ri tươi",
+    "name_no_accent": "la ca ri tuoi",
+    "quantity": "3 nhánh",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 100,
+    "foods_id": 100,
+    "name": "ớt xiêm xanh",
+    "name_no_accent": "ot xiem xanh",
+    "quantity": "10g",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 100,
+    "foods_id": 100,
+    "name": "ăn kèm: xà lách, đồ chua.",
+    "name_no_accent": "an kem  xa lach  do chua ",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  },
+  {
+    "id": 100,
+    "foods_id": 100,
+    "name": "gia vị: dầu ăn",
+    "name_no_accent": "gia vi  dau an",
+    "quantity": " ",
+    "created_at": "2023-12-30 19:27:40",
+    "updated_at": "2023-12-30 19:27:40"
+  }
+]
